@@ -4,7 +4,9 @@
 `<app>-cli mcp`, протокол stdio. Отдельных репозиториев под MCP нет, поэтому поиск по
 слову «mcp» в названиях ничего не находит.
 
-**Проверено на этой машине только для EffectCraft 0.17.0** (2026-10-25):
+**Проверено на этой машине** (2026-10-25): EffectCraft 0.17.0, FilmCraft 0.13.0,
+PhotoCraft 0.16.0, VectorCraft 0.17.0, SoundCraft 0.13.1. Подробности в разделах ниже.
+EffectCraft:
 
 - путь к CLI `C:\Program Files\EffectCraft\effectcraft-cli.exe`;
 - MCP-сервер отдаёт 27 инструментов;
@@ -79,6 +81,47 @@
 У FilmCraft нет флагов, ограничивающих доступ к папкам (`--automation-read-root`): сервер
 может читать и писать везде, куда может пользователь.
 
+## PhotoCraft, VectorCraft, SoundCraft
+
+Подключены 2026-10-25 хуком `SessionStart`. Проверка: сервер запущен вручную по stdio,
+`initialize` → `tools/list` → создание документа → сохранение в файл.
+
+| Программа | Сервер | Инструментов | Проверено |
+|---|---|---|---|
+| PhotoCraft 0.16.0 | `photocraft` → `mcp --automation-read-root C:/projects --automation-write-root C:/projects` | 26 | `doc_new`, `doc_save` (png, jpg, webp), `doc_open` |
+| VectorCraft 0.17.0 | `vectorcraft` → `mcp` | 32 | `draw_shape` (звезда), `export` в svg |
+| SoundCraft 0.13.1 | `soundcraft` → `mcp` | 17 | `new_session {template: demo}`, `bounce_mix` 2 с в wav (`lufs`, `peak_db` в ответе) |
+
+После перезапуска сессии все три сервера видны в Claude Code и отвечают (2026-10-25).
+У `soundcraft` `inspect_session {detail: "summary"}` всё равно возвращает почти всю сессию
+(у демо-сессии это около 600 строк JSON). Для точечных вопросов это много.
+
+**Доступ к файлам:**
+
+- **PhotoCraft в режиме без окна без корней не трогает ни одного файла.** Любой путь
+  отклоняется: «automation path rejected: drive, device and stream prefixes are not
+  allowed». Каждый флаг можно указать только один раз (`cannot be used multiple times`).
+  Корень `C:/` принимается. Пользователь выбрал `C:/projects` на чтение и запись: пути вне
+  него отклоняются («absolute paths must be inside the automation root»), относительные
+  пути считаются от корня. Корни прописаны в `setup-mcp.ps1`.
+- **PhotoCraft не создаёт папку для сохранения.** Если её нет, `doc_save` падает с
+  `NotFound`. Создайте папку заранее.
+- VectorCraft и SoundCraft без флагов читают и пишут везде, куда может пользователь.
+  Флаги корней у них можно повторять. Если их задать, разрешено только внутри.
+
+**Режим с окном** (по `--help`, не проверено):
+
+- PhotoCraft: окно `photocraft --control <порт>`, MCP `mcp --bridge <порт>`. Нужен токен
+  (`--control-token`, `--control-token-file` или `PHOTOCRAFT_CONTROL_TOKEN`). В этом режиме
+  корни задаются у программы, а у MCP флаги корней запрещены.
+- VectorCraft: `vectorcraft-cli mcp` без флагов сам подключается к окну на
+  127.0.0.1:7979 (`vectorcraft --control 7979`), а если окна нет, работает без него.
+  `--connect ADDR` задаёт другой адрес, `--headless` запрещает подключение. Флаги корней
+  включают режим без окна.
+- SoundCraft: окно `soundcraft --control 0`, MCP `mcp --connect <порт>`. Инструменты с
+  пометкой APP_ONLY (скриншот, клики) работают только так. Есть и `soundcraft-cli app
+  [--port P] METHOD [JSON]` для разовых вызовов в окно.
+
 ## Как узнать, что установлено
 
 `shared-claude-skills\skills\craft-apps\scripts\status.ps1 -Online` показывает по каждой
@@ -100,12 +143,14 @@
 C:\Program Files\EffectCraft\effectcraft-cli.exe
 C:\Program Files\FilmCraft\filmcraft-cli.exe
 C:\Program Files\LightCraft\lightcraft-cli.exe
-C:\Program Files\PhotoCraft\photocraft-cli.exe     # путь по аналогии, проверить
-C:\Program Files\VectorCraft\vectorcraft-cli.exe   # путь по аналогии, проверить
+C:\Program Files\PhotoCraft\photocraft-cli.exe
+C:\Program Files\VectorCraft\vectorcraft-cli.exe
+C:\Program Files\SoundCraft\soundcraft-cli.exe
 ```
 
-Для EffectCraft, FilmCraft и LightCraft эти пути указаны в документации. Для остальных
-предполагаю тот же шаблон. Лаунчер может ставить и в другую папку, так что после
+Пути EffectCraft, FilmCraft, PhotoCraft, VectorCraft и SoundCraft проверены на этой машине
+(2026-10-25), путь LightCraft взят из документации. Для остальных предполагаю тот же
+шаблон. Лаунчер может ставить и в другую папку, так что после
 установки путь нужно проверить.
 
 На macOS CLI идёт отдельным архивом `<app>-cli-<ver>-macos-universal.zip`.
@@ -126,18 +171,21 @@ C:\Program Files\VectorCraft\vectorcraft-cli.exe   # путь по аналог�
 | VectorCraft | 7979 |
 | LightCraft | 7980 |
 
-Флаг режима с окном отличается: у EffectCraft и FilmCraft `--bridge`, у LightCraft
-`--connect`. Точный синтаксис смотрите в `docs/agents.md` или `docs/mcp.md` нужной программы.
+Флаг режима с окном отличается: у EffectCraft, FilmCraft и PhotoCraft `--bridge`, у
+LightCraft, VectorCraft и SoundCraft `--connect`. Точный синтаксис смотрите в `--help`,
+`docs/agents.md` или `docs/mcp.md` нужной программы.
 
-Чтобы ограничить, какие файлы агент читает и пишет (PhotoCraft, VectorCraft):
-`mcp --automation-read-root <папка> --automation-write-root <папка>`.
+Чтобы ограничить, какие файлы агент читает и пишет (PhotoCraft, VectorCraft, SoundCraft):
+`mcp --automation-read-root <папка> --automation-write-root <папка>`. У PhotoCraft без них
+файлы недоступны вовсе (см. выше).
 
 ## Подключение к Claude Code
 
 ```powershell
 # Для всех проектов (user scope): записывается в ~/.claude.json
 claude mcp add --scope user effectcraft -- "C:\Program Files\EffectCraft\effectcraft-cli.exe" mcp
-claude mcp add --scope user photocraft  -- "C:\Program Files\PhotoCraft\photocraft-cli.exe" mcp
+claude mcp add --scope user photocraft  -- "C:\Program Files\PhotoCraft\photocraft-cli.exe" mcp --automation-read-root C:/projects --automation-write-root C:/projects
+claude mcp add --scope user soundcraft  -- "C:\Program Files\SoundCraft\soundcraft-cli.exe" mcp
 claude mcp add --scope user lightcraft  -- "C:\Program Files\LightCraft\lightcraft-cli.exe" mcp
 claude mcp add --scope user filmcraft   -- "C:\Program Files\FilmCraft\filmcraft-cli.exe" mcp
 claude mcp add --scope user vectorcraft -- "C:\Program Files\VectorCraft\vectorcraft-cli.exe" mcp
