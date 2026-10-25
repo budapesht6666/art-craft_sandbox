@@ -3,6 +3,14 @@ sandbox/**/*.mp4
 sandbox/**/*.mov
 sandbox/**/*.webm
 sandbox/**/*.exr
+sandbox/**/*.mp3
+sandbox/**/*.wav
+sandbox/**/Audio Files/
+# Вырезки из чужого ролика и проект с ними (26 МБ, векторные копии рисунков): только локально
+sandbox/whiteboard/assets/
+sandbox/whiteboard/whiteboard.ecproj
+
+__pycache__/
 
 .claude/settings.local.json
 Thumbs.db
