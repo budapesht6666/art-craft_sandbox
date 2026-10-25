@@ -49,7 +49,13 @@
 - [x] Скрипт проверки состояния `status.ps1 -Online` (в скилле): что установлено, что
       устарело, что подключено к MCP. На 2026-10-25 стоят только EffectCraft 0.17.0 и
       лаунчер 0.8.1.
-- [ ] Поставить PhotoCraft, LightCraft и другие программы, затем запустить `setup-mcp.ps1`.
+- [x] Установлен FilmCraft 0.13.0. MCP `filmcraft` проверен: демо-проект открывается,
+      кадр рендерится.
+- [x] Автообновление в лаунчере включено. Хук `SessionStart` запускает `setup-mcp.ps1 -Quiet`.
+- [ ] Перенести хук из `.claude/settings.local.json` проекта в `~/.claude/settings.json` и
+      записать путь прямыми слэшами (см. [kb/mcp.md](kb/mcp.md)).
+- [ ] Проверить `filmcraft-app` на живом окне (возможно, нужен `FILMCRAFT_CONTROL_TOKEN`).
+- [ ] Поставить PhotoCraft, LightCraft и другие программы по мере надобности.
 - [ ] Проба для `remotion-skill`: Lottie-плашка из EffectCraft в композиции `KineticText`.
 
 ## Как это устроено

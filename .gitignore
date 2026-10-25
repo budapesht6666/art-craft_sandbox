@@ -7,3 +7,6 @@ sandbox/**/*.exr
 .claude/settings.local.json
 Thumbs.db
 .DS_Store
+
+# Личные пробы пользователя, не для публичного репозитория
+whiteboard-crypto_test/

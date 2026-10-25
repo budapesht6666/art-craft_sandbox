@@ -27,6 +27,55 @@
 Команда `claude` на этой машине не в `PATH` у PowerShell. Полный путь:
 `%USERPROFILE%\.local\bin\claude.exe`.
 
+## Автоподключение новых программ (хук SessionStart)
+
+`setup-mcp.ps1 -Quiet` молчит, если ничего не добавил, и отрабатывает за 0,7 с. Поэтому
+его можно запускать хуком при каждом старте сессии.
+
+Ловушки (проверено 2026-10-25):
+
+- **Где хук.** В `.claude/settings.local.json` проекта хук работает только в этой папке.
+  Чтобы новые программы подключались при старте в любом проекте, хук нужен в
+  `~/.claude/settings.json`.
+- **Слэши.** Путь пишите прямыми слэшами (`C:/projects/...`). Обратные слэши bash
+  съедает, и получается `C:projectsclaude...`.
+- **Проверка.** Время последнего запуска хука лежит в
+  `%LOCALAPPDATA%\craft-apps\setup-mcp-last-run.txt`.
+- **PowerShell 5.1 не разбирает `~/.claude.json` через `ConvertFrom-Json`**: в списке
+  проектов пути повторяются с разным регистром буквы диска. Скрипт читает файл через
+  `JavaScriptSerializer`.
+
+```json
+"hooks": {
+  "SessionStart": [
+    {
+      "matcher": "startup",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "powershell -NoProfile -ExecutionPolicy Bypass -File C:/projects/claude/shared-claude-skills/skills/craft-apps/scripts/setup-mcp.ps1 -Quiet",
+          "timeout": 30
+        }
+      ]
+    }
+  ]
+}
+```
+
+## FilmCraft
+
+Проверено 2026-10-25, FilmCraft 0.13.0:
+
+- `filmcraft` (без окна) стартует с пустым проектом;
+- `file.openDemoProject` открывает демо-проект (последовательность 21);
+- `render_frame {seconds: 2}` отдаёт кадр.
+
+Время в FilmCraft считается в тиках: 254016000000 на секунду. Команды принимают и `seconds`,
+`frame` или `timecode`.
+
+У FilmCraft нет флагов, ограничивающих доступ к папкам (`--automation-read-root`): сервер
+может читать и писать везде, куда может пользователь.
+
 ## Как узнать, что установлено
 
 `shared-claude-skills\skills\craft-apps\scripts\status.ps1 -Online` показывает по каждой

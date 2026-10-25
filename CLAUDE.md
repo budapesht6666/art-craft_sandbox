@@ -42,6 +42,10 @@ ArtCraft и 13 бесплатных Craft-программ (EffectCraft, PhotoCr
 
 ## MCP
 
-`effectcraft` (без окна, `--autosave`) и `effectcraft-app` (живое окно, порт 9877)
-подключены на уровне пользователя в `~/.claude.json`. Новые программы подключает
-`setup-mcp.ps1`. Подробности в `kb/mcp.md`.
+Подключены на уровне пользователя в `~/.claude.json`:
+
+- `effectcraft` (без окна, `--autosave`) и `effectcraft-app` (живое окно, порт 9877);
+- `filmcraft` (без окна) и `filmcraft-app` (живое окно, порт 9876, не проверен).
+
+Новые программы подключает `setup-mcp.ps1`: сам по хуку `SessionStart` или вручную.
+Подробности в `kb/mcp.md`.
