@@ -44,7 +44,7 @@
       работает во всех проектах. Там же скрипты `setup-mcp.ps1` и `start-live.ps1`.
 - [x] `effectcraft-app` проверен на живом окне (запуск через `start-live.ps1`): видит
       проект, двигает ползунок времени, делает скриншоты. Рендер идёт на GPU (AMD Radeon, Vulkan).
-- [x] Тестовая плашка лежит в [sandbox/](sandbox/): `plate.ecproj` (проект), `plate.json`
+- [x] Тестовая плашка лежит в [sandbox/effectcraft-plate/](sandbox/effectcraft-plate/): `plate.ecproj` (проект), `plate.json`
       (Lottie), `frame.png` (кадр на 1 с).
 - [x] Скрипт проверки состояния `status.ps1 -Online` (в скилле): что установлено, что
       устарело, что подключено к MCP. На 2026-10-25 стоят только EffectCraft 0.17.0 и
