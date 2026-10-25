@@ -1,0 +1,107 @@
+# MCP: Craft-программы и Claude Code
+
+В каждую Craft-программу встроен MCP-сервер. Он запускается через CLI самой программы:
+`<app>-cli mcp`, протокол stdio. Отдельных репозиториев под MCP нет, поэтому поиск по
+слову «mcp» в названиях ничего не находит.
+
+**Проверено на этой машине только для EffectCraft 0.17.0** (2026-10-25):
+
+- путь к CLI `C:\Program Files\EffectCraft\effectcraft-cli.exe`;
+- MCP-сервер отдаёт 27 инструментов;
+- `run_script`, `file.exportLottie`, `save_project` и `render-frame` работают.
+
+Остальное взято из README, `docs/agents.md` и `docs/mcp.md` репозиториев.
+
+Подключено на уровне пользователя:
+
+- `effectcraft` → `effectcraft-cli.exe mcp --autosave`
+- `effectcraft-app` → `effectcraft-cli.exe mcp --bridge 9877`. Работает только с окном,
+  запущенным с `--control 9877`. Обычный запуск порт не открывает, это проверено. Есть
+  скрипт `shared-claude-skills\skills\craft-apps\scripts\start-live.ps1`.
+
+У канала управления нет авторизации (только 127.0.0.1), постоянно его не включать.
+
+Новые программы регистрирует скрипт `shared-claude-skills\skills\craft-apps\scripts\setup-mcp.ps1`
+(есть `-WhatIf`).
+
+Команда `claude` на этой машине не в `PATH` у PowerShell. Полный путь:
+`C:\Users\Pavel\.local\bin\claude.exe`.
+
+## Где лежит CLI
+
+На Windows MSI-установщик кладёт CLI рядом с программой, но в `PATH` не добавляет:
+
+```
+C:\Program Files\EffectCraft\effectcraft-cli.exe
+C:\Program Files\FilmCraft\filmcraft-cli.exe
+C:\Program Files\LightCraft\lightcraft-cli.exe
+C:\Program Files\PhotoCraft\photocraft-cli.exe     # путь по аналогии, проверить
+C:\Program Files\VectorCraft\vectorcraft-cli.exe   # путь по аналогии, проверить
+```
+
+Для EffectCraft, FilmCraft и LightCraft эти пути указаны в документации. Для остальных
+предполагаю тот же шаблон. Лаунчер может ставить и в другую папку, так что после
+установки путь нужно проверить.
+
+На macOS CLI идёт отдельным архивом `<app>-cli-<ver>-macos-universal.zip`.
+
+## Два режима
+
+| Режим | Команда | Что даёт |
+|---|---|---|
+| Без окна | `<app>-cli mcp [файлы/папки]` (`--demo` открывает демо-проект) | Движок без интерфейса: открыть, изменить, отрендерить, экспортировать. Подходит для автоматизации |
+| С окном | программа запущена с `--control <порт>`, а MCP подключается к ней (`--bridge <порт>` или `--connect 127.0.0.1:<порт>`) | Работа в живом окне: скриншоты, клики, жесты. Видно, что делает агент |
+
+Порты по умолчанию из примеров:
+
+| Программа | Порт |
+|---|---|
+| FilmCraft | 9876 |
+| EffectCraft | 9877 |
+| VectorCraft | 7979 |
+| LightCraft | 7980 |
+
+Флаг режима с окном отличается: у EffectCraft и FilmCraft `--bridge`, у LightCraft
+`--connect`. Точный синтаксис смотрите в `docs/agents.md` или `docs/mcp.md` нужной программы.
+
+Чтобы ограничить, какие файлы агент читает и пишет (PhotoCraft, VectorCraft):
+`mcp --automation-read-root <папка> --automation-write-root <папка>`.
+
+## Подключение к Claude Code
+
+```powershell
+# Для всех проектов (user scope): записывается в ~/.claude.json
+claude mcp add --scope user effectcraft -- "C:\Program Files\EffectCraft\effectcraft-cli.exe" mcp
+claude mcp add --scope user photocraft  -- "C:\Program Files\PhotoCraft\photocraft-cli.exe" mcp
+claude mcp add --scope user lightcraft  -- "C:\Program Files\LightCraft\lightcraft-cli.exe" mcp
+claude mcp add --scope user filmcraft   -- "C:\Program Files\FilmCraft\filmcraft-cli.exe" mcp
+claude mcp add --scope user vectorcraft -- "C:\Program Files\VectorCraft\vectorcraft-cli.exe" mcp
+
+# Только для одного проекта (project scope): пишется в .mcp.json в корне проекта, коммитится
+claude mcp add --scope project effectcraft -- "C:\Program Files\EffectCraft\effectcraft-cli.exe" mcp
+```
+
+Проверка: `claude mcp list`, затем в сессии `/mcp`.
+
+Если это не помогает:
+
+- Запустить CLI вручную (`& "C:\Program Files\EffectCraft\effectcraft-cli.exe" --help`)
+  и посмотреть, что он пишет.
+- После переустановки или обновления программы перезапустить MCP-подключения.
+
+## Чем ещё можно управлять без MCP
+
+Каждая программа принимает разовые CLI-вызовы с JSON на выходе. Их удобно вызывать из
+скриптов `remotion-skill`:
+
+```sh
+effectcraft-cli render --comp Main --out main.mp4
+effectcraft-cli exec file.exportLottie '{"comp":"Main","path":"main.json"}' main.ecproj
+effectcraft-cli set Main '#1' transform/position '[100,360]' --time 0 main.ecproj --save
+
+photocraft-cli run wave.psd \
+  --cmd filter.sharpen.smartSharpen --params '{"amount":80}' \
+  --out wave-final.png
+
+filmcraft-cli commands      # список всех команд движка
+```

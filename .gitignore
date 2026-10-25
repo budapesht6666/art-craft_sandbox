@@ -1,0 +1,9 @@
+# Тяжёлые рендеры: в репозиторий только проекты, Lottie и контрольные кадры
+sandbox/**/*.mp4
+sandbox/**/*.mov
+sandbox/**/*.webm
+sandbox/**/*.exr
+
+.claude/settings.local.json
+Thumbs.db
+.DS_Store
