@@ -46,6 +46,9 @@
       проект, двигает ползунок времени, делает скриншоты. Рендер идёт на GPU (AMD Radeon, Vulkan).
 - [x] Тестовая плашка лежит в [sandbox/](sandbox/): `plate.ecproj` (проект), `plate.json`
       (Lottie), `frame.png` (кадр на 1 с).
+- [x] Скрипт проверки состояния `status.ps1 -Online` (в скилле): что установлено, что
+      устарело, что подключено к MCP. На 2026-10-25 стоят только EffectCraft 0.17.0 и
+      лаунчер 0.8.1.
 - [ ] Поставить PhotoCraft, LightCraft и другие программы, затем запустить `setup-mcp.ps1`.
 - [ ] Проба для `remotion-skill`: Lottie-плашка из EffectCraft в композиции `KineticText`.
 

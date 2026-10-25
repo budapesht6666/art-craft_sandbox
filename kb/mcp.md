@@ -25,7 +25,20 @@
 (есть `-WhatIf`).
 
 Команда `claude` на этой машине не в `PATH` у PowerShell. Полный путь:
-`C:\Users\Pavel\.local\bin\claude.exe`.
+`%USERPROFILE%\.local\bin\claude.exe`.
+
+## Как узнать, что установлено
+
+`shared-claude-skills\skills\craft-apps\scripts\status.ps1 -Online` показывает по каждой
+программе: установленную версию (из реестра Windows, куда MSI пишет установку), свежую
+версию на GitHub, есть ли CLI и подключён ли MCP.
+
+Вручную: «Установка и удаление программ» в Windows (издатель Learning Machines LLC) или
+папки `C:\Program Files\*Craft`.
+
+Автообновление в лаунчере по умолчанию выключено (`auto_update:false` в
+`%APPDATA%\ai.storyteller.artcraft-launcher\data\app.ron`). Сам лаунчер обновляется:
+за день он поднялся с 0.7.0 до 0.8.1.
 
 ## Где лежит CLI
 
