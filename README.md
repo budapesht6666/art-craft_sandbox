@@ -44,10 +44,11 @@
       работает во всех проектах. Там же скрипты `setup-mcp.ps1` и `start-live.ps1`.
 - [x] `effectcraft-app` проверен на живом окне (запуск через `start-live.ps1`): видит
       проект, двигает ползунок времени, делает скриншоты. Рендер идёт на GPU (AMD Radeon, Vulkan).
-- [x] Тестовая плашка лежит в [sandbox/effectcraft-plate/](sandbox/effectcraft-plate/): `plate.ecproj` (проект), `plate.json`
-      (Lottie), `frame.png` (кадр на 1 с).
+- [x] Тестовая плашка лежит в [sandbox/effectcraft-plate/](sandbox/effectcraft-plate/): `plate.ecproj` (проект), `out/plate.json`
+      (Lottie), `out/frame.png` (кадр на 1 с).
 - [x] Скрипт проверки состояния `status.ps1 -Online` (в скилле): что установлено, что
-      устарело, что подключено к MCP. На 2026-10-25 стоят только EffectCraft 0.17.0 и
+      устарело, что подключено к MCP. На 2026-10-25 стоят EffectCraft 0.17.0,
+      FilmCraft 0.13.0, PhotoCraft 0.16.0, VectorCraft 0.17.0, SoundCraft 0.13.1 и
       лаунчер 0.8.1.
 - [x] Установлен FilmCraft 0.13.0. MCP `filmcraft` проверен: демо-проект открывается,
       кадр рендерится.
@@ -55,7 +56,15 @@
 - [ ] Перенести хук из `.claude/settings.local.json` проекта в `~/.claude/settings.json` и
       записать путь прямыми слэшами (см. [kb/mcp.md](kb/mcp.md)).
 - [ ] Проверить `filmcraft-app` на живом окне (возможно, нужен `FILMCRAFT_CONTROL_TOKEN`).
-- [ ] Поставить PhotoCraft, LightCraft и другие программы по мере надобности.
+- [x] Установлены PhotoCraft 0.16.0, VectorCraft 0.17.0 и SoundCraft 0.13.1 (2026-10-25).
+      MCP `photocraft`, `vectorcraft`, `soundcraft` подключены хуком и проверены: документ
+      создаётся и сохраняется в файл. PhotoCraft работает с файлами только внутри
+      `C:/projects` (см. [kb/mcp.md](kb/mcp.md)).
+- [ ] Проверить режим с окном у PhotoCraft (`--bridge` + токен), VectorCraft (порт 7979)
+      и SoundCraft (`--connect`) и завести для них серверы `-app`. Пока не нужно (2026-10-25).
+- [ ] Проба на настоящей задаче для PhotoCraft, VectorCraft и SoundCraft (обработка фото,
+      векторный рисунок, сведение трека). Пока проверены только простые действия.
+- [ ] Поставить LightCraft и другие программы по мере надобности.
 - [ ] Проба для `remotion-skill`: Lottie-плашка из EffectCraft в композиции `KineticText`.
 
 ## Как это устроено

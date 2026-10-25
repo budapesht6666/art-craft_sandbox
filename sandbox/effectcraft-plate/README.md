@@ -22,8 +22,8 @@
 | Файл | Что это |
 |---|---|
 | `plate.ecproj` | Проект EffectCraft. Открывается через File → Open |
-| `plate.json` | Экспорт в Lottie (954 байта) |
-| `frame.png` | Кадр на 1 с, 360×640 |
+| `out/plate.json` | Экспорт в Lottie (954 байта) |
+| `out/frame.png` | Кадр на 1 с, 360×640 |
 
 ## Вывод
 
