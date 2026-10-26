@@ -30,6 +30,8 @@
 | [kb/mcp.md](kb/mcp.md) | Как подключить Craft-программы к Claude Code: команды, режимы, порты |
 | [kb/repos.md](kb/repos.md) | Все 68 репозиториев организации по группам |
 | [kb/remotion-integration.md](kb/remotion-integration.md) | Чем Craft-программы могут помочь `remotion-skill` |
+| [kb/youtube-research.md](kb/youtube-research.md) | Исследование под анимационный YouTube-канал для США: ниши, Google Trends, RPM, правила, длина |
+| [kb/animation-toolkit.md](kb/animation-toolkit.md) | Инструменты для мультика: генерация рисунков, трассировка, авто-проверки кадров, юмор |
 | [kb/sources.md](kb/sources.md) | Ссылки |
 
 ## Что сделано и что дальше
