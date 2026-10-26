@@ -26,3 +26,5 @@
 |---|---|---|---|
 | [effectcraft-plate](effectcraft-plate/) | EffectCraft 0.17.0 | MCP: сцена, Lottie, рендер, живое окно | готово |
 | [whiteboard](whiteboard/) | EffectCraft 0.17.0 | Прорисовка вайтборда под голос: edge-tts и ElevenLabs, синхрон по словам | готово |
+| [vectorcraft-history-style](vectorcraft-history-style/) | VectorCraft 0.17.0 | Тест стиля канала «вся история X»: карта и персонажи кодом против Historically и Unknown Frequencies | готово |
+| [gemini-history-style](gemini-history-style/) | Gemini (веб, бесплатно) | Та же сцена с Персеем: фон и персонажи спрайт-листами вместо кода | ждёт картинок |

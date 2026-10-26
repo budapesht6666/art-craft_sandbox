@@ -18,3 +18,6 @@ Thumbs.db
 
 # Личные пробы пользователя, не для публичного репозитория
 whiteboard-crypto_test/
+# Кадры чужих роликов для сравнения стиля: только локально
+sandbox/vectorcraft-history-style/ref/
+sandbox/vectorcraft-history-style/out/compare_local.png
