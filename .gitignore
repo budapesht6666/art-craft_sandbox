@@ -18,6 +18,16 @@ Thumbs.db
 
 # Личные пробы пользователя, не для публичного репозитория
 whiteboard-crypto_test/
+# Референсы пользователя (фото): только локально
+sandbox/fluk/art/ref/
+# Сцены Blender пересобираются скриптом
+sandbox/**/*.blend
+sandbox/**/*.blend1
 # Кадры чужих роликов для сравнения стиля: только локально
-sandbox/vectorcraft-history-style/ref/
-sandbox/vectorcraft-history-style/out/compare_local.png
+sandbox/history/vectorcraft/ref/
+sandbox/history/vectorcraft/out/compare_local.png
+# Флюк: проект EffectCraft пересобирается build_ec.js (46 МБ встроенных картинок), кэш FilmCraft
+sandbox/fluk/episode1/ec/fluk_ep1.ecproj
+sandbox/**/FilmCraft Previews/
+# Превью нарезки спрайт-листов (копии листов с разметкой), slice_sheet.py делает их заново
+sandbox/**/cut/**/_index.png
