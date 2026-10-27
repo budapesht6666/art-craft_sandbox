@@ -1,4 +1,4 @@
-"""Субтитры шота: python subs.py -> out/dont_look.srt (для загрузки на YouTube).
+"""Субтитры шота: python subs.py -> out/dont_look.en.srt (для загрузки на YouTube).
 
 Текст — сценарий (как сказано в дубле 2), время — слова из voice/words_raw.json в
 секундах шота: до точки вставки паузы t - T0, после — t - T0 + PAUSE (см. sound/mix.py).
@@ -28,5 +28,5 @@ def ts(t):
 out = []
 for i, (text, a, b) in enumerate(LINES, 1):
     out.append(f"{i}\n{ts(shot(a))} --> {ts(shot(b) + 0.3)}\n{text}\n")
-(HERE / "out" / "dont_look.srt").write_text("\n".join(out), encoding="utf-8")
+(HERE / "out" / "dont_look.en.srt").write_text("\n".join(out), encoding="utf-8")
 print("\n".join(out))

@@ -68,7 +68,7 @@ JSON, `ec/build_shot.js` строит проект в EffectCraft, CLI ренд�
   отдельная генерация через `gemini/gen.py` (задание `04_medusa_closeup`, эталон — голова с
   листа 2, 18 с), подложка — тот же фон ×1,5 с Gaussian Blur 30, медленный наезд, змеи
   «дышат», вспышка на «stone», шипение змей (ElevenLabs).
-- Субтитры: [subs.py](subs.py) → `out/dont_look.srt` (текст сценария + время слов). Для
+- Субтитры: [subs.py](subs.py) → `out/dont_look.en.srt`, переводы `out/dont_look.{es,pt,de,fr,hi}.srt` (текст сценария + время слов). Для
   обычного ролика загружать на YouTube файлом (автосубтитры с акцентом пишут «hat»), для
   Shorts — вшивать. Вшитая проба: `out/dont_look_v4_subs.mp4`, строка «Don't look.»
   пропущена, её показывает титр.
