@@ -90,6 +90,7 @@ for (var x = 0; x < D.texts.length; x++) {
   t.inPoint = T["in"]; t.outPoint = T.out;
   tr(t, P).setValue(T.pos);
   setKeys(tr(t, SC), T.scale, 2);
+  setKeys(tr(t, O), T.opacity, 1);
 }
 app.endUndoGroup();
 log.push("layers: " + comp.numLayers);

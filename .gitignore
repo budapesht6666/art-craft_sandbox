@@ -35,3 +35,6 @@ sandbox/**/cut/**/_index.png
 sandbox/history/gemini/out/compare_*.png
 sandbox/history/gemini/sheets/*.jfif
 sandbox/history/gemini/sheets/_old/
+# Голос пользователя — только локально (публичный репозиторий)
+sandbox/**/voice/*.ogg
+sandbox/**/voice/*.m4a
