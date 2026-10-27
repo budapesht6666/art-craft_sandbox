@@ -83,6 +83,15 @@ Style: bold dark brown-black ink outlines with natural line-weight variation, lo
 No living characters, no people, no animals, no text, no letters, no logo, no watermark, no frame.
 ```
 
+### Правка листа 1 (тем же чатом): убрать статуи
+
+Статуи вышли людьми обычных пропорций и спорят с круглоголовым кастом. Окаменевших воинов
+поставим сами из листа каста (поза 6).
+
+```
+Same background, same style and lighting. Remove the three stone statues completely and fill their place with rocks, dry grass and ground that match the rest of the scene. No figures of any kind. Keep everything else exactly the same.
+```
+
 ## Лист 2 — персонажи сцены (16:9, 6 рисунков 3×2)
 
 ```
@@ -96,4 +105,23 @@ Clean professional 2D cartoon style for an adult comedy history channel. Bold co
 Layout: exactly 6 separate full-body drawings arranged in an invisible grid of 3 columns and 2 rows. Each drawing sits fully inside its own cell, centered, with wide empty white gutters between cells. Nothing overlaps, touches or crosses into another cell. All figures at the same scale; figures in one row share the same baseline. No text, no numbers, no labels, no captions, no grid lines, no frames, no borders, no ground lines, no watermark.
 Row 1: (1) Perseus standing in side view facing right, one arm stretched far forward holding Medusa's severed head by her snake-hair, his own head turned away over his shoulder, eyes squeezed shut, a nervous sweat drop; (2) Perseus tiptoeing backwards, holding his polished shield up and looking into it like a mirror to see behind him, nervous; (3) Perseus triumphant, facing the viewer, raising Medusa's severed head high above his head with a huge grin.
 Row 2: (4) the soldier facing left, arms thrown up, screaming in terror with huge eyes, the lower half of his body already turned into grey cracked stone; (5) Medusa's severed head alone, snakes hissing in all directions, angry glare; (6) the same soldier completely turned into a grey cracked stone statue, frozen mid-scream with arms up.
+```
+
+## Лист 3 — проверка каста между чатами (16:9, 8 рисунков 4×2)
+
+**Новый чат**, приложить `sheets/00_cast_model_v3.png`. Цель — понять, держится ли дизайн
+без истории чата: те же шлем, лицо-яйцо, варежки, цвета. Позы — типовые для ролика
+«вся история X»: объясняет, недоумевает, бежит, спит. Сохранить как `sheets/03_cast_test.png`.
+
+```
+Wide 16:9 landscape image. Character pose sheet for a hand-drawn 2D animated YouTube video about Greek mythology.
+Perseus and the soldier are the same characters as in the attached reference image: keep identical proportions, head shape, eye design, colors, helmets and line style.
+CAST STYLE for the whole channel: simple round-headed cartoon people. Large white egg-shaped head, about one third of the body height, no hair unless stated. Two small solid black oval eyes, thick expressive black eyebrows, a small simple mouth, a tiny nose or none, no visible ears. Skin pure white with a bold black outline. Small simple bodies with slightly thick limbs and round mitten hands. Exaggerated comedic expressions. Ancient Greek clothing: tunics, sandals, bronze helmets.
+PERSEUS: a young hero in a bronze Corinthian helmet with a tall red horsehair crest, worn pushed up high on top of his head so his whole white egg-shaped face is visible, a cream tunic with a brown leather belt, a red cape, sandals, a round polished bronze shield and a short sword in a scabbard.
+THE SOLDIER: an ordinary Greek soldier in a blue tunic and a plain open-faced grey iron helmet.
+In every drawing the eyes stay two small solid black ovals: no white eyeballs, no eyelids. Show emotion with the eyebrows, the mouth and the whole body.
+Clean professional 2D cartoon style for an adult comedy history channel. Bold confident black outlines with slight natural line-weight variation. Flat colors with only light cross-hatching in the shadows: no gradients, no soft shading, no texture, no cast shadows on the ground. Pure white (#FFFFFF) background everywhere, no paper texture, no vignette.
+Layout: exactly 8 separate full-body drawings arranged in an invisible grid of 4 columns and 2 rows. Each drawing sits fully inside its own cell, centered, with wide empty white gutters between cells. Nothing overlaps, touches or crosses into another cell. All figures at the same scale; figures in one row share the same baseline. No text, no numbers, no labels, no captions, no grid lines, no frames, no borders, no ground lines, no watermark.
+Row 1: (1) Perseus facing the viewer, pointing to the right with one arm, explaining something with a smug half-smile; (2) Perseus shrugging, both mitten hands up, eyebrows raised, confused; (3) Perseus facepalming with one hand, exasperated; (4) Perseus running fast to the right in side view, cape flying behind, determined.
+Row 2: (5) the soldier saluting stiffly, chest out, overly serious; (6) the soldier asleep standing up, leaning on a spear, mouth open, a drool drop; (7) the soldier laughing hard, holding his belly, eyes squeezed shut; (8) the soldier walking to the left in side view with a spear on his shoulder, bored.
 ```

@@ -6,5 +6,6 @@
 |---|---|---|
 | [vectorcraft/](vectorcraft/README.md) | Карта и сцена с Персеем нарисованы кодом, рендер VectorCraft. Сравнение с Historically и Unknown Frequencies | готово, ждёт оценки |
 | [gemini/](gemini/README.md) | Та же сцена: фон и персонажи спрайт-листами Gemini (скилл `sprite-prompts`). Близко к эталону | кадр собран, ждёт оценки |
+| [anim/](anim/README.md) | Кадр Gemini оживлён в EffectCraft: замена поз, камень снизу вверх, титр, камера. Шот 6 с | v1 готов, без звука |
 
 Новые подходы к этой теме — новые подпапки здесь, а не папки рядом в `sandbox/`.
