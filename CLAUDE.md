@@ -15,6 +15,9 @@ ArtCraft и 13 бесплатных Craft-программ (EffectCraft, PhotoCr
   `C:\projects\claude\shared-claude-skills\skills\craft-apps\` (скрипты `setup-mcp.ps1`,
   `start-live.ps1`). Если узнали что-то, что пригодится в других проектах (команда, ловушка,
   проверенный рецепт), это нужно записать в скилл, а не только сюда.
+- Серия канала «вся история X» (сценарий → Gemini API → EffectCraft → голос → звук →
+  субтитры) — скилл `history-episode` там же. Демо, на котором он проверен:
+  `sandbox/history/anim/` и `sandbox/history/gemini/`.
 
 ## Правила
 
