@@ -13,9 +13,9 @@
 0. **Решение от 2026-10-26** (раздел «Решение» внизу): канал «вся история / весь миф X
    за N минут» в простом мультяшном стиле с картами. Голос — пользователь, тексты — Claude.
    **Где остановились (2026-10-26):**
-   - тест стиля кодом готов ([sandbox/vectorcraft-history-style](../sandbox/vectorcraft-history-style/)):
+   - тест стиля кодом готов ([sandbox/history/vectorcraft](../sandbox/history/vectorcraft/)):
      карта проходит, персонажи на старт годятся, фоны слабые;
-   - промпты для Gemini готовы ([sandbox/gemini-history-style/PROMPTS.md](../sandbox/gemini-history-style/PROMPTS.md)),
+   - промпты для Gemini готовы ([sandbox/history/gemini/PROMPTS.md](../sandbox/history/gemini/PROMPTS.md)),
      **ждём от пользователя два листа** в `sheets/` (`01_bg_lair`, `02_cast_perseus`). Потом:
      нарезать, собрать сцену «DON'T LOOK.», сравнить три варианта (код, Gemini, эталон) и
      выбрать, как делать фоны и персонажей;
@@ -262,7 +262,7 @@ Radeon с 512 МБ.
 ## Пилот (2026-10-26)
 
 Сделан «Fluk — The Cucumber»: 40 с, пантомима, перекладка в EffectCraft, весь звук
-синтезирован, стоимость $0 ([sandbox/effectcraft-cat-pilot](../sandbox/effectcraft-cat-pilot/)).
+синтезирован, стоимость $0 ([sandbox/fluk/archive/01-effectcraft-cutout](../sandbox/fluk/archive/01-effectcraft-cutout/)).
 Технически перекладка работает, но **по качеству до «Кота Саймона» очень далеко** (оценка
 пользователя: «получилось дерьмо»). Причины: двигаются только голова и глаза, жёсткие детали
 вместо рисованных поз, вид анфас, стерильная векторная линия, «плавающий» тайминг 30 к/с,
@@ -272,7 +272,7 @@ Radeon с 512 МБ.
 
 ### Второй подход: Blender + Grease Pencil (2026-10-26)
 
-Тест «Флюк и лазер» ([sandbox/blender-cat-test](../sandbox/blender-cat-test/)): рисунок
+Тест «Флюк и лазер» ([sandbox/fluk/archive/02-blender-gp](../sandbox/fluk/archive/02-blender-gp/)): рисунок
 гнётся по костям, лапы стоят на полу через IK, кот вытягивается в прыжке и
 сплющивается при приземлении, хвост запаздывает, линия «дрожит». Рисует Claude кодом,
 рисунки идут по двойкам. Это заметно ближе к инди-мультику, чем перекладка в
@@ -340,7 +340,7 @@ EffectCraft. Стоимость $0.
 Это снимает риск «синтетического голоса» в правилах монетизации и даёт честную пометку
 «made by hand». Открытый вопрос: акцент в английской начитке. Проверить на пробном абзаце.
 
-**Тест стиля (2026-10-26)** — [sandbox/vectorcraft-history-style](../sandbox/vectorcraft-history-style/):
+**Тест стиля (2026-10-26)** — [sandbox/history/vectorcraft](../sandbox/history/vectorcraft/):
 карта кодом на уровне Historically. Персонажи читаются и смешат, но фон и фактура слабее,
 чем у Unknown Frequencies. Слабое место — фоны сцен.
 

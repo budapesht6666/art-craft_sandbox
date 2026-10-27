@@ -1,7 +1,8 @@
 # Песочница
 
-Каждый мини-проект лежит в своей папке `sandbox/<программа>-<тема>/`, в ней есть
-`README.md`:
+**Одна тема — одна папка.** Новые подходы, программы и версии к той же теме кладутся
+подпапками внутрь неё (пройденные — в `archive/`), а не новыми папками рядом. Пример —
+`fluk/`. Папка темы `sandbox/<тема>/` или `sandbox/<программа>-<тема>/`, в ней `README.md`:
 
 - **Шапка:** дата, программа и версия, статус (в работе / готово / брошено).
 - **Задача:** что проверяем.
@@ -26,5 +27,5 @@
 |---|---|---|---|
 | [effectcraft-plate](effectcraft-plate/) | EffectCraft 0.17.0 | MCP: сцена, Lottie, рендер, живое окно | готово |
 | [whiteboard](whiteboard/) | EffectCraft 0.17.0 | Прорисовка вайтборда под голос: edge-tts и ElevenLabs, синхрон по словам | готово |
-| [vectorcraft-history-style](vectorcraft-history-style/) | VectorCraft 0.17.0 | Тест стиля канала «вся история X»: карта и персонажи кодом против Historically и Unknown Frequencies | готово |
-| [gemini-history-style](gemini-history-style/) | Gemini (веб, бесплатно) | Та же сцена с Персеем: фон и персонажи спрайт-листами вместо кода | ждёт картинок |
+| [fluk](fluk/) | Gemini, EffectCraft, VectorCraft 0.17.0, SoundCraft 0.13.1, FilmCraft 0.13.0, PhotoCraft 0.16.0, Blender 5.2.3 | Мультсериал про кота Флюка: серия 1 «The Cucumber» (16:9, Shorts, обложка); пройденные подходы в `archive/` | в работе |
+| [history](history/) | VectorCraft 0.17.0, Gemini (веб) | Стиль канала «вся история X»: кадры кодом (`vectorcraft/`) и спрайт-листами Gemini (`gemini/`) | в работе |
