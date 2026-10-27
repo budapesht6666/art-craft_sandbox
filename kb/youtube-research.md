@@ -392,3 +392,9 @@ EffectCraft. Стоимость $0.
 - [VidIQ: сроки до монетизации](https://www.vidiq.com/blog/post/get-monetized-youtube)
 - [Autonolab: фейслесс-ниши история и философия](https://blog.autonolab.com/niches/2025-12-10-faceless-youtube-history/)
 - Google Trends, Explore, поиск по YouTube, США, 5 лет, 2026-10-26.
+
+## Канал (2026-10-27)
+
+Название **Pretty Much History** (`@PrettyMuchHistory`), ведущий-рассказчик **Barnaby the Bard**,
+аватар — его портрет. Оформление и генератор: [channel/brand](../channel/brand/README.md).
+Пометку «[No AI]», как у Historically, ставить нельзя: картинки делает Gemini.
