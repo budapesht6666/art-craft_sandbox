@@ -31,3 +31,6 @@ sandbox/fluk/episode1/ec/fluk_ep1.ecproj
 sandbox/**/FilmCraft Previews/
 # Превью нарезки спрайт-листов (копии листов с разметкой), slice_sheet.py делает их заново
 sandbox/**/cut/**/_index.png
+# История: сравнение с кадром чужого ролика — только локально; .jfif — дубли PNG из Gemini
+sandbox/history/gemini/out/compare_*.png
+sandbox/history/gemini/sheets/*.jfif
