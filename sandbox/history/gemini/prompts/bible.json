@@ -8,5 +8,9 @@
   "soldier": "THE SOLDIER: an ordinary Greek soldier in a blue tunic and a plain open-faced grey iron helmet.",
   "medusa_head": "MEDUSA'S HEAD: green skin, angry glowing yellow eyes, a frown with small fangs, hair made of a dozen green snakes."
  },
- "refs": {"perseus": "sheets/00_cast_model_v3.png", "soldier": "sheets/00_cast_model_v3.png"}
+ "refs": {
+  "perseus": "sheets/00_cast_model_v3.png",
+  "soldier": "sheets/00_cast_model_v3.png",
+  "medusa_head": "cut/cast/cast_05.png"
+ }
 }

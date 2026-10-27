@@ -55,6 +55,13 @@ for (var n = 0; n < D.layers.length; n++) {
   setKeys(tr(l, SC), L.scale, 2);
   setKeys(tr(l, R), L.rot, 1);
   setKeys(tr(l, O), L.opacity, 1);
+  if (L.effects) for (var e = 0; e < L.effects.length; e++) {
+    var ef = l.property("ADBE Effect Parade").addProperty(L.effects[e].match);
+    for (var pn in L.effects[e].props) {
+      var pp = effProp(ef, [pn]);
+      if (pp) pp.setValue(L.effects[e].props[pn]); else log.push(L.name + ": no " + pn);
+    }
+  }
   if (L.wipe) {
     var fx = l.property("ADBE Effect Parade").addProperty("ADBE Linear Wipe");
     var pc = effProp(fx, ["Transition Completion", "Completion"]);

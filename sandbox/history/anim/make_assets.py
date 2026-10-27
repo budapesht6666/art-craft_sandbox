@@ -20,6 +20,7 @@ FIGURES = {
     "soldier_idle": CUT / "model" / "model_04.png",
     "soldier_scream": CUT / "cast" / "cast_04.png",
     "soldier_stone": CUT / "cast" / "cast_06.png",
+    "medusa_cu": CUT / "closeup" / "cu_01.png",
 }
 
 
@@ -31,6 +32,7 @@ def feet(a):
     return (cols[0] + cols[-1]) / 2, cols[0], cols[-1]
 
 
+NO_SHADOW = {"medusa_cu"}     # крупный план: голова в воздухе, тени нет
 anchors = {}
 for name, src in FIGURES.items():
     im = Image.open(src).convert("RGBA")
@@ -45,7 +47,8 @@ for name, src in FIGURES.items():
     half = max((x1 - x0) * 0.62, w * 0.18)
     cx, cy = fx + PAD, h - 4
     ImageDraw.Draw(sh).ellipse((cx - half, cy - 22, cx + half, cy + 20), fill=(20, 10, 10, 120))
-    canvas.alpha_composite(sh.filter(ImageFilter.GaussianBlur(12)))
+    if name not in NO_SHADOW:
+        canvas.alpha_composite(sh.filter(ImageFilter.GaussianBlur(12)))
     canvas.alpha_composite(fig, (PAD, 0))
     canvas.save(OUT / f"{name}.png")
     anchors[name] = {"size": [w + 2 * PAD, h + PAD], "feet": [cx, h], "height": h}

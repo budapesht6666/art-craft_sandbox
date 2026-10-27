@@ -29,6 +29,7 @@ T_SCREAM = 13.75           # после «look,»
 T_STONE, T_DONE = 14.4, 15.3
 T_TITLE_OUT = 16.0         # перед «the guards»
 T_WIN = 19.2               # после «instructions.»
+T_CU0, T_CU1 = 6.15, 9.3   # крупный план головы: «turned anyone who looked at it into stone.»
 random.seed(7)
 
 
@@ -115,9 +116,25 @@ for t in fr(T_SCREAM, T_DONE + 0.1):
 layer("soldier_stone", T_STONE, DUR, pos=[[0, S_X, S_Y]], scale=[[0, K2, K2]],
       wipe={"angle": 180, "feather": 40, "keys": [[T_STONE, 100], [T_DONE, 0]]})
 
+# Перебивка: крупный план головы на размытом увеличенном фоне, медленный наезд, змеи «дышат»
+layer("cu_bg", T_CU0, T_CU1, src=BG, anchor=[1376, 768], parent="none",
+      pos=[[T_CU0, 1010, 470], [T_CU1, 990, 480]], scale=[[T_CU0, 150, 150], [T_CU1, 158, 158]],
+      effects=[{"match": "ADBE Gaussian Blur 2", "props": {"Blurriness": 30}}])
+cu = A["medusa_cu"]["size"]
+L = layer("medusa_cu", T_CU0, T_CU1, parent="none", anchor=[cu[0] / 2, cu[1] / 2])
+for t in fr(T_CU0, T_CU1):
+    u = (t - T_CU0) / (T_CU1 - T_CU0)
+    L["pos"].append([t, W / 2, H / 2 + 30])
+    k = 58 + 6 * u
+    b = 1 + 0.015 * math.sin(2 * math.pi * 1.6 * (t - T_CU0))
+    L["scale"].append([t, k * b, k / b])
+    L["rot"].append([t, 1.5 * math.sin(2 * math.pi * 0.5 * (t - T_CU0))])
+
 SOLIDS = [  # вспышка взгляда Медузы
     {"name": "flash", "color": [1.0, 0.92, 0.55], "in": T_STONE - 0.05, "out": T_STONE + 0.4,
      "opacity": [[T_STONE - 0.05, 0], [T_STONE, 25], [T_STONE + 0.35, 0]]},
+    {"name": "flash_cu", "color": [1.0, 0.92, 0.55], "in": 8.75, "out": 9.3,   # «stone» в крупном плане
+     "opacity": [[8.75, 0], [8.85, 30], [9.25, 0]]},
 ]
 
 TEXTS = [

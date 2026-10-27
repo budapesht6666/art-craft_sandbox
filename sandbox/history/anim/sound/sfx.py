@@ -16,6 +16,7 @@ SFX = {
     "stone": ("magical petrification: stone cracking and grinding upward, crackling rock, deep rumble", 1.6),
     "flash": ("magical whoosh flash, eerie shimmering zap of a curse, short", 0.8),
     "title": ("deep cinematic impact thud with short reverb tail, single hit", 0.7),
+    "hiss": ("many snakes hissing angrily at once, close and menacing, no music", 3),
     "wind": ("gentle evening wind on a barren rocky island near the sea, distant waves, calm ambience, no music", 10),
 }
 
