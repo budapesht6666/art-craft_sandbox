@@ -1,0 +1,392 @@
+[
+ {
+  "name": "10_cast_model",
+  "kind": "sheet",
+  "chars": [
+   "acrisius",
+   "danae",
+   "polydectes",
+   "athena",
+   "hermes",
+   "medusa",
+   "andromeda",
+   "oracle"
+  ],
+  "style_refs": [
+   "ref/cast_model.png"
+  ],
+  "grid": [
+   4,
+   2
+  ],
+  "rows": [
+   "(1) King Acrisius standing facing the viewer, neutral; (2) Danae standing facing the viewer, gentle smile; (3) King Polydectes standing facing the viewer, smug, holding his wine cup; (4) Athena standing facing the viewer, arms crossed, the owl on her shoulder.",
+   "(5) Hermes standing facing the viewer, cheeky grin, holding his staff; (6) Medusa standing facing the viewer, angry, snakes hissing; (7) Andromeda standing facing the viewer, hands together, neutral; (8) the Oracle sitting on her tripod stool facing the viewer, eyes closed, mysterious."
+  ]
+ },
+ {
+  "name": "10_cast_model_v2",
+  "kind": "edit",
+  "src": "sheets/10_cast_model.png",
+  "prompt": "Change only drawings 1 (the old king in purple) and 3 (the fat king in green): give them exactly the same simple face design as drawing 2: a smooth plain white egg-shaped head with a bold outline, two small solid black oval dot eyes, simple thick eyebrows, a tiny simple nose, no wrinkles, no eye bags, no detailed facial features. Keep their beards (as simple flat shapes), crowns, clothes, poses and sizes. Do not change drawings 2, 4, 5, 6, 7, 8."
+ },
+ {
+  "name": "bg_hills",
+  "kind": "bg",
+  "scene": "Sunny Greek countryside: a grassy hill path in the foreground, olive trees, a small white temple with columns on a far hill, the blue Aegean sea and islands on the horizon, a few soft clouds. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_palace",
+  "kind": "bg",
+  "scene": "Inside the royal palace of Argos: a large throne hall, an empty golden throne on a low stone dais in the center, tall painted red-and-white columns, heavy purple curtains, bronze torches on the walls giving warm light, a patterned stone floor. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_tower",
+  "kind": "bg",
+  "scene": "Night. A tall round bronze tower without doors stands alone on a rocky hill in the center, a single small lit window high up near the top, heavy dark stormy clouds above it, the small dark city of Argos far in the distance, a few stars. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_sea",
+  "kind": "bg",
+  "scene": "Open sea in rough weather: big rolling dark blue-green waves with white foam, a grey cloudy sky, the rocky coast of Argos with a tiny palace on a cliff far on the left, empty water in the center and on the right."
+ },
+ {
+  "name": "bg_hall",
+  "kind": "bg",
+  "scene": "Inside King Polydectes's palace on an island: a banquet hall during a party, a long table across the middle ground covered with roast meat, fruit, bread and wine jugs, columns wrapped in garlands of leaves, green banners, warm oil lamps, a big open floor in front of the table. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_olympus",
+  "kind": "bg",
+  "scene": "The top of Mount Olympus above the clouds: a floor of white marble tiles floating on fluffy clouds, a few tall white marble columns, golden sunbeams, a bright blue sky, distant mountain peaks poking through the clouds. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_coast",
+  "kind": "bg",
+  "scene": "A wild rocky sea coast under a dramatic sky: a tall dark jagged rock stands in the shallow water a little right of center with rusty iron chains hanging from it, crashing waves, a sandy strip of beach in the left foreground, the open sea on the right where something could rise from the water. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_stadium",
+  "kind": "bg",
+  "scene": "An ancient Greek sports stadium on a sunny day: a long sandy running track in the foreground, long empty rows of stone stands rising on the right side, colorful festival banners on poles, a marble starting line, hills and blue sky behind. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "11_poses_argos",
+  "kind": "sheet",
+  "chars": [
+   "acrisius",
+   "danae",
+   "oracle",
+   "baby_perseus"
+  ],
+  "grid": [
+   4,
+   2
+  ],
+  "rows": [
+   "(1) King Acrisius standing proudly, chest out, hands behind his back, pleased with himself; (2) King Acrisius jumping in terror, arms up, crown flying off his head, mouth wide open screaming, beard bristling; (3) King Acrisius smirking like a genius, holding up a big bronze key in one hand, other hand on his hip; (4) King Acrisius giving a big smug thumbs up, eyes happily closed, very satisfied with himself.",
+   "(5) the Oracle on her tripod stool, eyes wide open, pointing straight at the viewer with a long finger, spooky, purple smoke swirling; (6) Danae sitting on the floor hugging her knees, bored and sad, eyebrows down; (7) Danae standing, looking up in shock, both hands on her cheeks, mouth open; (8) Danae standing, proudly holding Baby Perseus in her arms, the baby wears a tiny bronze helmet with a tall red crest."
+  ]
+ },
+ {
+  "name": "12_poses_party",
+  "kind": "sheet",
+  "chars": [
+   "polydectes",
+   "guest",
+   "perseus"
+  ],
+  "grid": [
+   4,
+   2
+  ],
+  "rows": [
+   "(1) King Polydectes leaning forward, wiggling his eyebrows flirtatiously, a big sleazy grin, three small red hearts floating above his head; (2) King Polydectes glaring sideways with disgust, arms crossed, nose up; (3) King Polydectes rubbing his hands together, evil scheming grin; (4) King Polydectes laughing loudly with his head thrown back, raising his golden wine cup.",
+   "(5) a plump party guest in a white toga proudly leading a brown horse on a rope, the horse looks bored; (6) another party guest in a yellow toga presenting a white horse with a big red bow on its head; (7) Perseus standing awkwardly with empty hands, a sweat drop, looking sideways, embarrassed smile; (8) Perseus boasting over-confidently, one foot forward, fist on his chest, other arm pointing up to the sky, mouth wide open shouting."
+  ]
+ },
+ {
+  "name": "13_poses_quest",
+  "kind": "sheet",
+  "chars": [
+   "athena",
+   "hermes",
+   "nymph",
+   "perseus",
+   "medusa"
+  ],
+  "grid": [
+   4,
+   2
+  ],
+  "rows": [
+   "(1) Athena holding out a round mirror-polished bronze shield to the right with both hands, unimpressed face; (2) Hermes holding out a pair of small winged sandals to the right, winking, cheeky grin; (3) the sea nymph holding out a plain brown leather bag to the right with both hands, beaming proudly as if it were treasure; (4) Perseus holding up a plain brown leather bag in both hands, staring at it with a flat, deeply unimpressed face.",
+   "(5) Perseus hugging the plain brown leather bag lovingly with both arms, eyes closed, delighted; (6) Medusa lying asleep on the ground on her side, snoring with her mouth open, her snakes asleep too with closed eyes, drawn as a wide horizontal figure; (7) Perseus tiptoeing backwards to the left, holding his shield up in front of his face like a mirror and looking into it, sword raised over his shoulder; (8) Perseus flying through the air to the right like a superhero with small wings on his sandals, one fist forward, cape flowing."
+  ]
+ },
+ {
+  "name": "14_poses_end",
+  "kind": "sheet",
+  "chars": [
+   "andromeda",
+   "perseus",
+   "acrisius",
+   "guest"
+  ],
+  "grid": [
+   4,
+   2
+  ],
+  "rows": [
+   "(1) Andromeda with her wrists chained above her head by short iron chains that end in broken links, scared, looking to the right; (2) Perseus and Andromeda standing side by side holding hands, she wears a white wedding veil and holds flowers, he casually carries Medusa's head under his other arm, both smiling; (3) Perseus in the middle of a discus throw, side view, body twisted, the bronze discus just leaving his hand; (4) Perseus wincing in horror, both mitten hands over his mouth, eyes squeezed shut, 'oops'.",
+   "(5) King Acrisius sitting (no chair drawn, sitting pose in the air) and cheering happily, waving a small blue pennant; (6) King Acrisius knocked out lying flat on his back, crown fallen off, little yellow stars and birds circling above his head, a bronze discus stuck to his forehead, comedic, no blood; (7) a plump party guest in a light green toga laughing hard and raising a wine cup; (8) another plump party guest in a white toga dancing happily with one arm up."
+  ]
+ },
+ {
+  "name": "15_props",
+  "kind": "sheet",
+  "chars": [
+   "danae",
+   "baby_perseus",
+   "perseus"
+  ],
+  "grid": [
+   3,
+   2
+  ],
+  "rows": [
+   "(1) the face of Zeus (big white beard, white bushy eyebrows, one eye winking, sly smile) inside a glowing golden cloud, golden raindrops falling from the cloud; (2) a closed wooden chest with iron bands floating on its own, side view, no water drawn; (3) the same wooden chest with the lid half open, Danae peeking out holding Baby Perseus, both worried.",
+   "(4) a bronze discus flying, with motion lines; (5) a plain brown leather bag with golden sparkles around it, glowing; (6) a small green cartoon cricket sitting and chirping, simple."
+  ]
+ },
+ {
+  "name": "16_closeup_deal",
+  "kind": "sheet",
+  "chars": [
+   "polydectes"
+  ],
+  "grid": [
+   1,
+   1
+  ],
+  "rows": [
+   "(1) a large close-up of King Polydectes's head and shoulders filling about 80 percent of the image height, centered, looking straight at the viewer with a slow evil smile, one eyebrow raised, fingers steepled under his chin."
+  ]
+ },
+ {
+  "name": "11_poses_argos_v2",
+  "kind": "edit",
+  "src": "sheets/11_poses_argos.png",
+  "prompt": "Change only drawings 2 and 8. Drawing 2 (the jumping scared old king): give him exactly the same face and head as drawing 1: a smooth white egg-shaped head with no hair on top, two small solid black dot eyes (no white eyeballs), the same flat grey beard shape; keep the jump pose, the open screaming mouth, raised eyebrows and the flying crown. Drawing 8: make the baby's face pure white with a black outline and two small black dot eyes, exactly like the mother's face. Do not change anything else."
+ },
+ {
+  "name": "17_monster",
+  "kind": "sheet",
+  "chars": [
+   "sea_monster"
+  ],
+  "style_refs": [
+   "ref/cast_model.png"
+  ],
+  "grid": [
+   1,
+   1
+  ],
+  "rows": [
+   "(1) the sea monster rising up, its neck and head filling about 85 percent of the image height, the neck cut off flat and straight at the bottom edge of the drawing (as if coming out of water, but no water drawn), mouth open roaring with big buck teeth, leaning slightly to the left."
+  ]
+ },
+ {
+  "name": "bg_tower_rain",
+  "kind": "edit",
+  "src": "sheets/bg_tower.png",
+  "prompt": "Same picture, same style and composition. Add a narrow column of glowing golden rain falling from a small bright gap in the dark clouds straight down onto the top of the bronze tower and its little window, with a soft warm golden glow around it lighting the tower. No figures, no faces. Keep everything else exactly the same."
+ },
+ {
+  "name": "20_cast_model2",
+  "kind": "sheet",
+  "style_refs": [
+   "ref/cast_model.png"
+  ],
+  "grid": [
+   4,
+   2
+  ],
+  "chars": [
+   "dictys",
+   "zeus",
+   "cassiopeia",
+   "cepheus",
+   "poseidon",
+   "phineus",
+   "pegasus",
+   "atlas"
+  ],
+  "rows": [
+   "(1) Dictys standing facing the viewer, kind smile; (2) Zeus standing facing the viewer, smug flirty grin, holding his lightning bolt; (3) Queen Cassiopeia standing, admiring herself in her hand mirror; (4) King Cepheus standing facing the viewer, nervous smile.",
+   "(5) Poseidon standing facing the viewer, angry, holding his trident; (6) Phineus standing facing the viewer, scowling, holding his sword; (7) Pegasus standing in side view facing right, wings spread, happy; (8) Atlas standing facing the viewer holding the round starry sky on his shoulders, grumpy (drawn the same height as the others in this sheet)."
+  ]
+ },
+ {
+  "name": "21_graeae",
+  "kind": "sheet",
+  "style_refs": [
+   "ref/cast_model.png"
+  ],
+  "grid": [
+   3,
+   2
+  ],
+  "chars": [
+   "graeae",
+   "perseus"
+  ],
+  "rows": [
+   "(1) the three Graeae sisters huddled together side by side, the middle one holding the single eyeball up to her eye socket, the other two reaching for it greedily, arguing; (2) the three Graeae sisters with arms stretched out, groping around blindly in panic, mouths open shouting, no eye; (3) Perseus holding the single eyeball up between two fingers, smug grin.",
+   "(4) the three Graeae sisters on their knees pleading with hands together, begging, worried; (5) the single loose eyeball alone flying through the air with motion lines; (6) Perseus wearing his helmet, walking away cheerfully, waving goodbye over his shoulder."
+  ]
+ },
+ {
+  "name": "22_poses_home",
+  "kind": "sheet",
+  "grid": [
+   4,
+   2
+  ],
+  "chars": [
+   "acrisius",
+   "dictys",
+   "danae",
+   "perseus"
+  ],
+  "rows": [
+   "(1) King Acrisius cupping one ear with his hand, listening, furious, eyebrows down; (2) King Acrisius pushing a wooden chest forward with both hands, sneaky grin; (3) Dictys pulling a fishing net with a wooden chest in it, straining; (4) Dictys looking into an open wooden chest, delighted surprised face.",
+   "(5) Dictys proudly holding up Baby Perseus (tiny bronze helmet with red crest) like a trophy; (6) Danae standing with one hand raised in a firm stop gesture, annoyed; (7) Perseus standing with arms crossed, scowling, refusing; (8) Perseus as a cocky young man flexing his biceps, big confident grin."
+  ]
+ },
+ {
+  "name": "23_poses_quest2",
+  "kind": "sheet",
+  "grid": [
+   4,
+   2
+  ],
+  "chars": [
+   "polydectes",
+   "hermes",
+   "athena",
+   "perseus"
+  ],
+  "rows": [
+   "(1) King Polydectes kneeling on one knee holding a bunch of flowers up, sleazy grin; (2) King Polydectes cupping his ear, eyebrows raised hopefully, as if he heard a yes; (3) Hermes holding out a curved sickle-like sword with both hands, cheeky grin; (4) Athena holding up a round bronze shield that has Medusa's angry snake-haired face on it, proud, slightly scary smile.",
+   "(5) Perseus wearing his helmet holding a short sword up proudly, the shield on his other arm, ready for adventure; (6) Perseus fading, his whole body drawn with dashed outlines as if half invisible, sneaky grin, holding a brown bag; (7) Perseus with a shocked face, jumping back in surprise, pointing at something to the right; (8) Perseus flying through the air to the right with winged sandals, holding a brown leather bag in one hand, looking back nervously."
+  ]
+ },
+ {
+  "name": "24_poses_ethiopia",
+  "kind": "sheet",
+  "grid": [
+   4,
+   2
+  ],
+  "chars": [
+   "cassiopeia",
+   "poseidon",
+   "cepheus",
+   "phineus",
+   "zeus"
+  ],
+  "rows": [
+   "(1) Queen Cassiopeia bragging loudly with one hand on her chest and nose up, eyes closed, smug; (2) Poseidon furious, red face, shaking his trident above his head; (3) King Cepheus jumping for joy with both arms up, ecstatic; (4) Phineus charging forward to the right, sword raised high, mouth open shouting.",
+   "(5) Phineus with his arms crossed, sulking, jealous; (6) King Cepheus wringing his hands, worried, sweating; (7) Zeus winking and pointing at the viewer with finger guns, smug; (8) Zeus shrugging innocently, whistling, looking away."
+  ]
+ },
+ {
+  "name": "25_poses_end2",
+  "kind": "sheet",
+  "grid": [
+   4,
+   2
+  ],
+  "chars": [
+   "acrisius",
+   "danae",
+   "dictys",
+   "gorgon_sister"
+  ],
+  "rows": [
+   "(1) King Acrisius running away to the right in panic, carrying a bundle on a stick over his shoulder, crown wobbling; (2) King Acrisius relaxing in a beach chair (chair included) with sunglasses, sipping a drink, very relieved; (3) Danae peeking out from behind a stone column, scared; (4) Dictys wearing a big gold crown, surprised and happy, both hands on his cheeks.",
+   "(5) a Gorgon sister flying to the right with big golden bat wings, furious, claws out; (6) another Gorgon sister flying to the right, screaming, snakes hissing; (7) a Gorgon sister asleep, curled up on the ground, snoring, wings folded; (8) another Gorgon sister asleep sitting against a rock, mouth open, wings folded."
+  ]
+ },
+ {
+  "name": "26_pegasus",
+  "kind": "sheet",
+  "grid": [
+   2,
+   1
+  ],
+  "chars": [
+   "pegasus",
+   "perseus"
+  ],
+  "rows": [
+   "(1) Pegasus leaping up joyfully, wings spread wide, front legs up, sparkles around; (2) Perseus scratching his head, totally confused, a question mark above his head."
+  ]
+ },
+ {
+  "name": "bg_shore",
+  "kind": "bg",
+  "scene": "A sunny little fishing beach on a Greek island: golden sand in the foreground, a small wooden fishing boat pulled onto the sand, fishing nets drying on poles, a tiny white fisherman's hut on the left, calm turquoise sea on the right. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_graeae",
+  "kind": "bg",
+  "scene": "A gloomy misty grey wasteland at the end of the world: grey rocks, dead grey trees, thick fog, a small cave mouth with a smoky campfire in front of it, cold blue-grey light. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_edge",
+  "kind": "bg",
+  "scene": "The edge of the world at sunset: a vast empty desert plain with strange tall rock pillars, a huge orange setting sun, an enormous empty sky, the far horizon curving. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_gorgon_cave",
+  "kind": "bg",
+  "scene": "Inside a huge dark cave lit by a few shafts of green-tinted light, bones and broken shields on the floor, snake skins, damp rocks, an eerie atmosphere. No statues, no figures. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_ethiopia",
+  "kind": "bg",
+  "scene": "A bright royal wedding hall in a palace in ancient Ethiopia: tall sandstone columns, colorful woven banners in red, gold and green, flower garlands everywhere, a long table with fruit, warm sunlight through big windows. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_temple",
+  "kind": "bg",
+  "scene": "Inside a small quiet Greek temple at dusk: white marble columns, an empty statue pedestal, oil lamps, long shadows, a wide marble floor. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "bg_night",
+  "kind": "bg",
+  "scene": "A deep blue night sky full of stars over a dark silhouette of Greek hills and a small temple, the Milky Way, no constellations drawn, calm and magical. The sky fills most of the image."
+ },
+ {
+  "name": "bg_mycenae",
+  "kind": "bg",
+  "scene": "The famous Lion Gate of Mycenae: huge stone walls with the gate in the middle crowned by two carved stone lions, a dirt road leading to it, hills behind, sunny. Leave the lower third of the image as open, flat, uncluttered floor or ground where characters will stand."
+ },
+ {
+  "name": "20_cast_model2_v2",
+  "kind": "edit",
+  "src": "sheets/20_cast_model2.png",
+  "refs": [
+   "ref/cast_model.png"
+  ],
+  "prompt": "The second attached image is the style reference for faces. Change only the faces of drawings 1 to 6 (fisherman, Zeus, queen, old king in orange, Poseidon, man with moustache): give each one exactly the face design of the reference characters: a smooth plain white egg-shaped head with a bold outline, two small solid black oval dot eyes, simple thick eyebrows, a tiny simple nose, a small simple mouth, no wrinkles, no eye bags, no eyelids, no makeup, no realistic facial details. Keep all beards, moustaches, hair, crowns, hats, clothes, props, poses, colors and sizes exactly the same. Do not change drawings 7 and 8."
+ },
+ {
+  "name": "20_cast_model2_v3",
+  "kind": "edit",
+  "src": "sheets/20_cast_model2_v2.png",
+  "prompt": "Change only drawings 2 (Zeus with the lightning bolt) and 4 (the old king in orange). Give their faces exactly the same face design as drawing 6 (the man with the moustache) and drawing 5 (Poseidon): a smooth plain white face, two small solid black oval dot eyes, simple thick eyebrows, no wrinkles, no lines on the forehead or cheeks, no eye bags, a tiny simple nose. Keep Zeus's big white beard, laurel wreath and lightning bolt, and the old king's grey beard and crown. Do not change any other drawing."
+ }
+]
