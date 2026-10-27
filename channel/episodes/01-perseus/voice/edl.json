@@ -1,0 +1,8895 @@
+{
+ "duration": 703.99,
+ "segments": [
+  {
+   "line": 1,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l01_0.mp3",
+   "a": 0.0,
+   "b": 1.44,
+   "t": 0.6
+  },
+  {
+   "line": 1,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l01_1.mp3",
+   "a": 0.0,
+   "b": 11.52,
+   "t": 2.74
+  },
+  {
+   "line": 1,
+   "seg": 2,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l01_2.mp3",
+   "a": 0.0,
+   "b": 1.44,
+   "t": 14.96
+  },
+  {
+   "line": 2,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l02_0.mp3",
+   "a": 0.0,
+   "b": 1.76,
+   "t": 17.05
+  },
+  {
+   "line": 2,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l02_1.mp3",
+   "a": 0.0,
+   "b": 2.24,
+   "t": 19.51
+  },
+  {
+   "line": 3,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l03_0.mp3",
+   "a": 0.0,
+   "b": 3.04,
+   "t": 22.2
+  },
+  {
+   "line": 4,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l04_0.mp3",
+   "a": 0.0,
+   "b": 16.48,
+   "t": 29.09
+  },
+  {
+   "line": 5,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l05_0.mp3",
+   "a": 0.0,
+   "b": 5.28,
+   "t": 46.02
+  },
+  {
+   "line": 5,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l05_1.mp3",
+   "a": 0.0,
+   "b": 4.4,
+   "t": 52.0
+  },
+  {
+   "line": 6,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l06_0.mp3",
+   "a": 0.0,
+   "b": 6.72,
+   "t": 57.45
+  },
+  {
+   "line": 6,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l06_1.mp3",
+   "a": 0.0,
+   "b": 2.32,
+   "t": 64.87
+  },
+  {
+   "line": 7,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l07_0.mp3",
+   "a": 0.0,
+   "b": 8.48,
+   "t": 67.64
+  },
+  {
+   "line": 7,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l07_1.mp3",
+   "a": 0.0,
+   "b": 1.68,
+   "t": 76.82
+  },
+  {
+   "line": 8,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l08_0.mp3",
+   "a": 0.0,
+   "b": 7.2,
+   "t": 78.95
+  },
+  {
+   "line": 9,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l09_0.mp3",
+   "a": 0.0,
+   "b": 8.16,
+   "t": 86.6
+  },
+  {
+   "line": 9,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l09_1.mp3",
+   "a": 0.0,
+   "b": 4.56,
+   "t": 95.46
+  },
+  {
+   "line": 10,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l10_0.mp3",
+   "a": 0.0,
+   "b": 3.2,
+   "t": 100.47
+  },
+  {
+   "line": 10,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l10_1.mp3",
+   "a": 0.0,
+   "b": 2.88,
+   "t": 104.37
+  },
+  {
+   "line": 11,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l11_0.mp3",
+   "a": 0.0,
+   "b": 7.6,
+   "t": 110.5
+  },
+  {
+   "line": 12,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l12_0.mp3",
+   "a": 0.0,
+   "b": 14.64,
+   "t": 118.55
+  },
+  {
+   "line": 12,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l12_1.mp3",
+   "a": 0.0,
+   "b": 3.84,
+   "t": 133.89
+  },
+  {
+   "line": 13,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l13_0.mp3",
+   "a": 0.0,
+   "b": 5.68,
+   "t": 138.18
+  },
+  {
+   "line": 14,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l14_0.mp3",
+   "a": 0.0,
+   "b": 7.84,
+   "t": 144.31
+  },
+  {
+   "line": 14,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l14_1.mp3",
+   "a": 0.0,
+   "b": 1.92,
+   "t": 152.85
+  },
+  {
+   "line": 15,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l15_0.mp3",
+   "a": 0.0,
+   "b": 11.04,
+   "t": 155.22
+  },
+  {
+   "line": 16,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l16_0.mp3",
+   "a": 0.0,
+   "b": 8.0,
+   "t": 169.51
+  },
+  {
+   "line": 17,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l17_0.mp3",
+   "a": 0.0,
+   "b": 15.6,
+   "t": 177.96
+  },
+  {
+   "line": 18,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l18_0.mp3",
+   "a": 0.0,
+   "b": 9.76,
+   "t": 194.01
+  },
+  {
+   "line": 19,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l19_0.mp3",
+   "a": 0.0,
+   "b": 9.84,
+   "t": 204.22
+  },
+  {
+   "line": 20,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l20_0.mp3",
+   "a": 0.0,
+   "b": 6.48,
+   "t": 214.51
+  },
+  {
+   "line": 21,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l21_0.mp3",
+   "a": 0.0,
+   "b": 5.04,
+   "t": 221.44
+  },
+  {
+   "line": 22,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l22_0.mp3",
+   "a": 0.0,
+   "b": 7.76,
+   "t": 227.23
+  },
+  {
+   "line": 23,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l23_0.mp3",
+   "a": 0.0,
+   "b": 14.32,
+   "t": 238.24
+  },
+  {
+   "line": 24,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l24_0.mp3",
+   "a": 0.0,
+   "b": 12.0,
+   "t": 253.01
+  },
+  {
+   "line": 24,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l24_1.mp3",
+   "a": 0.0,
+   "b": 3.04,
+   "t": 265.71
+  },
+  {
+   "line": 25,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l25_0.mp3",
+   "a": 0.0,
+   "b": 12.88,
+   "t": 269.2
+  },
+  {
+   "line": 26,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l26_0.mp3",
+   "a": 0.0,
+   "b": 7.84,
+   "t": 282.53
+  },
+  {
+   "line": 27,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l27_0.mp3",
+   "a": 0.0,
+   "b": 6.64,
+   "t": 293.62
+  },
+  {
+   "line": 28,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l28_0.mp3",
+   "a": 0.0,
+   "b": 3.36,
+   "t": 300.71
+  },
+  {
+   "line": 28,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l28_1.mp3",
+   "a": 0.0,
+   "b": 1.68,
+   "t": 304.77
+  },
+  {
+   "line": 29,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l29_0.mp3",
+   "a": 0.0,
+   "b": 8.24,
+   "t": 306.9
+  },
+  {
+   "line": 30,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l30_0.mp3",
+   "a": 0.0,
+   "b": 4.8,
+   "t": 315.59
+  },
+  {
+   "line": 31,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l31_0.mp3",
+   "a": 0.0,
+   "b": 5.12,
+   "t": 320.84
+  },
+  {
+   "line": 32,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l32_0.mp3",
+   "a": 0.0,
+   "b": 7.2,
+   "t": 326.41
+  },
+  {
+   "line": 32,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l32_1.mp3",
+   "a": 0.0,
+   "b": 3.28,
+   "t": 334.31
+  },
+  {
+   "line": 33,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l33_0.mp3",
+   "a": 0.0,
+   "b": 5.28,
+   "t": 338.04
+  },
+  {
+   "line": 33,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l33_1.mp3",
+   "a": 0.0,
+   "b": 7.52,
+   "t": 344.02
+  },
+  {
+   "line": 34,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l34_0.mp3",
+   "a": 0.0,
+   "b": 6.32,
+   "t": 354.79
+  },
+  {
+   "line": 35,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l35_0.mp3",
+   "a": 0.0,
+   "b": 6.16,
+   "t": 361.56
+  },
+  {
+   "line": 35,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l35_1.mp3",
+   "a": 0.0,
+   "b": 3.76,
+   "t": 368.42
+  },
+  {
+   "line": 36,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l36_0.mp3",
+   "a": 0.0,
+   "b": 10.48,
+   "t": 372.63
+  },
+  {
+   "line": 37,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l37_0.mp3",
+   "a": 0.0,
+   "b": 4.24,
+   "t": 383.56
+  },
+  {
+   "line": 37,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l37_1.mp3",
+   "a": 0.0,
+   "b": 1.52,
+   "t": 388.5
+  },
+  {
+   "line": 37,
+   "seg": 2,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l37_2.mp3",
+   "a": 0.0,
+   "b": 1.92,
+   "t": 390.72
+  },
+  {
+   "line": 38,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l38_0.mp3",
+   "a": 0.0,
+   "b": 5.68,
+   "t": 393.09
+  },
+  {
+   "line": 38,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l38_1.mp3",
+   "a": 0.0,
+   "b": 4.32,
+   "t": 399.47
+  },
+  {
+   "line": 39,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l39_0.mp3",
+   "a": 0.0,
+   "b": 13.68,
+   "t": 404.24
+  },
+  {
+   "line": 40,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l40_0.mp3",
+   "a": 0.0,
+   "b": 6.0,
+   "t": 421.17
+  },
+  {
+   "line": 40,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l40_1.mp3",
+   "a": 0.0,
+   "b": 1.28,
+   "t": 427.87
+  },
+  {
+   "line": 41,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l41_0.mp3",
+   "a": 0.0,
+   "b": 12.56,
+   "t": 431.2
+  },
+  {
+   "line": 42,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l42_0.mp3",
+   "a": 0.0,
+   "b": 2.32,
+   "t": 444.21
+  },
+  {
+   "line": 42,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l42_1.mp3",
+   "a": 0.0,
+   "b": 6.24,
+   "t": 447.23
+  },
+  {
+   "line": 43,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l43_0.mp3",
+   "a": 0.0,
+   "b": 6.88,
+   "t": 454.22
+  },
+  {
+   "line": 44,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l44_0.mp3",
+   "a": 0.0,
+   "b": 15.12,
+   "t": 461.55
+  },
+  {
+   "line": 45,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l45_0.mp3",
+   "a": 0.0,
+   "b": 5.68,
+   "t": 477.12
+  },
+  {
+   "line": 45,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l45_1.mp3",
+   "a": 0.0,
+   "b": 1.44,
+   "t": 483.5
+  },
+  {
+   "line": 46,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l46_0.mp3",
+   "a": 0.0,
+   "b": 8.24,
+   "t": 485.39
+  },
+  {
+   "line": 46,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l46_1.mp3",
+   "a": 0.0,
+   "b": 1.28,
+   "t": 494.33
+  },
+  {
+   "line": 47,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l47_0.mp3",
+   "a": 0.0,
+   "b": 6.64,
+   "t": 496.36
+  },
+  {
+   "line": 48,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l48_0.mp3",
+   "a": 0.0,
+   "b": 8.48,
+   "t": 503.45
+  },
+  {
+   "line": 48,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l48_1.mp3",
+   "a": 0.0,
+   "b": 2.08,
+   "t": 512.63
+  },
+  {
+   "line": 49,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l49_0.mp3",
+   "a": 0.0,
+   "b": 9.6,
+   "t": 515.16
+  },
+  {
+   "line": 50,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l50_0.mp3",
+   "a": 0.0,
+   "b": 5.76,
+   "t": 525.21
+  },
+  {
+   "line": 51,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l51_0.mp3",
+   "a": 0.0,
+   "b": 10.8,
+   "t": 534.62
+  },
+  {
+   "line": 52,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l52_0.mp3",
+   "a": 0.0,
+   "b": 9.6,
+   "t": 545.87
+  },
+  {
+   "line": 53,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l53_0.mp3",
+   "a": 0.0,
+   "b": 1.44,
+   "t": 555.92
+  },
+  {
+   "line": 53,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l53_1.mp3",
+   "a": 0.0,
+   "b": 1.2,
+   "t": 558.06
+  },
+  {
+   "line": 54,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l54_0.mp3",
+   "a": 0.0,
+   "b": 4.24,
+   "t": 560.31
+  },
+  {
+   "line": 54,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l54_1.mp3",
+   "a": 0.0,
+   "b": 2.24,
+   "t": 565.25
+  },
+  {
+   "line": 55,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l55_0.mp3",
+   "a": 0.0,
+   "b": 9.36,
+   "t": 567.94
+  },
+  {
+   "line": 56,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l56_0.mp3",
+   "a": 0.0,
+   "b": 11.6,
+   "t": 577.75
+  },
+  {
+   "line": 57,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l57_0.mp3",
+   "a": 0.0,
+   "b": 7.76,
+   "t": 592.6
+  },
+  {
+   "line": 58,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l58_0.mp3",
+   "a": 0.0,
+   "b": 7.36,
+   "t": 600.81
+  },
+  {
+   "line": 59,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l59_0.mp3",
+   "a": 0.0,
+   "b": 2.88,
+   "t": 608.62
+  },
+  {
+   "line": 59,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l59_1.mp3",
+   "a": 0.0,
+   "b": 1.2,
+   "t": 612.2
+  },
+  {
+   "line": 60,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l60_0.mp3",
+   "a": 0.0,
+   "b": 8.8,
+   "t": 613.85
+  },
+  {
+   "line": 61,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l61_0.mp3",
+   "a": 0.0,
+   "b": 6.96,
+   "t": 623.1
+  },
+  {
+   "line": 61,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l61_1.mp3",
+   "a": 0.0,
+   "b": 0.96,
+   "t": 630.76
+  },
+  {
+   "line": 62,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l62_0.mp3",
+   "a": 0.0,
+   "b": 4.0,
+   "t": 632.57
+  },
+  {
+   "line": 62,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l62_1.mp3",
+   "a": 0.0,
+   "b": 2.32,
+   "t": 637.27
+  },
+  {
+   "line": 63,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l63_0.mp3",
+   "a": 0.0,
+   "b": 13.12,
+   "t": 640.04
+  },
+  {
+   "line": 64,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l64_0.mp3",
+   "a": 0.0,
+   "b": 10.8,
+   "t": 653.61
+  },
+  {
+   "line": 64,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l64_1.mp3",
+   "a": 0.0,
+   "b": 1.68,
+   "t": 665.11
+  },
+  {
+   "line": 65,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l65_0.mp3",
+   "a": 0.0,
+   "b": 7.28,
+   "t": 667.24
+  },
+  {
+   "line": 66,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l66_0.mp3",
+   "a": 0.0,
+   "b": 6.88,
+   "t": 674.97
+  },
+  {
+   "line": 67,
+   "seg": 0,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l67_0.mp3",
+   "a": 0.0,
+   "b": 2.88,
+   "t": 682.3
+  },
+  {
+   "line": 67,
+   "seg": 1,
+   "src": "C:\\projects\\claude\\ArtCraft\\channel\\episodes\\01-perseus\\local\\eleven\\l67_1.mp3",
+   "a": 0.0,
+   "b": 2.16,
+   "t": 685.88
+  }
+ ],
+ "words": [
+  {
+   "line": 1,
+   "w": "This",
+   "t0": 0.6,
+   "t1": 0.84
+  },
+  {
+   "line": 1,
+   "w": "is",
+   "t0": 0.92,
+   "t1": 1.0
+  },
+  {
+   "line": 1,
+   "w": "Perseus.",
+   "t0": 1.08,
+   "t1": 2.04
+  },
+  {
+   "line": 1,
+   "w": "By",
+   "t0": 2.74,
+   "t1": 2.9
+  },
+  {
+   "line": 1,
+   "w": "the",
+   "t0": 2.98,
+   "t1": 3.06
+  },
+  {
+   "line": 1,
+   "w": "end",
+   "t0": 3.14,
+   "t1": 3.3
+  },
+  {
+   "line": 1,
+   "w": "of",
+   "t0": 3.34,
+   "t1": 3.38
+  },
+  {
+   "line": 1,
+   "w": "this",
+   "t0": 3.46,
+   "t1": 3.62
+  },
+  {
+   "line": 1,
+   "w": "video,",
+   "t0": 3.7,
+   "t1": 4.42
+  },
+  {
+   "line": 1,
+   "w": "he",
+   "t0": 4.5,
+   "t1": 4.58
+  },
+  {
+   "line": 1,
+   "w": "will",
+   "t0": 4.66,
+   "t1": 4.82
+  },
+  {
+   "line": 1,
+   "w": "cut",
+   "t0": 4.9,
+   "t1": 5.06
+  },
+  {
+   "line": 1,
+   "w": "off",
+   "t0": 5.14,
+   "t1": 5.3
+  },
+  {
+   "line": 1,
+   "w": "a",
+   "t0": 5.38,
+   "t1": 5.46
+  },
+  {
+   "line": 1,
+   "w": "monster's",
+   "t0": 5.54,
+   "t1": 6.1
+  },
+  {
+   "line": 1,
+   "w": "head,",
+   "t0": 6.26,
+   "t1": 6.9
+  },
+  {
+   "line": 1,
+   "w": "turn",
+   "t0": 7.02,
+   "t1": 7.14
+  },
+  {
+   "line": 1,
+   "w": "a",
+   "t0": 7.22,
+   "t1": 7.38
+  },
+  {
+   "line": 1,
+   "w": "whole",
+   "t0": 7.54,
+   "t1": 7.7
+  },
+  {
+   "line": 1,
+   "w": "wedding",
+   "t0": 7.78,
+   "t1": 8.18
+  },
+  {
+   "line": 1,
+   "w": "into",
+   "t0": 8.34,
+   "t1": 8.5
+  },
+  {
+   "line": 1,
+   "w": "statues,",
+   "t0": 8.58,
+   "t1": 9.66
+  },
+  {
+   "line": 1,
+   "w": "turn",
+   "t0": 9.7,
+   "t1": 9.86
+  },
+  {
+   "line": 1,
+   "w": "a",
+   "t0": 9.94,
+   "t1": 10.1
+  },
+  {
+   "line": 1,
+   "w": "giant",
+   "t0": 10.18,
+   "t1": 10.58
+  },
+  {
+   "line": 1,
+   "w": "into",
+   "t0": 10.66,
+   "t1": 10.9
+  },
+  {
+   "line": 1,
+   "w": "a",
+   "t0": 10.98,
+   "t1": 11.06
+  },
+  {
+   "line": 1,
+   "w": "mountain,",
+   "t0": 11.14,
+   "t1": 11.98
+  },
+  {
+   "line": 1,
+   "w": "and",
+   "t0": 12.02,
+   "t1": 12.26
+  },
+  {
+   "line": 1,
+   "w": "kill",
+   "t0": 12.34,
+   "t1": 12.58
+  },
+  {
+   "line": 1,
+   "w": "his",
+   "t0": 12.66,
+   "t1": 12.9
+  },
+  {
+   "line": 1,
+   "w": "own",
+   "t0": 12.98,
+   "t1": 13.22
+  },
+  {
+   "line": 1,
+   "w": "grandpa.",
+   "t0": 13.38,
+   "t1": 14.34
+  },
+  {
+   "line": 1,
+   "w": "With",
+   "t0": 14.96,
+   "t1": 15.2
+  },
+  {
+   "line": 1,
+   "w": "sports.",
+   "t0": 15.56,
+   "t1": 16.4
+  },
+  {
+   "line": 2,
+   "w": "And",
+   "t0": 17.05,
+   "t1": 17.21
+  },
+  {
+   "line": 2,
+   "w": "the",
+   "t0": 17.25,
+   "t1": 17.29
+  },
+  {
+   "line": 2,
+   "w": "craziest",
+   "t0": 17.37,
+   "t1": 17.93
+  },
+  {
+   "line": 2,
+   "w": "part?",
+   "t0": 18.01,
+   "t1": 18.81
+  },
+  {
+   "line": 2,
+   "w": "He",
+   "t0": 19.51,
+   "t1": 19.67
+  },
+  {
+   "line": 2,
+   "w": "is",
+   "t0": 19.75,
+   "t1": 19.91
+  },
+  {
+   "line": 2,
+   "w": "one",
+   "t0": 19.99,
+   "t1": 20.07
+  },
+  {
+   "line": 2,
+   "w": "of",
+   "t0": 20.11,
+   "t1": 20.15
+  },
+  {
+   "line": 2,
+   "w": "the",
+   "t0": 20.23,
+   "t1": 20.39
+  },
+  {
+   "line": 2,
+   "w": "good",
+   "t0": 20.51,
+   "t1": 20.63
+  },
+  {
+   "line": 2,
+   "w": "guys.",
+   "t0": 20.71,
+   "t1": 21.83
+  },
+  {
+   "line": 3,
+   "w": "This",
+   "t0": 22.2,
+   "t1": 22.44
+  },
+  {
+   "line": 3,
+   "w": "is",
+   "t0": 22.52,
+   "t1": 22.6
+  },
+  {
+   "line": 3,
+   "w": "the",
+   "t0": 22.68,
+   "t1": 22.76
+  },
+  {
+   "line": 3,
+   "w": "entire",
+   "t0": 22.92,
+   "t1": 23.32
+  },
+  {
+   "line": 3,
+   "w": "story",
+   "t0": 23.4,
+   "t1": 23.8
+  },
+  {
+   "line": 3,
+   "w": "of",
+   "t0": 23.88,
+   "t1": 23.96
+  },
+  {
+   "line": 3,
+   "w": "Perseus.",
+   "t0": 24.04,
+   "t1": 25.24
+  },
+  {
+   "line": 4,
+   "w": "Our",
+   "t0": 29.09,
+   "t1": 29.33
+  },
+  {
+   "line": 4,
+   "w": "story",
+   "t0": 29.53,
+   "t1": 29.73
+  },
+  {
+   "line": 4,
+   "w": "starts",
+   "t0": 29.81,
+   "t1": 30.21
+  },
+  {
+   "line": 4,
+   "w": "in",
+   "t0": 30.25,
+   "t1": 30.29
+  },
+  {
+   "line": 4,
+   "w": "the",
+   "t0": 30.37,
+   "t1": 30.45
+  },
+  {
+   "line": 4,
+   "w": "Greek",
+   "t0": 30.53,
+   "t1": 30.77
+  },
+  {
+   "line": 4,
+   "w": "city",
+   "t0": 30.85,
+   "t1": 31.17
+  },
+  {
+   "line": 4,
+   "w": "of",
+   "t0": 31.25,
+   "t1": 31.49
+  },
+  {
+   "line": 4,
+   "w": "Argos,",
+   "t0": 31.57,
+   "t1": 32.45
+  },
+  {
+   "line": 4,
+   "w": "with",
+   "t0": 32.53,
+   "t1": 32.61
+  },
+  {
+   "line": 4,
+   "w": "King",
+   "t0": 32.73,
+   "t1": 32.85
+  },
+  {
+   "line": 4,
+   "w": "Acrisius.",
+   "t0": 32.93,
+   "t1": 34.503
+  },
+  {
+   "line": 4,
+   "w": "Acrisius",
+   "t0": 34.557,
+   "t1": 35.17
+  },
+  {
+   "line": 4,
+   "w": "had",
+   "t0": 35.25,
+   "t1": 35.33
+  },
+  {
+   "line": 4,
+   "w": "a",
+   "t0": 35.41,
+   "t1": 35.57
+  },
+  {
+   "line": 4,
+   "w": "daughter,",
+   "t0": 35.93,
+   "t1": 36.37
+  },
+  {
+   "line": 4,
+   "w": "Danaë.",
+   "t0": 36.45,
+   "t1": 37.597
+  },
+  {
+   "line": 4,
+   "w": "But",
+   "t0": 37.703,
+   "t1": 37.81
+  },
+  {
+   "line": 4,
+   "w": "he",
+   "t0": 37.89,
+   "t1": 38.05
+  },
+  {
+   "line": 4,
+   "w": "wanted",
+   "t0": 38.13,
+   "t1": 38.37
+  },
+  {
+   "line": 4,
+   "w": "a",
+   "t0": 38.45,
+   "t1": 38.61
+  },
+  {
+   "line": 4,
+   "w": "son.",
+   "t0": 38.69,
+   "t1": 39.677
+  },
+  {
+   "line": 4,
+   "w": "So",
+   "t0": 39.783,
+   "t1": 39.89
+  },
+  {
+   "line": 4,
+   "w": "he",
+   "t0": 39.97,
+   "t1": 40.13
+  },
+  {
+   "line": 4,
+   "w": "went",
+   "t0": 40.21,
+   "t1": 40.29
+  },
+  {
+   "line": 4,
+   "w": "to",
+   "t0": 40.37,
+   "t1": 40.45
+  },
+  {
+   "line": 4,
+   "w": "the",
+   "t0": 40.53,
+   "t1": 40.61
+  },
+  {
+   "line": 4,
+   "w": "Oracle",
+   "t0": 40.69,
+   "t1": 41.01
+  },
+  {
+   "line": 4,
+   "w": "of",
+   "t0": 41.09,
+   "t1": 41.25
+  },
+  {
+   "line": 4,
+   "w": "Delphi.",
+   "t0": 41.37,
+   "t1": 42.423
+  },
+  {
+   "line": 4,
+   "w": "Basically",
+   "t0": 42.637,
+   "t1": 42.85
+  },
+  {
+   "line": 4,
+   "w": "ancient",
+   "t0": 42.93,
+   "t1": 43.33
+  },
+  {
+   "line": 4,
+   "w": "Google,",
+   "t0": 43.41,
+   "t1": 44.077
+  },
+  {
+   "line": 4,
+   "w": "but",
+   "t0": 44.183,
+   "t1": 44.29
+  },
+  {
+   "line": 4,
+   "w": "with",
+   "t0": 44.37,
+   "t1": 44.45
+  },
+  {
+   "line": 4,
+   "w": "more",
+   "t0": 44.57,
+   "t1": 44.69
+  },
+  {
+   "line": 4,
+   "w": "smoke.",
+   "t0": 44.77,
+   "t1": 45.65
+  },
+  {
+   "line": 5,
+   "w": "He",
+   "t0": 46.02,
+   "t1": 46.1
+  },
+  {
+   "line": 5,
+   "w": "asked:",
+   "t0": 46.26,
+   "t1": 47.22
+  },
+  {
+   "line": 5,
+   "w": "\"Will",
+   "t0": 47.26,
+   "t1": 47.46
+  },
+  {
+   "line": 5,
+   "w": "I",
+   "t0": 47.54,
+   "t1": 47.62
+  },
+  {
+   "line": 5,
+   "w": "have",
+   "t0": 47.7,
+   "t1": 47.78
+  },
+  {
+   "line": 5,
+   "w": "a",
+   "t0": 47.86,
+   "t1": 47.94
+  },
+  {
+   "line": 5,
+   "w": "son?\"",
+   "t0": 48.02,
+   "t1": 48.98
+  },
+  {
+   "line": 5,
+   "w": "The",
+   "t0": 49.06,
+   "t1": 49.14
+  },
+  {
+   "line": 5,
+   "w": "Oracle",
+   "t0": 49.22,
+   "t1": 49.62
+  },
+  {
+   "line": 5,
+   "w": "said:",
+   "t0": 49.7,
+   "t1": 50.5
+  },
+  {
+   "line": 5,
+   "w": "\"No.",
+   "t0": 50.7,
+   "t1": 51.3
+  },
+  {
+   "line": 5,
+   "w": "But",
+   "t0": 52.0,
+   "t1": 52.08
+  },
+  {
+   "line": 5,
+   "w": "your",
+   "t0": 52.24,
+   "t1": 52.4
+  },
+  {
+   "line": 5,
+   "w": "daughter",
+   "t0": 52.48,
+   "t1": 52.8
+  },
+  {
+   "line": 5,
+   "w": "will.",
+   "t0": 52.88,
+   "t1": 53.68
+  },
+  {
+   "line": 5,
+   "w": "And",
+   "t0": 53.76,
+   "t1": 53.84
+  },
+  {
+   "line": 5,
+   "w": "your",
+   "t0": 53.96,
+   "t1": 54.08
+  },
+  {
+   "line": 5,
+   "w": "grandson",
+   "t0": 54.28,
+   "t1": 54.8
+  },
+  {
+   "line": 5,
+   "w": "will",
+   "t0": 54.88,
+   "t1": 55.12
+  },
+  {
+   "line": 5,
+   "w": "kill",
+   "t0": 55.2,
+   "t1": 55.44
+  },
+  {
+   "line": 5,
+   "w": "you.\"",
+   "t0": 55.52,
+   "t1": 56.4
+  },
+  {
+   "line": 6,
+   "w": "Now,",
+   "t0": 57.45,
+   "t1": 58.01
+  },
+  {
+   "line": 6,
+   "w": "a",
+   "t0": 58.09,
+   "t1": 58.17
+  },
+  {
+   "line": 6,
+   "w": "normal",
+   "t0": 58.37,
+   "t1": 58.57
+  },
+  {
+   "line": 6,
+   "w": "person",
+   "t0": 58.77,
+   "t1": 58.97
+  },
+  {
+   "line": 6,
+   "w": "would",
+   "t0": 59.09,
+   "t1": 59.21
+  },
+  {
+   "line": 6,
+   "w": "say:",
+   "t0": 59.37,
+   "t1": 60.01
+  },
+  {
+   "line": 6,
+   "w": "\"Okay.",
+   "t0": 60.277,
+   "t1": 60.863
+  },
+  {
+   "line": 6,
+   "w": "I",
+   "t0": 60.917,
+   "t1": 60.97
+  },
+  {
+   "line": 6,
+   "w": "will",
+   "t0": 61.05,
+   "t1": 61.13
+  },
+  {
+   "line": 6,
+   "w": "be",
+   "t0": 61.21,
+   "t1": 61.45
+  },
+  {
+   "line": 6,
+   "w": "really,",
+   "t0": 61.53,
+   "t1": 62.01
+  },
+  {
+   "line": 6,
+   "w": "really",
+   "t0": 62.09,
+   "t1": 62.41
+  },
+  {
+   "line": 6,
+   "w": "nice",
+   "t0": 62.49,
+   "t1": 62.73
+  },
+  {
+   "line": 6,
+   "w": "to",
+   "t0": 62.81,
+   "t1": 62.89
+  },
+  {
+   "line": 6,
+   "w": "my",
+   "t0": 62.97,
+   "t1": 63.05
+  },
+  {
+   "line": 6,
+   "w": "grandson.\"",
+   "t0": 63.21,
+   "t1": 64.25
+  },
+  {
+   "line": 6,
+   "w": "Acrisius",
+   "t0": 64.87,
+   "t1": 65.59
+  },
+  {
+   "line": 6,
+   "w": "did",
+   "t0": 65.67,
+   "t1": 65.83
+  },
+  {
+   "line": 6,
+   "w": "not",
+   "t0": 65.91,
+   "t1": 66.15
+  },
+  {
+   "line": 6,
+   "w": "say",
+   "t0": 66.23,
+   "t1": 66.39
+  },
+  {
+   "line": 6,
+   "w": "that.",
+   "t0": 66.47,
+   "t1": 67.19
+  },
+  {
+   "line": 7,
+   "w": "He",
+   "t0": 67.64,
+   "t1": 67.72
+  },
+  {
+   "line": 7,
+   "w": "built",
+   "t0": 67.88,
+   "t1": 68.04
+  },
+  {
+   "line": 7,
+   "w": "a",
+   "t0": 68.12,
+   "t1": 68.2
+  },
+  {
+   "line": 7,
+   "w": "bronze",
+   "t0": 68.28,
+   "t1": 68.68
+  },
+  {
+   "line": 7,
+   "w": "tower",
+   "t0": 68.92,
+   "t1": 69.16
+  },
+  {
+   "line": 7,
+   "w": "and",
+   "t0": 69.24,
+   "t1": 69.4
+  },
+  {
+   "line": 7,
+   "w": "locked",
+   "t0": 69.48,
+   "t1": 69.8
+  },
+  {
+   "line": 7,
+   "w": "Danaë",
+   "t0": 69.88,
+   "t1": 70.28
+  },
+  {
+   "line": 7,
+   "w": "inside.",
+   "t0": 70.36,
+   "t1": 71.52
+  },
+  {
+   "line": 7,
+   "w": "No",
+   "t0": 71.56,
+   "t1": 71.72
+  },
+  {
+   "line": 7,
+   "w": "doors.",
+   "t0": 71.8,
+   "t1": 72.52
+  },
+  {
+   "line": 7,
+   "w": "No",
+   "t0": 72.6,
+   "t1": 72.76
+  },
+  {
+   "line": 7,
+   "w": "boys.",
+   "t0": 72.84,
+   "t1": 73.56
+  },
+  {
+   "line": 7,
+   "w": "No",
+   "t0": 73.64,
+   "t1": 73.8
+  },
+  {
+   "line": 7,
+   "w": "visitors.",
+   "t0": 73.88,
+   "t1": 74.76
+  },
+  {
+   "line": 7,
+   "w": "No",
+   "t0": 74.84,
+   "t1": 75.0
+  },
+  {
+   "line": 7,
+   "w": "grandson.",
+   "t0": 75.08,
+   "t1": 76.2
+  },
+  {
+   "line": 7,
+   "w": "Problem",
+   "t0": 76.82,
+   "t1": 77.22
+  },
+  {
+   "line": 7,
+   "w": "solved.",
+   "t0": 77.38,
+   "t1": 78.5
+  },
+  {
+   "line": 8,
+   "w": "Problem",
+   "t0": 78.95,
+   "t1": 79.35
+  },
+  {
+   "line": 8,
+   "w": "not",
+   "t0": 79.51,
+   "t1": 79.75
+  },
+  {
+   "line": 8,
+   "w": "solved.",
+   "t0": 79.83,
+   "t1": 80.39
+  },
+  {
+   "line": 8,
+   "w": "Because",
+   "t0": 80.95,
+   "t1": 81.27
+  },
+  {
+   "line": 8,
+   "w": "this",
+   "t0": 81.35,
+   "t1": 81.51
+  },
+  {
+   "line": 8,
+   "w": "is",
+   "t0": 81.59,
+   "t1": 81.67
+  },
+  {
+   "line": 8,
+   "w": "Greek",
+   "t0": 81.75,
+   "t1": 81.99
+  },
+  {
+   "line": 8,
+   "w": "mythology,",
+   "t0": 82.07,
+   "t1": 83.03
+  },
+  {
+   "line": 8,
+   "w": "and",
+   "t0": 83.11,
+   "t1": 83.19
+  },
+  {
+   "line": 8,
+   "w": "in",
+   "t0": 83.23,
+   "t1": 83.27
+  },
+  {
+   "line": 8,
+   "w": "Greek",
+   "t0": 83.35,
+   "t1": 83.59
+  },
+  {
+   "line": 8,
+   "w": "mythology,",
+   "t0": 83.67,
+   "t1": 84.39
+  },
+  {
+   "line": 8,
+   "w": "there",
+   "t0": 84.47,
+   "t1": 84.55
+  },
+  {
+   "line": 8,
+   "w": "is",
+   "t0": 84.67,
+   "t1": 84.79
+  },
+  {
+   "line": 8,
+   "w": "always",
+   "t0": 84.87,
+   "t1": 85.35
+  },
+  {
+   "line": 8,
+   "w": "Zeus.",
+   "t0": 85.51,
+   "t1": 86.15
+  },
+  {
+   "line": 9,
+   "w": "Zeus",
+   "t0": 86.6,
+   "t1": 87.08
+  },
+  {
+   "line": 9,
+   "w": "saw",
+   "t0": 87.16,
+   "t1": 87.4
+  },
+  {
+   "line": 9,
+   "w": "Danaë,",
+   "t0": 87.48,
+   "t1": 88.36
+  },
+  {
+   "line": 9,
+   "w": "liked",
+   "t0": 88.44,
+   "t1": 88.84
+  },
+  {
+   "line": 9,
+   "w": "Danaë,",
+   "t0": 88.92,
+   "t1": 89.72
+  },
+  {
+   "line": 9,
+   "w": "and",
+   "t0": 89.84,
+   "t1": 89.96
+  },
+  {
+   "line": 9,
+   "w": "got",
+   "t0": 90.04,
+   "t1": 90.2
+  },
+  {
+   "line": 9,
+   "w": "into",
+   "t0": 90.32,
+   "t1": 90.44
+  },
+  {
+   "line": 9,
+   "w": "the",
+   "t0": 90.52,
+   "t1": 90.6
+  },
+  {
+   "line": 9,
+   "w": "tower...",
+   "t0": 90.68,
+   "t1": 92.12
+  },
+  {
+   "line": 9,
+   "w": "as",
+   "t0": 92.2,
+   "t1": 92.28
+  },
+  {
+   "line": 9,
+   "w": "a",
+   "t0": 92.36,
+   "t1": 92.44
+  },
+  {
+   "line": 9,
+   "w": "shower",
+   "t0": 92.52,
+   "t1": 92.92
+  },
+  {
+   "line": 9,
+   "w": "of",
+   "t0": 93.0,
+   "t1": 93.24
+  },
+  {
+   "line": 9,
+   "w": "golden",
+   "t0": 93.48,
+   "t1": 93.72
+  },
+  {
+   "line": 9,
+   "w": "rain.",
+   "t0": 93.8,
+   "t1": 94.76
+  },
+  {
+   "line": 9,
+   "w": "Don't",
+   "t0": 95.46,
+   "t1": 95.7
+  },
+  {
+   "line": 9,
+   "w": "ask.",
+   "t0": 95.86,
+   "t1": 96.58
+  },
+  {
+   "line": 9,
+   "w": "Nobody",
+   "t0": 96.66,
+   "t1": 96.98
+  },
+  {
+   "line": 9,
+   "w": "knows.",
+   "t0": 97.06,
+   "t1": 97.94
+  },
+  {
+   "line": 9,
+   "w": "The",
+   "t0": 98.02,
+   "t1": 98.1
+  },
+  {
+   "line": 9,
+   "w": "Greeks",
+   "t0": 98.14,
+   "t1": 98.5
+  },
+  {
+   "line": 9,
+   "w": "didn't",
+   "t0": 98.58,
+   "t1": 98.74
+  },
+  {
+   "line": 9,
+   "w": "know",
+   "t0": 98.82,
+   "t1": 98.98
+  },
+  {
+   "line": 9,
+   "w": "either.",
+   "t0": 99.06,
+   "t1": 100.1
+  },
+  {
+   "line": 10,
+   "w": "Nine",
+   "t0": 100.47,
+   "t1": 100.79
+  },
+  {
+   "line": 10,
+   "w": "months",
+   "t0": 100.95,
+   "t1": 101.11
+  },
+  {
+   "line": 10,
+   "w": "later:",
+   "t0": 101.19,
+   "t1": 102.23
+  },
+  {
+   "line": 10,
+   "w": "baby",
+   "t0": 102.31,
+   "t1": 102.63
+  },
+  {
+   "line": 10,
+   "w": "Perseus.",
+   "t0": 102.71,
+   "t1": 103.67
+  },
+  {
+   "line": 10,
+   "w": "Already",
+   "t0": 104.37,
+   "t1": 104.85
+  },
+  {
+   "line": 10,
+   "w": "wearing",
+   "t0": 104.93,
+   "t1": 105.25
+  },
+  {
+   "line": 10,
+   "w": "a",
+   "t0": 105.29,
+   "t1": 105.33
+  },
+  {
+   "line": 10,
+   "w": "helmet.",
+   "t0": 105.41,
+   "t1": 106.25
+  },
+  {
+   "line": 10,
+   "w": "Probably.",
+   "t0": 106.53,
+   "t1": 107.25
+  },
+  {
+   "line": 11,
+   "w": "Acrisius",
+   "t0": 110.5,
+   "t1": 111.22
+  },
+  {
+   "line": 11,
+   "w": "heard",
+   "t0": 111.3,
+   "t1": 111.46
+  },
+  {
+   "line": 11,
+   "w": "a",
+   "t0": 111.54,
+   "t1": 111.62
+  },
+  {
+   "line": 11,
+   "w": "baby",
+   "t0": 111.7,
+   "t1": 112.02
+  },
+  {
+   "line": 11,
+   "w": "crying",
+   "t0": 112.1,
+   "t1": 112.42
+  },
+  {
+   "line": 11,
+   "w": "in",
+   "t0": 112.46,
+   "t1": 112.5
+  },
+  {
+   "line": 11,
+   "w": "the",
+   "t0": 112.58,
+   "t1": 112.66
+  },
+  {
+   "line": 11,
+   "w": "tower",
+   "t0": 112.74,
+   "t1": 113.14
+  },
+  {
+   "line": 11,
+   "w": "that",
+   "t0": 113.22,
+   "t1": 113.3
+  },
+  {
+   "line": 11,
+   "w": "was",
+   "t0": 113.38,
+   "t1": 113.46
+  },
+  {
+   "line": 11,
+   "w": "supposed",
+   "t0": 113.54,
+   "t1": 113.94
+  },
+  {
+   "line": 11,
+   "w": "to",
+   "t0": 114.02,
+   "t1": 114.1
+  },
+  {
+   "line": 11,
+   "w": "have",
+   "t0": 114.18,
+   "t1": 114.5
+  },
+  {
+   "line": 11,
+   "w": "zero",
+   "t0": 114.58,
+   "t1": 114.98
+  },
+  {
+   "line": 11,
+   "w": "babies.",
+   "t0": 115.06,
+   "t1": 116.22
+  },
+  {
+   "line": 11,
+   "w": "He",
+   "t0": 116.26,
+   "t1": 116.42
+  },
+  {
+   "line": 11,
+   "w": "was",
+   "t0": 116.58,
+   "t1": 116.74
+  },
+  {
+   "line": 11,
+   "w": "not",
+   "t0": 116.82,
+   "t1": 117.06
+  },
+  {
+   "line": 11,
+   "w": "happy.",
+   "t0": 117.58,
+   "t1": 118.18
+  },
+  {
+   "line": 12,
+   "w": "He",
+   "t0": 118.55,
+   "t1": 118.63
+  },
+  {
+   "line": 12,
+   "w": "couldn't",
+   "t0": 118.71,
+   "t1": 119.03
+  },
+  {
+   "line": 12,
+   "w": "just",
+   "t0": 119.11,
+   "t1": 119.35
+  },
+  {
+   "line": 12,
+   "w": "kill",
+   "t0": 119.43,
+   "t1": 119.67
+  },
+  {
+   "line": 12,
+   "w": "them.",
+   "t0": 119.75,
+   "t1": 120.55
+  },
+  {
+   "line": 12,
+   "w": "Killing",
+   "t0": 120.63,
+   "t1": 120.87
+  },
+  {
+   "line": 12,
+   "w": "your",
+   "t0": 120.95,
+   "t1": 121.11
+  },
+  {
+   "line": 12,
+   "w": "own",
+   "t0": 121.19,
+   "t1": 121.43
+  },
+  {
+   "line": 12,
+   "w": "family",
+   "t0": 121.51,
+   "t1": 121.99
+  },
+  {
+   "line": 12,
+   "w": "made",
+   "t0": 122.11,
+   "t1": 122.23
+  },
+  {
+   "line": 12,
+   "w": "the",
+   "t0": 122.31,
+   "t1": 122.39
+  },
+  {
+   "line": 12,
+   "w": "gods",
+   "t0": 122.43,
+   "t1": 122.87
+  },
+  {
+   "line": 12,
+   "w": "very",
+   "t0": 122.95,
+   "t1": 123.27
+  },
+  {
+   "line": 12,
+   "w": "angry.",
+   "t0": 123.43,
+   "t1": 124.51
+  },
+  {
+   "line": 12,
+   "w": "So",
+   "t0": 124.55,
+   "t1": 124.95
+  },
+  {
+   "line": 12,
+   "w": "he",
+   "t0": 125.03,
+   "t1": 125.11
+  },
+  {
+   "line": 12,
+   "w": "did",
+   "t0": 125.19,
+   "t1": 125.27
+  },
+  {
+   "line": 12,
+   "w": "the",
+   "t0": 125.35,
+   "t1": 125.51
+  },
+  {
+   "line": 12,
+   "w": "next",
+   "t0": 125.59,
+   "t1": 125.91
+  },
+  {
+   "line": 12,
+   "w": "best",
+   "t0": 126.07,
+   "t1": 126.23
+  },
+  {
+   "line": 12,
+   "w": "thing.",
+   "t0": 126.31,
+   "t1": 127.323
+  },
+  {
+   "line": 12,
+   "w": "He",
+   "t0": 127.377,
+   "t1": 127.43
+  },
+  {
+   "line": 12,
+   "w": "put",
+   "t0": 127.55,
+   "t1": 127.67
+  },
+  {
+   "line": 12,
+   "w": "Danaë",
+   "t0": 127.75,
+   "t1": 128.31
+  },
+  {
+   "line": 12,
+   "w": "and",
+   "t0": 128.39,
+   "t1": 128.47
+  },
+  {
+   "line": 12,
+   "w": "the",
+   "t0": 128.55,
+   "t1": 128.63
+  },
+  {
+   "line": 12,
+   "w": "baby",
+   "t0": 128.87,
+   "t1": 129.11
+  },
+  {
+   "line": 12,
+   "w": "in",
+   "t0": 129.15,
+   "t1": 129.19
+  },
+  {
+   "line": 12,
+   "w": "a",
+   "t0": 129.35,
+   "t1": 129.39
+  },
+  {
+   "line": 12,
+   "w": "wooden",
+   "t0": 129.43,
+   "t1": 129.75
+  },
+  {
+   "line": 12,
+   "w": "box...",
+   "t0": 130.23,
+   "t1": 130.79
+  },
+  {
+   "line": 12,
+   "w": "and",
+   "t0": 130.87,
+   "t1": 130.95
+  },
+  {
+   "line": 12,
+   "w": "threw",
+   "t0": 131.03,
+   "t1": 131.27
+  },
+  {
+   "line": 12,
+   "w": "the",
+   "t0": 131.35,
+   "t1": 131.43
+  },
+  {
+   "line": 12,
+   "w": "box",
+   "t0": 131.59,
+   "t1": 131.75
+  },
+  {
+   "line": 12,
+   "w": "into",
+   "t0": 131.83,
+   "t1": 132.07
+  },
+  {
+   "line": 12,
+   "w": "the",
+   "t0": 132.15,
+   "t1": 132.23
+  },
+  {
+   "line": 12,
+   "w": "sea.",
+   "t0": 132.31,
+   "t1": 133.27
+  },
+  {
+   "line": 12,
+   "w": "Totally",
+   "t0": 133.89,
+   "t1": 134.29
+  },
+  {
+   "line": 12,
+   "w": "different.",
+   "t0": 134.45,
+   "t1": 135.41
+  },
+  {
+   "line": 12,
+   "w": "The",
+   "t0": 135.49,
+   "t1": 135.57
+  },
+  {
+   "line": 12,
+   "w": "gods",
+   "t0": 135.61,
+   "t1": 135.89
+  },
+  {
+   "line": 12,
+   "w": "can't",
+   "t0": 135.97,
+   "t1": 136.13
+  },
+  {
+   "line": 12,
+   "w": "say",
+   "t0": 136.21,
+   "t1": 136.45
+  },
+  {
+   "line": 12,
+   "w": "anything.",
+   "t0": 136.53,
+   "t1": 137.73
+  },
+  {
+   "line": 13,
+   "w": "The",
+   "t0": 138.18,
+   "t1": 138.34
+  },
+  {
+   "line": 13,
+   "w": "box",
+   "t0": 138.42,
+   "t1": 138.74
+  },
+  {
+   "line": 13,
+   "w": "floated",
+   "t0": 138.82,
+   "t1": 139.22
+  },
+  {
+   "line": 13,
+   "w": "for",
+   "t0": 139.3,
+   "t1": 139.46
+  },
+  {
+   "line": 13,
+   "w": "days,",
+   "t0": 139.54,
+   "t1": 140.34
+  },
+  {
+   "line": 13,
+   "w": "and",
+   "t0": 140.46,
+   "t1": 140.58
+  },
+  {
+   "line": 13,
+   "w": "finally",
+   "t0": 140.66,
+   "t1": 141.14
+  },
+  {
+   "line": 13,
+   "w": "washed",
+   "t0": 141.3,
+   "t1": 141.54
+  },
+  {
+   "line": 13,
+   "w": "up",
+   "t0": 141.62,
+   "t1": 141.78
+  },
+  {
+   "line": 13,
+   "w": "on",
+   "t0": 141.82,
+   "t1": 141.86
+  },
+  {
+   "line": 13,
+   "w": "the",
+   "t0": 141.94,
+   "t1": 142.02
+  },
+  {
+   "line": 13,
+   "w": "island",
+   "t0": 142.1,
+   "t1": 142.42
+  },
+  {
+   "line": 13,
+   "w": "of",
+   "t0": 142.5,
+   "t1": 142.58
+  },
+  {
+   "line": 13,
+   "w": "Seriphos.",
+   "t0": 142.66,
+   "t1": 143.86
+  },
+  {
+   "line": 14,
+   "w": "There,",
+   "t0": 144.31,
+   "t1": 145.03
+  },
+  {
+   "line": 14,
+   "w": "a",
+   "t0": 145.11,
+   "t1": 145.19
+  },
+  {
+   "line": 14,
+   "w": "fisherman",
+   "t0": 145.31,
+   "t1": 145.67
+  },
+  {
+   "line": 14,
+   "w": "named",
+   "t0": 145.75,
+   "t1": 145.99
+  },
+  {
+   "line": 14,
+   "w": "Dictys",
+   "t0": 146.15,
+   "t1": 146.71
+  },
+  {
+   "line": 14,
+   "w": "pulled",
+   "t0": 146.79,
+   "t1": 147.03
+  },
+  {
+   "line": 14,
+   "w": "it",
+   "t0": 147.07,
+   "t1": 147.11
+  },
+  {
+   "line": 14,
+   "w": "out",
+   "t0": 147.19,
+   "t1": 147.27
+  },
+  {
+   "line": 14,
+   "w": "of",
+   "t0": 147.35,
+   "t1": 147.43
+  },
+  {
+   "line": 14,
+   "w": "the",
+   "t0": 147.47,
+   "t1": 147.51
+  },
+  {
+   "line": 14,
+   "w": "water,",
+   "t0": 147.59,
+   "t1": 148.39
+  },
+  {
+   "line": 14,
+   "w": "opened",
+   "t0": 148.59,
+   "t1": 148.79
+  },
+  {
+   "line": 14,
+   "w": "it,",
+   "t0": 148.87,
+   "t1": 149.35
+  },
+  {
+   "line": 14,
+   "w": "and",
+   "t0": 149.43,
+   "t1": 149.51
+  },
+  {
+   "line": 14,
+   "w": "found",
+   "t0": 149.59,
+   "t1": 149.75
+  },
+  {
+   "line": 14,
+   "w": "a",
+   "t0": 149.83,
+   "t1": 149.91
+  },
+  {
+   "line": 14,
+   "w": "woman",
+   "t0": 149.99,
+   "t1": 150.31
+  },
+  {
+   "line": 14,
+   "w": "and",
+   "t0": 150.39,
+   "t1": 150.47
+  },
+  {
+   "line": 14,
+   "w": "a",
+   "t0": 150.55,
+   "t1": 150.63
+  },
+  {
+   "line": 14,
+   "w": "baby",
+   "t0": 150.83,
+   "t1": 151.03
+  },
+  {
+   "line": 14,
+   "w": "inside.",
+   "t0": 151.35,
+   "t1": 152.15
+  },
+  {
+   "line": 14,
+   "w": "Best",
+   "t0": 152.85,
+   "t1": 153.25
+  },
+  {
+   "line": 14,
+   "w": "catch",
+   "t0": 153.33,
+   "t1": 153.65
+  },
+  {
+   "line": 14,
+   "w": "of",
+   "t0": 153.69,
+   "t1": 153.73
+  },
+  {
+   "line": 14,
+   "w": "his",
+   "t0": 153.81,
+   "t1": 153.97
+  },
+  {
+   "line": 14,
+   "w": "life.",
+   "t0": 154.13,
+   "t1": 154.77
+  },
+  {
+   "line": 15,
+   "w": "Dictys",
+   "t0": 155.22,
+   "t1": 155.7
+  },
+  {
+   "line": 15,
+   "w": "was",
+   "t0": 155.82,
+   "t1": 155.94
+  },
+  {
+   "line": 15,
+   "w": "kind.",
+   "t0": 156.18,
+   "t1": 156.9
+  },
+  {
+   "line": 15,
+   "w": "He",
+   "t0": 156.98,
+   "t1": 157.06
+  },
+  {
+   "line": 15,
+   "w": "took",
+   "t0": 157.14,
+   "t1": 157.22
+  },
+  {
+   "line": 15,
+   "w": "them",
+   "t0": 157.34,
+   "t1": 157.46
+  },
+  {
+   "line": 15,
+   "w": "home",
+   "t0": 157.54,
+   "t1": 157.86
+  },
+  {
+   "line": 15,
+   "w": "and",
+   "t0": 157.94,
+   "t1": 158.1
+  },
+  {
+   "line": 15,
+   "w": "raised",
+   "t0": 158.18,
+   "t1": 158.5
+  },
+  {
+   "line": 15,
+   "w": "Perseus",
+   "t0": 158.58,
+   "t1": 159.14
+  },
+  {
+   "line": 15,
+   "w": "like",
+   "t0": 159.22,
+   "t1": 159.3
+  },
+  {
+   "line": 15,
+   "w": "his",
+   "t0": 159.42,
+   "t1": 159.54
+  },
+  {
+   "line": 15,
+   "w": "own",
+   "t0": 159.62,
+   "t1": 159.86
+  },
+  {
+   "line": 15,
+   "w": "son.",
+   "t0": 159.94,
+   "t1": 160.86
+  },
+  {
+   "line": 15,
+   "w": "Remember",
+   "t0": 160.9,
+   "t1": 161.38
+  },
+  {
+   "line": 15,
+   "w": "Dictys.",
+   "t0": 161.46,
+   "t1": 162.46
+  },
+  {
+   "line": 15,
+   "w": "He",
+   "t0": 162.5,
+   "t1": 162.58
+  },
+  {
+   "line": 15,
+   "w": "is",
+   "t0": 162.66,
+   "t1": 162.74
+  },
+  {
+   "line": 15,
+   "w": "the",
+   "t0": 162.82,
+   "t1": 163.06
+  },
+  {
+   "line": 15,
+   "w": "only",
+   "t0": 163.14,
+   "t1": 163.54
+  },
+  {
+   "line": 15,
+   "w": "normal",
+   "t0": 163.74,
+   "t1": 163.94
+  },
+  {
+   "line": 15,
+   "w": "person",
+   "t0": 164.14,
+   "t1": 164.34
+  },
+  {
+   "line": 15,
+   "w": "in",
+   "t0": 164.42,
+   "t1": 164.5
+  },
+  {
+   "line": 15,
+   "w": "this",
+   "t0": 164.58,
+   "t1": 164.66
+  },
+  {
+   "line": 15,
+   "w": "entire",
+   "t0": 164.86,
+   "t1": 165.3
+  },
+  {
+   "line": 15,
+   "w": "story.",
+   "t0": 165.38,
+   "t1": 166.34
+  },
+  {
+   "line": 16,
+   "w": "Years",
+   "t0": 169.51,
+   "t1": 169.99
+  },
+  {
+   "line": 16,
+   "w": "passed.",
+   "t0": 170.07,
+   "t1": 171.11
+  },
+  {
+   "line": 16,
+   "w": "Perseus",
+   "t0": 171.23,
+   "t1": 171.67
+  },
+  {
+   "line": 16,
+   "w": "grew",
+   "t0": 171.75,
+   "t1": 171.91
+  },
+  {
+   "line": 16,
+   "w": "up",
+   "t0": 171.99,
+   "t1": 172.15
+  },
+  {
+   "line": 16,
+   "w": "strong,",
+   "t0": 172.23,
+   "t1": 173.11
+  },
+  {
+   "line": 16,
+   "w": "brave,",
+   "t0": 173.19,
+   "t1": 173.83
+  },
+  {
+   "line": 16,
+   "w": "and...",
+   "t0": 174.31,
+   "t1": 174.87
+  },
+  {
+   "line": 16,
+   "w": "let's",
+   "t0": 174.95,
+   "t1": 175.11
+  },
+  {
+   "line": 16,
+   "w": "say,",
+   "t0": 175.27,
+   "t1": 175.83
+  },
+  {
+   "line": 16,
+   "w": "very",
+   "t0": 176.03,
+   "t1": 176.23
+  },
+  {
+   "line": 16,
+   "w": "confident.",
+   "t0": 176.39,
+   "t1": 177.51
+  },
+  {
+   "line": 17,
+   "w": "Unfortunately,",
+   "t0": 177.96,
+   "t1": 179.08
+  },
+  {
+   "line": 17,
+   "w": "Dictys",
+   "t0": 179.16,
+   "t1": 179.72
+  },
+  {
+   "line": 17,
+   "w": "had",
+   "t0": 179.8,
+   "t1": 179.88
+  },
+  {
+   "line": 17,
+   "w": "a",
+   "t0": 179.92,
+   "t1": 179.96
+  },
+  {
+   "line": 17,
+   "w": "brother:",
+   "t0": 180.04,
+   "t1": 180.92
+  },
+  {
+   "line": 17,
+   "w": "Polydectes,",
+   "t0": 181.08,
+   "t1": 182.04
+  },
+  {
+   "line": 17,
+   "w": "the",
+   "t0": 182.12,
+   "t1": 182.2
+  },
+  {
+   "line": 17,
+   "w": "king",
+   "t0": 182.28,
+   "t1": 182.52
+  },
+  {
+   "line": 17,
+   "w": "of",
+   "t0": 182.6,
+   "t1": 182.68
+  },
+  {
+   "line": 17,
+   "w": "the",
+   "t0": 182.76,
+   "t1": 182.84
+  },
+  {
+   "line": 17,
+   "w": "island.",
+   "t0": 182.92,
+   "t1": 183.96
+  },
+  {
+   "line": 17,
+   "w": "And",
+   "t0": 184.04,
+   "t1": 184.12
+  },
+  {
+   "line": 17,
+   "w": "Polydectes",
+   "t0": 184.2,
+   "t1": 185.0
+  },
+  {
+   "line": 17,
+   "w": "wanted",
+   "t0": 185.08,
+   "t1": 185.4
+  },
+  {
+   "line": 17,
+   "w": "to",
+   "t0": 185.52,
+   "t1": 185.64
+  },
+  {
+   "line": 17,
+   "w": "marry",
+   "t0": 185.76,
+   "t1": 186.04
+  },
+  {
+   "line": 17,
+   "w": "Danaë.",
+   "t0": 186.12,
+   "t1": 187.4
+  },
+  {
+   "line": 17,
+   "w": "Danaë",
+   "t0": 187.44,
+   "t1": 187.96
+  },
+  {
+   "line": 17,
+   "w": "said",
+   "t0": 188.12,
+   "t1": 188.28
+  },
+  {
+   "line": 17,
+   "w": "no.",
+   "t0": 188.36,
+   "t1": 189.2
+  },
+  {
+   "line": 17,
+   "w": "Perseus",
+   "t0": 189.24,
+   "t1": 189.88
+  },
+  {
+   "line": 17,
+   "w": "said",
+   "t0": 190.0,
+   "t1": 190.12
+  },
+  {
+   "line": 17,
+   "w": "no.",
+   "t0": 190.2,
+   "t1": 191.04
+  },
+  {
+   "line": 17,
+   "w": "Polydectes",
+   "t0": 191.08,
+   "t1": 191.88
+  },
+  {
+   "line": 17,
+   "w": "heard",
+   "t0": 192.2,
+   "t1": 192.52
+  },
+  {
+   "line": 17,
+   "w": "\"maybe\".",
+   "t0": 192.56,
+   "t1": 193.64
+  },
+  {
+   "line": 18,
+   "w": "So",
+   "t0": 194.01,
+   "t1": 194.17
+  },
+  {
+   "line": 18,
+   "w": "he",
+   "t0": 194.25,
+   "t1": 194.41
+  },
+  {
+   "line": 18,
+   "w": "made",
+   "t0": 194.49,
+   "t1": 194.57
+  },
+  {
+   "line": 18,
+   "w": "a",
+   "t0": 194.65,
+   "t1": 194.73
+  },
+  {
+   "line": 18,
+   "w": "plan.",
+   "t0": 194.81,
+   "t1": 195.77
+  },
+  {
+   "line": 18,
+   "w": "He",
+   "t0": 195.85,
+   "t1": 195.93
+  },
+  {
+   "line": 18,
+   "w": "threw",
+   "t0": 196.01,
+   "t1": 196.25
+  },
+  {
+   "line": 18,
+   "w": "a",
+   "t0": 196.37,
+   "t1": 196.49
+  },
+  {
+   "line": 18,
+   "w": "big",
+   "t0": 196.57,
+   "t1": 196.81
+  },
+  {
+   "line": 18,
+   "w": "royal",
+   "t0": 196.97,
+   "t1": 197.37
+  },
+  {
+   "line": 18,
+   "w": "party",
+   "t0": 197.45,
+   "t1": 197.85
+  },
+  {
+   "line": 18,
+   "w": "and",
+   "t0": 197.93,
+   "t1": 198.09
+  },
+  {
+   "line": 18,
+   "w": "told",
+   "t0": 198.13,
+   "t1": 198.41
+  },
+  {
+   "line": 18,
+   "w": "everyone:",
+   "t0": 198.57,
+   "t1": 199.477
+  },
+  {
+   "line": 18,
+   "w": "\"I'm",
+   "t0": 199.503,
+   "t1": 199.69
+  },
+  {
+   "line": 18,
+   "w": "getting",
+   "t0": 199.81,
+   "t1": 199.93
+  },
+  {
+   "line": 18,
+   "w": "married!",
+   "t0": 200.01,
+   "t1": 200.77
+  },
+  {
+   "line": 18,
+   "w": "Bring",
+   "t0": 200.81,
+   "t1": 200.97
+  },
+  {
+   "line": 18,
+   "w": "me",
+   "t0": 201.01,
+   "t1": 201.05
+  },
+  {
+   "line": 18,
+   "w": "a",
+   "t0": 201.13,
+   "t1": 201.21
+  },
+  {
+   "line": 18,
+   "w": "gift.",
+   "t0": 201.29,
+   "t1": 202.037
+  },
+  {
+   "line": 18,
+   "w": "A",
+   "t0": 202.063,
+   "t1": 202.09
+  },
+  {
+   "line": 18,
+   "w": "horse",
+   "t0": 202.17,
+   "t1": 202.41
+  },
+  {
+   "line": 18,
+   "w": "would",
+   "t0": 202.49,
+   "t1": 202.57
+  },
+  {
+   "line": 18,
+   "w": "be",
+   "t0": 202.65,
+   "t1": 202.73
+  },
+  {
+   "line": 18,
+   "w": "nice.\"",
+   "t0": 202.93,
+   "t1": 203.77
+  },
+  {
+   "line": 19,
+   "w": "Every",
+   "t0": 204.22,
+   "t1": 204.54
+  },
+  {
+   "line": 19,
+   "w": "guest",
+   "t0": 204.62,
+   "t1": 205.02
+  },
+  {
+   "line": 19,
+   "w": "brought",
+   "t0": 205.1,
+   "t1": 205.34
+  },
+  {
+   "line": 19,
+   "w": "a",
+   "t0": 205.38,
+   "t1": 205.42
+  },
+  {
+   "line": 19,
+   "w": "horse.",
+   "t0": 205.5,
+   "t1": 206.62
+  },
+  {
+   "line": 19,
+   "w": "Perseus",
+   "t0": 206.7,
+   "t1": 207.34
+  },
+  {
+   "line": 19,
+   "w": "had",
+   "t0": 207.5,
+   "t1": 207.74
+  },
+  {
+   "line": 19,
+   "w": "no",
+   "t0": 207.9,
+   "t1": 208.06
+  },
+  {
+   "line": 19,
+   "w": "horse.",
+   "t0": 208.14,
+   "t1": 209.18
+  },
+  {
+   "line": 19,
+   "w": "Perseus",
+   "t0": 209.3,
+   "t1": 209.74
+  },
+  {
+   "line": 19,
+   "w": "had",
+   "t0": 209.82,
+   "t1": 209.98
+  },
+  {
+   "line": 19,
+   "w": "no",
+   "t0": 210.06,
+   "t1": 210.22
+  },
+  {
+   "line": 19,
+   "w": "money.",
+   "t0": 210.3,
+   "t1": 211.26
+  },
+  {
+   "line": 19,
+   "w": "Perseus",
+   "t0": 211.38,
+   "t1": 211.9
+  },
+  {
+   "line": 19,
+   "w": "had...",
+   "t0": 211.98,
+   "t1": 213.02
+  },
+  {
+   "line": 19,
+   "w": "confidence.",
+   "t0": 213.42,
+   "t1": 214.06
+  },
+  {
+   "line": 20,
+   "w": "\"Horses",
+   "t0": 214.51,
+   "t1": 214.99
+  },
+  {
+   "line": 20,
+   "w": "are",
+   "t0": 215.07,
+   "t1": 215.39
+  },
+  {
+   "line": 20,
+   "w": "boring!",
+   "t0": 215.47,
+   "t1": 216.55
+  },
+  {
+   "line": 20,
+   "w": "Name",
+   "t0": 216.59,
+   "t1": 216.91
+  },
+  {
+   "line": 20,
+   "w": "anything,",
+   "t0": 216.99,
+   "t1": 217.63
+  },
+  {
+   "line": 20,
+   "w": "and",
+   "t0": 217.71,
+   "t1": 217.79
+  },
+  {
+   "line": 20,
+   "w": "I",
+   "t0": 217.95,
+   "t1": 217.99
+  },
+  {
+   "line": 20,
+   "w": "will",
+   "t0": 218.03,
+   "t1": 218.19
+  },
+  {
+   "line": 20,
+   "w": "bring",
+   "t0": 218.31,
+   "t1": 218.43
+  },
+  {
+   "line": 20,
+   "w": "it.",
+   "t0": 218.71,
+   "t1": 219.03
+  },
+  {
+   "line": 20,
+   "w": "Even",
+   "t0": 219.07,
+   "t1": 219.31
+  },
+  {
+   "line": 20,
+   "w": "the",
+   "t0": 219.39,
+   "t1": 219.47
+  },
+  {
+   "line": 20,
+   "w": "head",
+   "t0": 219.55,
+   "t1": 219.63
+  },
+  {
+   "line": 20,
+   "w": "of",
+   "t0": 219.71,
+   "t1": 219.79
+  },
+  {
+   "line": 20,
+   "w": "Medusa!\"",
+   "t0": 219.91,
+   "t1": 221.07
+  },
+  {
+   "line": 21,
+   "w": "The",
+   "t0": 221.44,
+   "t1": 221.6
+  },
+  {
+   "line": 21,
+   "w": "room",
+   "t0": 221.68,
+   "t1": 222.0
+  },
+  {
+   "line": 21,
+   "w": "went",
+   "t0": 222.08,
+   "t1": 222.32
+  },
+  {
+   "line": 21,
+   "w": "quiet.",
+   "t0": 222.4,
+   "t1": 223.6
+  },
+  {
+   "line": 21,
+   "w": "The",
+   "t0": 223.68,
+   "t1": 223.76
+  },
+  {
+   "line": 21,
+   "w": "king",
+   "t0": 223.84,
+   "t1": 224.08
+  },
+  {
+   "line": 21,
+   "w": "smiled.",
+   "t0": 224.16,
+   "t1": 225.36
+  },
+  {
+   "line": 21,
+   "w": "\"Deal.\"",
+   "t0": 225.4,
+   "t1": 226.48
+  },
+  {
+   "line": 22,
+   "w": "And",
+   "t0": 227.23,
+   "t1": 227.39
+  },
+  {
+   "line": 22,
+   "w": "that",
+   "t0": 227.47,
+   "t1": 227.63
+  },
+  {
+   "line": 22,
+   "w": "is",
+   "t0": 227.71,
+   "t1": 227.79
+  },
+  {
+   "line": 22,
+   "w": "how",
+   "t0": 227.91,
+   "t1": 228.03
+  },
+  {
+   "line": 22,
+   "w": "Perseus",
+   "t0": 228.11,
+   "t1": 228.75
+  },
+  {
+   "line": 22,
+   "w": "signed",
+   "t0": 228.83,
+   "t1": 229.15
+  },
+  {
+   "line": 22,
+   "w": "up",
+   "t0": 229.23,
+   "t1": 229.31
+  },
+  {
+   "line": 22,
+   "w": "to",
+   "t0": 229.39,
+   "t1": 229.47
+  },
+  {
+   "line": 22,
+   "w": "die.",
+   "t0": 229.55,
+   "t1": 230.483
+  },
+  {
+   "line": 22,
+   "w": "At",
+   "t0": 230.537,
+   "t1": 230.59
+  },
+  {
+   "line": 22,
+   "w": "a",
+   "t0": 230.63,
+   "t1": 230.67
+  },
+  {
+   "line": 22,
+   "w": "party.",
+   "t0": 230.75,
+   "t1": 231.59
+  },
+  {
+   "line": 22,
+   "w": "With",
+   "t0": 231.63,
+   "t1": 231.87
+  },
+  {
+   "line": 22,
+   "w": "no",
+   "t0": 231.95,
+   "t1": 232.19
+  },
+  {
+   "line": 22,
+   "w": "plan.",
+   "t0": 232.59,
+   "t1": 233.03
+  },
+  {
+   "line": 22,
+   "w": "In",
+   "t0": 233.07,
+   "t1": 233.23
+  },
+  {
+   "line": 22,
+   "w": "front",
+   "t0": 233.35,
+   "t1": 233.47
+  },
+  {
+   "line": 22,
+   "w": "of",
+   "t0": 233.55,
+   "t1": 233.79
+  },
+  {
+   "line": 22,
+   "w": "everyone.",
+   "t0": 233.87,
+   "t1": 235.07
+  },
+  {
+   "line": 23,
+   "w": "Medusa",
+   "t0": 238.24,
+   "t1": 238.88
+  },
+  {
+   "line": 23,
+   "w": "was",
+   "t0": 238.96,
+   "t1": 239.12
+  },
+  {
+   "line": 23,
+   "w": "a",
+   "t0": 239.2,
+   "t1": 239.28
+  },
+  {
+   "line": 23,
+   "w": "Gorgon:",
+   "t0": 239.32,
+   "t1": 240.32
+  },
+  {
+   "line": 23,
+   "w": "a",
+   "t0": 240.36,
+   "t1": 240.4
+  },
+  {
+   "line": 23,
+   "w": "monster",
+   "t0": 240.56,
+   "t1": 241.04
+  },
+  {
+   "line": 23,
+   "w": "with",
+   "t0": 241.12,
+   "t1": 241.28
+  },
+  {
+   "line": 23,
+   "w": "snakes",
+   "t0": 241.44,
+   "t1": 241.84
+  },
+  {
+   "line": 23,
+   "w": "for",
+   "t0": 241.92,
+   "t1": 242.08
+  },
+  {
+   "line": 23,
+   "w": "hair.",
+   "t0": 242.28,
+   "t1": 243.2
+  },
+  {
+   "line": 23,
+   "w": "One",
+   "t0": 243.28,
+   "t1": 243.44
+  },
+  {
+   "line": 23,
+   "w": "look",
+   "t0": 243.52,
+   "t1": 243.6
+  },
+  {
+   "line": 23,
+   "w": "at",
+   "t0": 243.68,
+   "t1": 243.76
+  },
+  {
+   "line": 23,
+   "w": "her",
+   "t0": 243.88,
+   "t1": 244.0
+  },
+  {
+   "line": 23,
+   "w": "face,",
+   "t0": 244.24,
+   "t1": 244.56
+  },
+  {
+   "line": 23,
+   "w": "and",
+   "t0": 244.64,
+   "t1": 244.72
+  },
+  {
+   "line": 23,
+   "w": "you",
+   "t0": 244.8,
+   "t1": 244.88
+  },
+  {
+   "line": 23,
+   "w": "turned",
+   "t0": 244.96,
+   "t1": 245.28
+  },
+  {
+   "line": 23,
+   "w": "into",
+   "t0": 245.44,
+   "t1": 245.6
+  },
+  {
+   "line": 23,
+   "w": "stone.",
+   "t0": 245.84,
+   "t1": 246.8
+  },
+  {
+   "line": 23,
+   "w": "Heroes",
+   "t0": 247.04,
+   "t1": 247.28
+  },
+  {
+   "line": 23,
+   "w": "had",
+   "t0": 247.36,
+   "t1": 247.52
+  },
+  {
+   "line": 23,
+   "w": "tried",
+   "t0": 247.6,
+   "t1": 247.84
+  },
+  {
+   "line": 23,
+   "w": "before.",
+   "t0": 248.4,
+   "t1": 249.04
+  },
+  {
+   "line": 23,
+   "w": "Her",
+   "t0": 249.12,
+   "t1": 249.2
+  },
+  {
+   "line": 23,
+   "w": "cave",
+   "t0": 249.24,
+   "t1": 249.52
+  },
+  {
+   "line": 23,
+   "w": "was",
+   "t0": 249.6,
+   "t1": 249.84
+  },
+  {
+   "line": 23,
+   "w": "full",
+   "t0": 249.92,
+   "t1": 250.08
+  },
+  {
+   "line": 23,
+   "w": "of",
+   "t0": 250.2,
+   "t1": 250.32
+  },
+  {
+   "line": 23,
+   "w": "very",
+   "t0": 250.4,
+   "t1": 250.64
+  },
+  {
+   "line": 23,
+   "w": "surprised",
+   "t0": 250.72,
+   "t1": 251.2
+  },
+  {
+   "line": 23,
+   "w": "statues.",
+   "t0": 251.28,
+   "t1": 252.64
+  },
+  {
+   "line": 24,
+   "w": "But",
+   "t0": 253.01,
+   "t1": 253.17
+  },
+  {
+   "line": 24,
+   "w": "the",
+   "t0": 253.25,
+   "t1": 253.41
+  },
+  {
+   "line": 24,
+   "w": "gods",
+   "t0": 253.49,
+   "t1": 253.81
+  },
+  {
+   "line": 24,
+   "w": "were",
+   "t0": 253.89,
+   "t1": 254.05
+  },
+  {
+   "line": 24,
+   "w": "watching.",
+   "t0": 254.21,
+   "t1": 255.17
+  },
+  {
+   "line": 24,
+   "w": "Athena,",
+   "t0": 255.25,
+   "t1": 256.13
+  },
+  {
+   "line": 24,
+   "w": "goddess",
+   "t0": 256.17,
+   "t1": 256.45
+  },
+  {
+   "line": 24,
+   "w": "of",
+   "t0": 256.53,
+   "t1": 256.61
+  },
+  {
+   "line": 24,
+   "w": "wisdom,",
+   "t0": 256.69,
+   "t1": 257.49
+  },
+  {
+   "line": 24,
+   "w": "and",
+   "t0": 257.57,
+   "t1": 257.65
+  },
+  {
+   "line": 24,
+   "w": "Hermes,",
+   "t0": 257.73,
+   "t1": 258.53
+  },
+  {
+   "line": 24,
+   "w": "the",
+   "t0": 258.57,
+   "t1": 258.61
+  },
+  {
+   "line": 24,
+   "w": "messenger",
+   "t0": 258.69,
+   "t1": 259.09
+  },
+  {
+   "line": 24,
+   "w": "god,",
+   "t0": 259.17,
+   "t1": 259.73
+  },
+  {
+   "line": 24,
+   "w": "decided",
+   "t0": 259.85,
+   "t1": 260.29
+  },
+  {
+   "line": 24,
+   "w": "to",
+   "t0": 260.37,
+   "t1": 260.45
+  },
+  {
+   "line": 24,
+   "w": "help.",
+   "t0": 260.53,
+   "t1": 261.57
+  },
+  {
+   "line": 24,
+   "w": "Mostly",
+   "t0": 261.73,
+   "t1": 262.13
+  },
+  {
+   "line": 24,
+   "w": "because",
+   "t0": 262.29,
+   "t1": 262.45
+  },
+  {
+   "line": 24,
+   "w": "Perseus",
+   "t0": 262.53,
+   "t1": 263.17
+  },
+  {
+   "line": 24,
+   "w": "was",
+   "t0": 263.25,
+   "t1": 263.41
+  },
+  {
+   "line": 24,
+   "w": "Zeus's",
+   "t0": 263.49,
+   "t1": 263.97
+  },
+  {
+   "line": 24,
+   "w": "son.",
+   "t0": 264.17,
+   "t1": 265.01
+  },
+  {
+   "line": 24,
+   "w": "Nepotism:",
+   "t0": 265.71,
+   "t1": 266.99
+  },
+  {
+   "line": 24,
+   "w": "also",
+   "t0": 267.23,
+   "t1": 267.47
+  },
+  {
+   "line": 24,
+   "w": "a",
+   "t0": 267.51,
+   "t1": 267.55
+  },
+  {
+   "line": 24,
+   "w": "Greek",
+   "t0": 267.63,
+   "t1": 267.87
+  },
+  {
+   "line": 24,
+   "w": "invention.",
+   "t0": 267.95,
+   "t1": 268.75
+  },
+  {
+   "line": 25,
+   "w": "Athena",
+   "t0": 269.2,
+   "t1": 269.76
+  },
+  {
+   "line": 25,
+   "w": "gave",
+   "t0": 269.84,
+   "t1": 270.0
+  },
+  {
+   "line": 25,
+   "w": "him",
+   "t0": 270.08,
+   "t1": 270.16
+  },
+  {
+   "line": 25,
+   "w": "a",
+   "t0": 270.24,
+   "t1": 270.32
+  },
+  {
+   "line": 25,
+   "w": "bronze",
+   "t0": 270.4,
+   "t1": 270.8
+  },
+  {
+   "line": 25,
+   "w": "shield,",
+   "t0": 270.88,
+   "t1": 271.56
+  },
+  {
+   "line": 25,
+   "w": "polished",
+   "t0": 271.6,
+   "t1": 272.08
+  },
+  {
+   "line": 25,
+   "w": "like",
+   "t0": 272.16,
+   "t1": 272.32
+  },
+  {
+   "line": 25,
+   "w": "a",
+   "t0": 272.4,
+   "t1": 272.48
+  },
+  {
+   "line": 25,
+   "w": "mirror.",
+   "t0": 272.56,
+   "t1": 273.653
+  },
+  {
+   "line": 25,
+   "w": "\"Don't",
+   "t0": 273.707,
+   "t1": 273.84
+  },
+  {
+   "line": 25,
+   "w": "look",
+   "t0": 273.92,
+   "t1": 274.0
+  },
+  {
+   "line": 25,
+   "w": "at",
+   "t0": 274.04,
+   "t1": 274.08
+  },
+  {
+   "line": 25,
+   "w": "Medusa.",
+   "t0": 274.16,
+   "t1": 275.16
+  },
+  {
+   "line": 25,
+   "w": "Look",
+   "t0": 275.2,
+   "t1": 275.28
+  },
+  {
+   "line": 25,
+   "w": "at",
+   "t0": 275.36,
+   "t1": 275.44
+  },
+  {
+   "line": 25,
+   "w": "her",
+   "t0": 275.52,
+   "t1": 275.6
+  },
+  {
+   "line": 25,
+   "w": "reflection.\"",
+   "t0": 276.32,
+   "t1": 277.067
+  },
+  {
+   "line": 25,
+   "w": "Hermes",
+   "t0": 277.093,
+   "t1": 277.6
+  },
+  {
+   "line": 25,
+   "w": "gave",
+   "t0": 277.64,
+   "t1": 277.76
+  },
+  {
+   "line": 25,
+   "w": "him",
+   "t0": 277.84,
+   "t1": 277.92
+  },
+  {
+   "line": 25,
+   "w": "a",
+   "t0": 278.08,
+   "t1": 278.12
+  },
+  {
+   "line": 25,
+   "w": "sword",
+   "t0": 278.16,
+   "t1": 278.56
+  },
+  {
+   "line": 25,
+   "w": "that",
+   "t0": 278.64,
+   "t1": 278.72
+  },
+  {
+   "line": 25,
+   "w": "could",
+   "t0": 278.84,
+   "t1": 278.96
+  },
+  {
+   "line": 25,
+   "w": "cut",
+   "t0": 279.12,
+   "t1": 279.28
+  },
+  {
+   "line": 25,
+   "w": "anything,",
+   "t0": 279.36,
+   "t1": 280.24
+  },
+  {
+   "line": 25,
+   "w": "and",
+   "t0": 280.32,
+   "t1": 280.4
+  },
+  {
+   "line": 25,
+   "w": "flying",
+   "t0": 280.48,
+   "t1": 280.8
+  },
+  {
+   "line": 25,
+   "w": "sandals.",
+   "t0": 280.88,
+   "t1": 282.16
+  },
+  {
+   "line": 26,
+   "w": "There",
+   "t0": 282.53,
+   "t1": 282.69
+  },
+  {
+   "line": 26,
+   "w": "was",
+   "t0": 282.77,
+   "t1": 282.93
+  },
+  {
+   "line": 26,
+   "w": "one",
+   "t0": 283.01,
+   "t1": 283.17
+  },
+  {
+   "line": 26,
+   "w": "problem.",
+   "t0": 283.33,
+   "t1": 284.45
+  },
+  {
+   "line": 26,
+   "w": "Nobody",
+   "t0": 284.53,
+   "t1": 285.01
+  },
+  {
+   "line": 26,
+   "w": "knew",
+   "t0": 285.09,
+   "t1": 285.41
+  },
+  {
+   "line": 26,
+   "w": "where",
+   "t0": 285.49,
+   "t1": 285.65
+  },
+  {
+   "line": 26,
+   "w": "Medusa",
+   "t0": 285.73,
+   "t1": 286.21
+  },
+  {
+   "line": 26,
+   "w": "lived.",
+   "t0": 286.29,
+   "t1": 287.33
+  },
+  {
+   "line": 26,
+   "w": "Nobody...",
+   "t0": 287.41,
+   "t1": 288.53
+  },
+  {
+   "line": 26,
+   "w": "except",
+   "t0": 288.77,
+   "t1": 289.01
+  },
+  {
+   "line": 26,
+   "w": "the",
+   "t0": 289.09,
+   "t1": 289.17
+  },
+  {
+   "line": 26,
+   "w": "Graeae.",
+   "t0": 289.21,
+   "t1": 290.37
+  },
+  {
+   "line": 27,
+   "w": "The",
+   "t0": 293.62,
+   "t1": 293.78
+  },
+  {
+   "line": 27,
+   "w": "Graeae",
+   "t0": 293.86,
+   "t1": 294.42
+  },
+  {
+   "line": 27,
+   "w": "were",
+   "t0": 294.5,
+   "t1": 294.74
+  },
+  {
+   "line": 27,
+   "w": "three",
+   "t0": 294.9,
+   "t1": 295.06
+  },
+  {
+   "line": 27,
+   "w": "old",
+   "t0": 295.22,
+   "t1": 295.46
+  },
+  {
+   "line": 27,
+   "w": "sisters.",
+   "t0": 295.54,
+   "t1": 296.66
+  },
+  {
+   "line": 27,
+   "w": "They",
+   "t0": 296.7,
+   "t1": 296.74
+  },
+  {
+   "line": 27,
+   "w": "were",
+   "t0": 296.82,
+   "t1": 296.98
+  },
+  {
+   "line": 27,
+   "w": "born",
+   "t0": 297.14,
+   "t1": 297.3
+  },
+  {
+   "line": 27,
+   "w": "old.",
+   "t0": 297.38,
+   "t1": 298.1
+  },
+  {
+   "line": 27,
+   "w": "Grey",
+   "t0": 298.26,
+   "t1": 298.42
+  },
+  {
+   "line": 27,
+   "w": "hair",
+   "t0": 298.5,
+   "t1": 298.82
+  },
+  {
+   "line": 27,
+   "w": "from",
+   "t0": 298.94,
+   "t1": 299.06
+  },
+  {
+   "line": 27,
+   "w": "day",
+   "t0": 299.14,
+   "t1": 299.38
+  },
+  {
+   "line": 27,
+   "w": "one.",
+   "t0": 299.46,
+   "t1": 300.26
+  },
+  {
+   "line": 28,
+   "w": "And",
+   "t0": 300.71,
+   "t1": 300.87
+  },
+  {
+   "line": 28,
+   "w": "between",
+   "t0": 301.07,
+   "t1": 301.27
+  },
+  {
+   "line": 28,
+   "w": "the",
+   "t0": 301.35,
+   "t1": 301.43
+  },
+  {
+   "line": 28,
+   "w": "three",
+   "t0": 301.51,
+   "t1": 301.67
+  },
+  {
+   "line": 28,
+   "w": "of",
+   "t0": 301.75,
+   "t1": 301.83
+  },
+  {
+   "line": 28,
+   "w": "them,",
+   "t0": 301.91,
+   "t1": 302.39
+  },
+  {
+   "line": 28,
+   "w": "they",
+   "t0": 302.47,
+   "t1": 302.55
+  },
+  {
+   "line": 28,
+   "w": "had",
+   "t0": 302.63,
+   "t1": 302.87
+  },
+  {
+   "line": 28,
+   "w": "one",
+   "t0": 302.95,
+   "t1": 303.19
+  },
+  {
+   "line": 28,
+   "w": "eye.",
+   "t0": 303.27,
+   "t1": 304.07
+  },
+  {
+   "line": 28,
+   "w": "And",
+   "t0": 304.77,
+   "t1": 304.93
+  },
+  {
+   "line": 28,
+   "w": "one",
+   "t0": 305.01,
+   "t1": 305.25
+  },
+  {
+   "line": 28,
+   "w": "tooth.",
+   "t0": 305.33,
+   "t1": 306.45
+  },
+  {
+   "line": 29,
+   "w": "They",
+   "t0": 306.9,
+   "t1": 307.14
+  },
+  {
+   "line": 29,
+   "w": "passed",
+   "t0": 307.3,
+   "t1": 307.46
+  },
+  {
+   "line": 29,
+   "w": "the",
+   "t0": 307.54,
+   "t1": 307.62
+  },
+  {
+   "line": 29,
+   "w": "eye",
+   "t0": 307.7,
+   "t1": 307.86
+  },
+  {
+   "line": 29,
+   "w": "around",
+   "t0": 307.94,
+   "t1": 308.42
+  },
+  {
+   "line": 29,
+   "w": "and",
+   "t0": 308.5,
+   "t1": 308.66
+  },
+  {
+   "line": 29,
+   "w": "took",
+   "t0": 308.78,
+   "t1": 308.9
+  },
+  {
+   "line": 29,
+   "w": "turns",
+   "t0": 308.98,
+   "t1": 309.46
+  },
+  {
+   "line": 29,
+   "w": "seeing.",
+   "t0": 309.7,
+   "t1": 310.22
+  },
+  {
+   "line": 29,
+   "w": "\"My",
+   "t0": 310.5,
+   "t1": 310.74
+  },
+  {
+   "line": 29,
+   "w": "turn!\"",
+   "t0": 310.82,
+   "t1": 311.62
+  },
+  {
+   "line": 29,
+   "w": "\"No,",
+   "t0": 311.78,
+   "t1": 312.1
+  },
+  {
+   "line": 29,
+   "w": "my",
+   "t0": 312.18,
+   "t1": 312.34
+  },
+  {
+   "line": 29,
+   "w": "turn!\"",
+   "t0": 312.42,
+   "t1": 313.22
+  },
+  {
+   "line": 29,
+   "w": "\"You",
+   "t0": 313.34,
+   "t1": 313.46
+  },
+  {
+   "line": 29,
+   "w": "had",
+   "t0": 313.54,
+   "t1": 313.62
+  },
+  {
+   "line": 29,
+   "w": "it",
+   "t0": 313.7,
+   "t1": 313.78
+  },
+  {
+   "line": 29,
+   "w": "yesterday!\"",
+   "t0": 313.86,
+   "t1": 315.14
+  },
+  {
+   "line": 30,
+   "w": "Perseus",
+   "t0": 315.59,
+   "t1": 316.15
+  },
+  {
+   "line": 30,
+   "w": "waited",
+   "t0": 316.23,
+   "t1": 316.55
+  },
+  {
+   "line": 30,
+   "w": "for",
+   "t0": 316.63,
+   "t1": 316.71
+  },
+  {
+   "line": 30,
+   "w": "the",
+   "t0": 316.79,
+   "t1": 316.87
+  },
+  {
+   "line": 30,
+   "w": "moment",
+   "t0": 316.95,
+   "t1": 317.27
+  },
+  {
+   "line": 30,
+   "w": "the",
+   "t0": 317.39,
+   "t1": 317.51
+  },
+  {
+   "line": 30,
+   "w": "eye",
+   "t0": 317.59,
+   "t1": 317.75
+  },
+  {
+   "line": 30,
+   "w": "was",
+   "t0": 317.83,
+   "t1": 317.91
+  },
+  {
+   "line": 30,
+   "w": "in",
+   "t0": 317.99,
+   "t1": 318.07
+  },
+  {
+   "line": 30,
+   "w": "the",
+   "t0": 318.15,
+   "t1": 318.23
+  },
+  {
+   "line": 30,
+   "w": "air...",
+   "t0": 318.31,
+   "t1": 318.99
+  },
+  {
+   "line": 30,
+   "w": "and",
+   "t0": 319.03,
+   "t1": 319.19
+  },
+  {
+   "line": 30,
+   "w": "grabbed",
+   "t0": 319.27,
+   "t1": 319.59
+  },
+  {
+   "line": 30,
+   "w": "it.",
+   "t0": 319.67,
+   "t1": 320.47
+  },
+  {
+   "line": 31,
+   "w": "\"Who",
+   "t0": 320.84,
+   "t1": 321.08
+  },
+  {
+   "line": 31,
+   "w": "took",
+   "t0": 321.2,
+   "t1": 321.32
+  },
+  {
+   "line": 31,
+   "w": "the",
+   "t0": 321.4,
+   "t1": 321.48
+  },
+  {
+   "line": 31,
+   "w": "eye?\"",
+   "t0": 321.68,
+   "t1": 322.08
+  },
+  {
+   "line": 31,
+   "w": "\"I",
+   "t0": 322.28,
+   "t1": 322.44
+  },
+  {
+   "line": 31,
+   "w": "don't",
+   "t0": 322.48,
+   "t1": 322.68
+  },
+  {
+   "line": 31,
+   "w": "know,",
+   "t0": 322.8,
+   "t1": 323.08
+  },
+  {
+   "line": 31,
+   "w": "I",
+   "t0": 323.12,
+   "t1": 323.16
+  },
+  {
+   "line": 31,
+   "w": "can't",
+   "t0": 323.24,
+   "t1": 323.56
+  },
+  {
+   "line": 31,
+   "w": "see!\"",
+   "t0": 323.64,
+   "t1": 324.24
+  },
+  {
+   "line": 31,
+   "w": "\"Nobody",
+   "t0": 324.52,
+   "t1": 325.0
+  },
+  {
+   "line": 31,
+   "w": "can",
+   "t0": 325.16,
+   "t1": 325.32
+  },
+  {
+   "line": 31,
+   "w": "see!\"",
+   "t0": 325.4,
+   "t1": 325.96
+  },
+  {
+   "line": 32,
+   "w": "Perseus",
+   "t0": 326.41,
+   "t1": 326.97
+  },
+  {
+   "line": 32,
+   "w": "made",
+   "t0": 327.05,
+   "t1": 327.21
+  },
+  {
+   "line": 32,
+   "w": "a",
+   "t0": 327.29,
+   "t1": 327.37
+  },
+  {
+   "line": 32,
+   "w": "simple",
+   "t0": 327.45,
+   "t1": 327.77
+  },
+  {
+   "line": 32,
+   "w": "offer:",
+   "t0": 327.93,
+   "t1": 328.81
+  },
+  {
+   "line": 32,
+   "w": "\"Tell",
+   "t0": 328.89,
+   "t1": 329.05
+  },
+  {
+   "line": 32,
+   "w": "me",
+   "t0": 329.13,
+   "t1": 329.21
+  },
+  {
+   "line": 32,
+   "w": "where",
+   "t0": 329.29,
+   "t1": 329.37
+  },
+  {
+   "line": 32,
+   "w": "to",
+   "t0": 329.45,
+   "t1": 329.53
+  },
+  {
+   "line": 32,
+   "w": "find",
+   "t0": 329.61,
+   "t1": 329.85
+  },
+  {
+   "line": 32,
+   "w": "the",
+   "t0": 329.89,
+   "t1": 329.93
+  },
+  {
+   "line": 32,
+   "w": "nymphs",
+   "t0": 330.09,
+   "t1": 330.45
+  },
+  {
+   "line": 32,
+   "w": "who",
+   "t0": 330.49,
+   "t1": 330.57
+  },
+  {
+   "line": 32,
+   "w": "can",
+   "t0": 330.65,
+   "t1": 330.81
+  },
+  {
+   "line": 32,
+   "w": "help",
+   "t0": 330.93,
+   "t1": 331.05
+  },
+  {
+   "line": 32,
+   "w": "me,",
+   "t0": 331.13,
+   "t1": 331.743
+  },
+  {
+   "line": 32,
+   "w": "and",
+   "t0": 331.797,
+   "t1": 331.85
+  },
+  {
+   "line": 32,
+   "w": "you",
+   "t0": 331.93,
+   "t1": 332.09
+  },
+  {
+   "line": 32,
+   "w": "get",
+   "t0": 332.17,
+   "t1": 332.25
+  },
+  {
+   "line": 32,
+   "w": "your",
+   "t0": 332.33,
+   "t1": 332.49
+  },
+  {
+   "line": 32,
+   "w": "eye",
+   "t0": 332.57,
+   "t1": 332.73
+  },
+  {
+   "line": 32,
+   "w": "back.\"",
+   "t0": 333.17,
+   "t1": 333.69
+  },
+  {
+   "line": 32,
+   "w": "They",
+   "t0": 334.31,
+   "t1": 334.47
+  },
+  {
+   "line": 32,
+   "w": "told",
+   "t0": 334.55,
+   "t1": 334.79
+  },
+  {
+   "line": 32,
+   "w": "him",
+   "t0": 334.95,
+   "t1": 335.11
+  },
+  {
+   "line": 32,
+   "w": "everything.",
+   "t0": 335.19,
+   "t1": 336.15
+  },
+  {
+   "line": 32,
+   "w": "Very",
+   "t0": 336.23,
+   "t1": 336.47
+  },
+  {
+   "line": 32,
+   "w": "fast.",
+   "t0": 336.63,
+   "t1": 337.59
+  },
+  {
+   "line": 33,
+   "w": "The",
+   "t0": 338.04,
+   "t1": 338.12
+  },
+  {
+   "line": 33,
+   "w": "nymphs",
+   "t0": 338.2,
+   "t1": 338.56
+  },
+  {
+   "line": 33,
+   "w": "gave",
+   "t0": 338.6,
+   "t1": 338.76
+  },
+  {
+   "line": 33,
+   "w": "him",
+   "t0": 338.84,
+   "t1": 338.92
+  },
+  {
+   "line": 33,
+   "w": "a",
+   "t0": 339.0,
+   "t1": 339.08
+  },
+  {
+   "line": 33,
+   "w": "helmet",
+   "t0": 339.16,
+   "t1": 339.4
+  },
+  {
+   "line": 33,
+   "w": "of",
+   "t0": 339.48,
+   "t1": 339.56
+  },
+  {
+   "line": 33,
+   "w": "invisibility,",
+   "t0": 339.64,
+   "t1": 340.68
+  },
+  {
+   "line": 33,
+   "w": "which",
+   "t0": 340.76,
+   "t1": 340.84
+  },
+  {
+   "line": 33,
+   "w": "is",
+   "t0": 340.92,
+   "t1": 341.0
+  },
+  {
+   "line": 33,
+   "w": "amazing.",
+   "t0": 341.08,
+   "t1": 342.28
+  },
+  {
+   "line": 33,
+   "w": "And",
+   "t0": 342.36,
+   "t1": 342.44
+  },
+  {
+   "line": 33,
+   "w": "a",
+   "t0": 342.48,
+   "t1": 342.52
+  },
+  {
+   "line": 33,
+   "w": "bag.",
+   "t0": 342.6,
+   "t1": 343.32
+  },
+  {
+   "line": 33,
+   "w": "Just",
+   "t0": 344.02,
+   "t1": 344.26
+  },
+  {
+   "line": 33,
+   "w": "a",
+   "t0": 344.34,
+   "t1": 344.42
+  },
+  {
+   "line": 33,
+   "w": "bag.",
+   "t0": 344.5,
+   "t1": 345.46
+  },
+  {
+   "line": 33,
+   "w": "A",
+   "t0": 345.58,
+   "t1": 345.7
+  },
+  {
+   "line": 33,
+   "w": "really",
+   "t0": 345.78,
+   "t1": 346.18
+  },
+  {
+   "line": 33,
+   "w": "good",
+   "t0": 346.26,
+   "t1": 346.5
+  },
+  {
+   "line": 33,
+   "w": "bag.",
+   "t0": 346.58,
+   "t1": 347.46
+  },
+  {
+   "line": 33,
+   "w": "You",
+   "t0": 347.54,
+   "t1": 347.62
+  },
+  {
+   "line": 33,
+   "w": "can't",
+   "t0": 347.7,
+   "t1": 347.94
+  },
+  {
+   "line": 33,
+   "w": "carry",
+   "t0": 348.1,
+   "t1": 348.26
+  },
+  {
+   "line": 33,
+   "w": "Medusa's",
+   "t0": 348.38,
+   "t1": 348.82
+  },
+  {
+   "line": 33,
+   "w": "head",
+   "t0": 348.9,
+   "t1": 349.06
+  },
+  {
+   "line": 33,
+   "w": "in",
+   "t0": 349.14,
+   "t1": 349.22
+  },
+  {
+   "line": 33,
+   "w": "a",
+   "t0": 349.38,
+   "t1": 349.513
+  },
+  {
+   "line": 33,
+   "w": "normal",
+   "t0": 349.647,
+   "t1": 349.78
+  },
+  {
+   "line": 33,
+   "w": "bag.",
+   "t0": 349.86,
+   "t1": 350.38
+  },
+  {
+   "line": 33,
+   "w": "Trust",
+   "t0": 350.42,
+   "t1": 350.74
+  },
+  {
+   "line": 33,
+   "w": "me.",
+   "t0": 350.82,
+   "t1": 351.62
+  },
+  {
+   "line": 34,
+   "w": "With",
+   "t0": 354.79,
+   "t1": 354.95
+  },
+  {
+   "line": 34,
+   "w": "his",
+   "t0": 355.07,
+   "t1": 355.19
+  },
+  {
+   "line": 34,
+   "w": "new",
+   "t0": 355.31,
+   "t1": 355.43
+  },
+  {
+   "line": 34,
+   "w": "gear,",
+   "t0": 355.51,
+   "t1": 356.15
+  },
+  {
+   "line": 34,
+   "w": "Perseus",
+   "t0": 356.27,
+   "t1": 356.71
+  },
+  {
+   "line": 34,
+   "w": "flew",
+   "t0": 356.87,
+   "t1": 357.19
+  },
+  {
+   "line": 34,
+   "w": "to",
+   "t0": 357.23,
+   "t1": 357.27
+  },
+  {
+   "line": 34,
+   "w": "the",
+   "t0": 357.35,
+   "t1": 357.51
+  },
+  {
+   "line": 34,
+   "w": "edge",
+   "t0": 357.59,
+   "t1": 357.75
+  },
+  {
+   "line": 34,
+   "w": "of",
+   "t0": 357.79,
+   "t1": 357.83
+  },
+  {
+   "line": 34,
+   "w": "the",
+   "t0": 357.91,
+   "t1": 358.07
+  },
+  {
+   "line": 34,
+   "w": "world,",
+   "t0": 358.47,
+   "t1": 358.923
+  },
+  {
+   "line": 34,
+   "w": "to",
+   "t0": 358.977,
+   "t1": 359.03
+  },
+  {
+   "line": 34,
+   "w": "the",
+   "t0": 359.11,
+   "t1": 359.19
+  },
+  {
+   "line": 34,
+   "w": "cave",
+   "t0": 359.27,
+   "t1": 359.59
+  },
+  {
+   "line": 34,
+   "w": "of",
+   "t0": 359.67,
+   "t1": 359.75
+  },
+  {
+   "line": 34,
+   "w": "the",
+   "t0": 359.83,
+   "t1": 359.91
+  },
+  {
+   "line": 34,
+   "w": "Gorgons.",
+   "t0": 359.95,
+   "t1": 361.19
+  },
+  {
+   "line": 35,
+   "w": "There",
+   "t0": 361.56,
+   "t1": 361.72
+  },
+  {
+   "line": 35,
+   "w": "were",
+   "t0": 361.8,
+   "t1": 362.04
+  },
+  {
+   "line": 35,
+   "w": "three",
+   "t0": 362.2,
+   "t1": 362.36
+  },
+  {
+   "line": 35,
+   "w": "Gorgon",
+   "t0": 362.44,
+   "t1": 362.84
+  },
+  {
+   "line": 35,
+   "w": "sisters.",
+   "t0": 362.92,
+   "t1": 364.013
+  },
+  {
+   "line": 35,
+   "w": "Two",
+   "t0": 364.067,
+   "t1": 364.12
+  },
+  {
+   "line": 35,
+   "w": "of",
+   "t0": 364.2,
+   "t1": 364.28
+  },
+  {
+   "line": 35,
+   "w": "them",
+   "t0": 364.36,
+   "t1": 364.6
+  },
+  {
+   "line": 35,
+   "w": "were",
+   "t0": 364.68,
+   "t1": 364.84
+  },
+  {
+   "line": 35,
+   "w": "immortal.",
+   "t0": 364.96,
+   "t1": 365.92
+  },
+  {
+   "line": 35,
+   "w": "Medusa",
+   "t0": 365.96,
+   "t1": 366.68
+  },
+  {
+   "line": 35,
+   "w": "was",
+   "t0": 366.76,
+   "t1": 366.92
+  },
+  {
+   "line": 35,
+   "w": "not.",
+   "t0": 367.0,
+   "t1": 367.8
+  },
+  {
+   "line": 35,
+   "w": "So,",
+   "t0": 368.42,
+   "t1": 368.9
+  },
+  {
+   "line": 35,
+   "w": "good",
+   "t0": 369.02,
+   "t1": 369.14
+  },
+  {
+   "line": 35,
+   "w": "news:",
+   "t0": 369.38,
+   "t1": 370.02
+  },
+  {
+   "line": 35,
+   "w": "only",
+   "t0": 370.1,
+   "t1": 370.5
+  },
+  {
+   "line": 35,
+   "w": "one",
+   "t0": 370.58,
+   "t1": 370.66
+  },
+  {
+   "line": 35,
+   "w": "of",
+   "t0": 370.74,
+   "t1": 370.82
+  },
+  {
+   "line": 35,
+   "w": "them",
+   "t0": 370.9,
+   "t1": 371.06
+  },
+  {
+   "line": 35,
+   "w": "could",
+   "t0": 371.18,
+   "t1": 371.3
+  },
+  {
+   "line": 35,
+   "w": "die.",
+   "t0": 371.74,
+   "t1": 372.26
+  },
+  {
+   "line": 36,
+   "w": "The",
+   "t0": 372.63,
+   "t1": 372.71
+  },
+  {
+   "line": 36,
+   "w": "Gorgons",
+   "t0": 372.79,
+   "t1": 373.35
+  },
+  {
+   "line": 36,
+   "w": "were",
+   "t0": 373.43,
+   "t1": 373.51
+  },
+  {
+   "line": 36,
+   "w": "asleep.",
+   "t0": 373.63,
+   "t1": 374.95
+  },
+  {
+   "line": 36,
+   "w": "Perseus",
+   "t0": 375.07,
+   "t1": 375.51
+  },
+  {
+   "line": 36,
+   "w": "walked",
+   "t0": 375.59,
+   "t1": 375.91
+  },
+  {
+   "line": 36,
+   "w": "in",
+   "t0": 376.03,
+   "t1": 376.15
+  },
+  {
+   "line": 36,
+   "w": "backwards,",
+   "t0": 376.23,
+   "t1": 377.11
+  },
+  {
+   "line": 36,
+   "w": "looking",
+   "t0": 377.31,
+   "t1": 377.51
+  },
+  {
+   "line": 36,
+   "w": "only",
+   "t0": 377.59,
+   "t1": 377.91
+  },
+  {
+   "line": 36,
+   "w": "into",
+   "t0": 378.03,
+   "t1": 378.15
+  },
+  {
+   "line": 36,
+   "w": "his",
+   "t0": 378.23,
+   "t1": 378.39
+  },
+  {
+   "line": 36,
+   "w": "shield,",
+   "t0": 378.63,
+   "t1": 379.27
+  },
+  {
+   "line": 36,
+   "w": "past",
+   "t0": 379.43,
+   "t1": 379.59
+  },
+  {
+   "line": 36,
+   "w": "the",
+   "t0": 379.67,
+   "t1": 379.75
+  },
+  {
+   "line": 36,
+   "w": "statues",
+   "t0": 379.83,
+   "t1": 380.39
+  },
+  {
+   "line": 36,
+   "w": "of",
+   "t0": 380.51,
+   "t1": 380.63
+  },
+  {
+   "line": 36,
+   "w": "all",
+   "t0": 380.71,
+   "t1": 380.87
+  },
+  {
+   "line": 36,
+   "w": "the",
+   "t0": 380.95,
+   "t1": 381.03
+  },
+  {
+   "line": 36,
+   "w": "heroes",
+   "t0": 381.11,
+   "t1": 381.59
+  },
+  {
+   "line": 36,
+   "w": "who",
+   "t0": 381.71,
+   "t1": 381.83
+  },
+  {
+   "line": 36,
+   "w": "did",
+   "t0": 381.95,
+   "t1": 382.07
+  },
+  {
+   "line": 36,
+   "w": "look.",
+   "t0": 382.23,
+   "t1": 383.11
+  },
+  {
+   "line": 37,
+   "w": "One",
+   "t0": 383.56,
+   "t1": 383.8
+  },
+  {
+   "line": 37,
+   "w": "swing",
+   "t0": 383.96,
+   "t1": 384.28
+  },
+  {
+   "line": 37,
+   "w": "of",
+   "t0": 384.32,
+   "t1": 384.36
+  },
+  {
+   "line": 37,
+   "w": "the",
+   "t0": 384.44,
+   "t1": 384.52
+  },
+  {
+   "line": 37,
+   "w": "sword...",
+   "t0": 384.6,
+   "t1": 385.56
+  },
+  {
+   "line": 37,
+   "w": "and",
+   "t0": 385.6,
+   "t1": 385.64
+  },
+  {
+   "line": 37,
+   "w": "Medusa's",
+   "t0": 385.72,
+   "t1": 386.28
+  },
+  {
+   "line": 37,
+   "w": "head",
+   "t0": 386.36,
+   "t1": 386.6
+  },
+  {
+   "line": 37,
+   "w": "was",
+   "t0": 386.68,
+   "t1": 386.92
+  },
+  {
+   "line": 37,
+   "w": "off.",
+   "t0": 387.0,
+   "t1": 387.8
+  },
+  {
+   "line": 37,
+   "w": "While",
+   "t0": 388.5,
+   "t1": 388.74
+  },
+  {
+   "line": 37,
+   "w": "she",
+   "t0": 388.82,
+   "t1": 388.98
+  },
+  {
+   "line": 37,
+   "w": "was",
+   "t0": 389.06,
+   "t1": 389.14
+  },
+  {
+   "line": 37,
+   "w": "asleep.",
+   "t0": 389.26,
+   "t1": 390.02
+  },
+  {
+   "line": 37,
+   "w": "Truly,",
+   "t0": 390.72,
+   "t1": 391.52
+  },
+  {
+   "line": 37,
+   "w": "a",
+   "t0": 391.6,
+   "t1": 391.68
+  },
+  {
+   "line": 37,
+   "w": "hero.",
+   "t0": 391.84,
+   "t1": 392.64
+  },
+  {
+   "line": 38,
+   "w": "And",
+   "t0": 393.09,
+   "t1": 393.25
+  },
+  {
+   "line": 38,
+   "w": "then,",
+   "t0": 393.33,
+   "t1": 393.97
+  },
+  {
+   "line": 38,
+   "w": "out",
+   "t0": 394.05,
+   "t1": 394.21
+  },
+  {
+   "line": 38,
+   "w": "of",
+   "t0": 394.25,
+   "t1": 394.29
+  },
+  {
+   "line": 38,
+   "w": "Medusa's",
+   "t0": 394.37,
+   "t1": 394.93
+  },
+  {
+   "line": 38,
+   "w": "neck,",
+   "t0": 395.01,
+   "t1": 395.49
+  },
+  {
+   "line": 38,
+   "w": "jumped",
+   "t0": 395.57,
+   "t1": 395.81
+  },
+  {
+   "line": 38,
+   "w": "a",
+   "t0": 395.89,
+   "t1": 395.97
+  },
+  {
+   "line": 38,
+   "w": "winged",
+   "t0": 396.05,
+   "t1": 396.37
+  },
+  {
+   "line": 38,
+   "w": "horse.",
+   "t0": 396.45,
+   "t1": 397.49
+  },
+  {
+   "line": 38,
+   "w": "Pegasus.",
+   "t0": 397.53,
+   "t1": 398.77
+  },
+  {
+   "line": 38,
+   "w": "Greek",
+   "t0": 399.47,
+   "t1": 399.71
+  },
+  {
+   "line": 38,
+   "w": "mythology",
+   "t0": 399.79,
+   "t1": 400.43
+  },
+  {
+   "line": 38,
+   "w": "does",
+   "t0": 400.51,
+   "t1": 400.75
+  },
+  {
+   "line": 38,
+   "w": "not",
+   "t0": 400.83,
+   "t1": 400.99
+  },
+  {
+   "line": 38,
+   "w": "explain",
+   "t0": 401.07,
+   "t1": 401.55
+  },
+  {
+   "line": 38,
+   "w": "this.",
+   "t0": 401.71,
+   "t1": 402.35
+  },
+  {
+   "line": 38,
+   "w": "Neither",
+   "t0": 402.43,
+   "t1": 402.67
+  },
+  {
+   "line": 38,
+   "w": "will",
+   "t0": 402.75,
+   "t1": 402.83
+  },
+  {
+   "line": 38,
+   "w": "I.",
+   "t0": 403.07,
+   "t1": 403.79
+  },
+  {
+   "line": 39,
+   "w": "The",
+   "t0": 404.24,
+   "t1": 404.32
+  },
+  {
+   "line": 39,
+   "w": "other",
+   "t0": 404.4,
+   "t1": 404.64
+  },
+  {
+   "line": 39,
+   "w": "two",
+   "t0": 404.72,
+   "t1": 404.88
+  },
+  {
+   "line": 39,
+   "w": "Gorgons",
+   "t0": 404.96,
+   "t1": 405.44
+  },
+  {
+   "line": 39,
+   "w": "woke",
+   "t0": 405.52,
+   "t1": 405.76
+  },
+  {
+   "line": 39,
+   "w": "up,",
+   "t0": 405.84,
+   "t1": 406.36
+  },
+  {
+   "line": 39,
+   "w": "saw",
+   "t0": 406.4,
+   "t1": 406.64
+  },
+  {
+   "line": 39,
+   "w": "their",
+   "t0": 406.76,
+   "t1": 406.88
+  },
+  {
+   "line": 39,
+   "w": "sister,",
+   "t0": 406.92,
+   "t1": 407.653
+  },
+  {
+   "line": 39,
+   "w": "and",
+   "t0": 407.707,
+   "t1": 407.76
+  },
+  {
+   "line": 39,
+   "w": "they",
+   "t0": 407.84,
+   "t1": 407.92
+  },
+  {
+   "line": 39,
+   "w": "were",
+   "t0": 408.0,
+   "t1": 408.24
+  },
+  {
+   "line": 39,
+   "w": "not",
+   "t0": 408.32,
+   "t1": 408.56
+  },
+  {
+   "line": 39,
+   "w": "happy.",
+   "t0": 408.64,
+   "t1": 409.653
+  },
+  {
+   "line": 39,
+   "w": "But",
+   "t0": 409.707,
+   "t1": 409.76
+  },
+  {
+   "line": 39,
+   "w": "Perseus",
+   "t0": 409.84,
+   "t1": 410.4
+  },
+  {
+   "line": 39,
+   "w": "put",
+   "t0": 410.48,
+   "t1": 410.56
+  },
+  {
+   "line": 39,
+   "w": "on",
+   "t0": 410.64,
+   "t1": 410.72
+  },
+  {
+   "line": 39,
+   "w": "his",
+   "t0": 410.8,
+   "t1": 410.96
+  },
+  {
+   "line": 39,
+   "w": "helmet,",
+   "t0": 411.08,
+   "t1": 411.68
+  },
+  {
+   "line": 39,
+   "w": "became",
+   "t0": 411.76,
+   "t1": 412.0
+  },
+  {
+   "line": 39,
+   "w": "invisible,",
+   "t0": 412.4,
+   "t1": 412.88
+  },
+  {
+   "line": 39,
+   "w": "and",
+   "t0": 412.96,
+   "t1": 413.04
+  },
+  {
+   "line": 39,
+   "w": "flew",
+   "t0": 413.12,
+   "t1": 413.36
+  },
+  {
+   "line": 39,
+   "w": "away.",
+   "t0": 413.44,
+   "t1": 414.48
+  },
+  {
+   "line": 39,
+   "w": "With",
+   "t0": 414.56,
+   "t1": 414.64
+  },
+  {
+   "line": 39,
+   "w": "the",
+   "t0": 414.72,
+   "t1": 414.8
+  },
+  {
+   "line": 39,
+   "w": "head.",
+   "t0": 414.88,
+   "t1": 415.8
+  },
+  {
+   "line": 39,
+   "w": "In",
+   "t0": 415.84,
+   "t1": 415.92
+  },
+  {
+   "line": 39,
+   "w": "the",
+   "t0": 416.0,
+   "t1": 416.24
+  },
+  {
+   "line": 39,
+   "w": "really",
+   "t0": 416.32,
+   "t1": 416.72
+  },
+  {
+   "line": 39,
+   "w": "good",
+   "t0": 416.84,
+   "t1": 416.96
+  },
+  {
+   "line": 39,
+   "w": "bag.",
+   "t0": 417.44,
+   "t1": 418.0
+  },
+  {
+   "line": 40,
+   "w": "Now",
+   "t0": 421.17,
+   "t1": 421.49
+  },
+  {
+   "line": 40,
+   "w": "Perseus",
+   "t0": 421.57,
+   "t1": 422.21
+  },
+  {
+   "line": 40,
+   "w": "owned",
+   "t0": 422.29,
+   "t1": 422.53
+  },
+  {
+   "line": 40,
+   "w": "the",
+   "t0": 422.65,
+   "t1": 422.77
+  },
+  {
+   "line": 40,
+   "w": "deadliest",
+   "t0": 422.85,
+   "t1": 423.41
+  },
+  {
+   "line": 40,
+   "w": "weapon",
+   "t0": 423.49,
+   "t1": 423.81
+  },
+  {
+   "line": 40,
+   "w": "in",
+   "t0": 423.89,
+   "t1": 423.97
+  },
+  {
+   "line": 40,
+   "w": "Greece.",
+   "t0": 424.05,
+   "t1": 425.13
+  },
+  {
+   "line": 40,
+   "w": "The",
+   "t0": 425.17,
+   "t1": 425.25
+  },
+  {
+   "line": 40,
+   "w": "instructions",
+   "t0": 425.57,
+   "t1": 425.89
+  },
+  {
+   "line": 40,
+   "w": "were",
+   "t0": 425.97,
+   "t1": 426.13
+  },
+  {
+   "line": 40,
+   "w": "simple.",
+   "t0": 426.57,
+   "t1": 427.17
+  },
+  {
+   "line": 40,
+   "w": "Don't",
+   "t0": 427.87,
+   "t1": 428.19
+  },
+  {
+   "line": 40,
+   "w": "look.",
+   "t0": 428.35,
+   "t1": 429.15
+  },
+  {
+   "line": 41,
+   "w": "On",
+   "t0": 431.2,
+   "t1": 431.36
+  },
+  {
+   "line": 41,
+   "w": "the",
+   "t0": 431.4,
+   "t1": 431.44
+  },
+  {
+   "line": 41,
+   "w": "way",
+   "t0": 431.52,
+   "t1": 431.68
+  },
+  {
+   "line": 41,
+   "w": "home,",
+   "t0": 431.76,
+   "t1": 432.36
+  },
+  {
+   "line": 41,
+   "w": "he",
+   "t0": 432.4,
+   "t1": 432.56
+  },
+  {
+   "line": 41,
+   "w": "stopped",
+   "t0": 432.64,
+   "t1": 432.96
+  },
+  {
+   "line": 41,
+   "w": "at",
+   "t0": 433.0,
+   "t1": 433.04
+  },
+  {
+   "line": 41,
+   "w": "the",
+   "t0": 433.12,
+   "t1": 433.2
+  },
+  {
+   "line": 41,
+   "w": "land",
+   "t0": 433.28,
+   "t1": 433.52
+  },
+  {
+   "line": 41,
+   "w": "of",
+   "t0": 433.6,
+   "t1": 433.68
+  },
+  {
+   "line": 41,
+   "w": "the",
+   "t0": 433.76,
+   "t1": 433.84
+  },
+  {
+   "line": 41,
+   "w": "giant",
+   "t0": 433.92,
+   "t1": 434.32
+  },
+  {
+   "line": 41,
+   "w": "Atlas,",
+   "t0": 434.4,
+   "t1": 435.32
+  },
+  {
+   "line": 41,
+   "w": "the",
+   "t0": 435.36,
+   "t1": 435.52
+  },
+  {
+   "line": 41,
+   "w": "guy",
+   "t0": 435.56,
+   "t1": 435.84
+  },
+  {
+   "line": 41,
+   "w": "who",
+   "t0": 435.96,
+   "t1": 436.08
+  },
+  {
+   "line": 41,
+   "w": "holds",
+   "t0": 436.24,
+   "t1": 436.4
+  },
+  {
+   "line": 41,
+   "w": "up",
+   "t0": 436.48,
+   "t1": 436.56
+  },
+  {
+   "line": 41,
+   "w": "the",
+   "t0": 436.64,
+   "t1": 436.72
+  },
+  {
+   "line": 41,
+   "w": "sky.",
+   "t0": 436.8,
+   "t1": 438.04
+  },
+  {
+   "line": 41,
+   "w": "Perseus",
+   "t0": 438.08,
+   "t1": 438.64
+  },
+  {
+   "line": 41,
+   "w": "asked",
+   "t0": 438.8,
+   "t1": 439.04
+  },
+  {
+   "line": 41,
+   "w": "to",
+   "t0": 439.12,
+   "t1": 439.2
+  },
+  {
+   "line": 41,
+   "w": "rest",
+   "t0": 439.28,
+   "t1": 439.52
+  },
+  {
+   "line": 41,
+   "w": "for",
+   "t0": 439.6,
+   "t1": 439.68
+  },
+  {
+   "line": 41,
+   "w": "the",
+   "t0": 439.76,
+   "t1": 439.84
+  },
+  {
+   "line": 41,
+   "w": "night.",
+   "t0": 440.32,
+   "t1": 440.84
+  },
+  {
+   "line": 41,
+   "w": "Atlas",
+   "t0": 440.88,
+   "t1": 441.28
+  },
+  {
+   "line": 41,
+   "w": "said",
+   "t0": 441.36,
+   "t1": 441.6
+  },
+  {
+   "line": 41,
+   "w": "no.",
+   "t0": 441.76,
+   "t1": 442.56
+  },
+  {
+   "line": 41,
+   "w": "Rudely.",
+   "t0": 442.64,
+   "t1": 443.84
+  },
+  {
+   "line": 42,
+   "w": "So",
+   "t0": 444.21,
+   "t1": 444.37
+  },
+  {
+   "line": 42,
+   "w": "Perseus",
+   "t0": 444.53,
+   "t1": 445.17
+  },
+  {
+   "line": 42,
+   "w": "showed",
+   "t0": 445.25,
+   "t1": 445.49
+  },
+  {
+   "line": 42,
+   "w": "him",
+   "t0": 445.57,
+   "t1": 445.73
+  },
+  {
+   "line": 42,
+   "w": "the",
+   "t0": 445.81,
+   "t1": 445.89
+  },
+  {
+   "line": 42,
+   "w": "head.",
+   "t0": 445.97,
+   "t1": 446.53
+  },
+  {
+   "line": 42,
+   "w": "Today,",
+   "t0": 447.23,
+   "t1": 448.03
+  },
+  {
+   "line": 42,
+   "w": "Atlas",
+   "t0": 448.11,
+   "t1": 448.51
+  },
+  {
+   "line": 42,
+   "w": "is",
+   "t0": 448.59,
+   "t1": 448.67
+  },
+  {
+   "line": 42,
+   "w": "a",
+   "t0": 448.75,
+   "t1": 448.83
+  },
+  {
+   "line": 42,
+   "w": "mountain",
+   "t0": 448.91,
+   "t1": 449.31
+  },
+  {
+   "line": 42,
+   "w": "range",
+   "t0": 449.39,
+   "t1": 449.63
+  },
+  {
+   "line": 42,
+   "w": "in",
+   "t0": 449.71,
+   "t1": 449.79
+  },
+  {
+   "line": 42,
+   "w": "Morocco.",
+   "t0": 449.91,
+   "t1": 451.07
+  },
+  {
+   "line": 42,
+   "w": "Be",
+   "t0": 451.15,
+   "t1": 451.23
+  },
+  {
+   "line": 42,
+   "w": "nice",
+   "t0": 451.31,
+   "t1": 451.63
+  },
+  {
+   "line": 42,
+   "w": "to",
+   "t0": 451.71,
+   "t1": 451.79
+  },
+  {
+   "line": 42,
+   "w": "tired",
+   "t0": 451.87,
+   "t1": 452.19
+  },
+  {
+   "line": 42,
+   "w": "travellers.",
+   "t0": 452.27,
+   "t1": 453.47
+  },
+  {
+   "line": 43,
+   "w": "Then,",
+   "t0": 454.22,
+   "t1": 455.02
+  },
+  {
+   "line": 43,
+   "w": "flying",
+   "t0": 455.06,
+   "t1": 455.42
+  },
+  {
+   "line": 43,
+   "w": "over",
+   "t0": 455.5,
+   "t1": 455.74
+  },
+  {
+   "line": 43,
+   "w": "Ethiopia,",
+   "t0": 455.86,
+   "t1": 456.86
+  },
+  {
+   "line": 43,
+   "w": "Perseus",
+   "t0": 456.98,
+   "t1": 457.42
+  },
+  {
+   "line": 43,
+   "w": "saw",
+   "t0": 457.5,
+   "t1": 457.66
+  },
+  {
+   "line": 43,
+   "w": "a",
+   "t0": 457.74,
+   "t1": 457.82
+  },
+  {
+   "line": 43,
+   "w": "princess",
+   "t0": 457.9,
+   "t1": 458.46
+  },
+  {
+   "line": 43,
+   "w": "chained",
+   "t0": 458.62,
+   "t1": 459.02
+  },
+  {
+   "line": 43,
+   "w": "to",
+   "t0": 459.1,
+   "t1": 459.18
+  },
+  {
+   "line": 43,
+   "w": "a",
+   "t0": 459.26,
+   "t1": 459.34
+  },
+  {
+   "line": 43,
+   "w": "rock",
+   "t0": 459.42,
+   "t1": 459.74
+  },
+  {
+   "line": 43,
+   "w": "by",
+   "t0": 459.82,
+   "t1": 459.9
+  },
+  {
+   "line": 43,
+   "w": "the",
+   "t0": 459.98,
+   "t1": 460.06
+  },
+  {
+   "line": 43,
+   "w": "sea.",
+   "t0": 460.14,
+   "t1": 461.1
+  },
+  {
+   "line": 44,
+   "w": "Her",
+   "t0": 461.55,
+   "t1": 461.71
+  },
+  {
+   "line": 44,
+   "w": "name",
+   "t0": 461.79,
+   "t1": 462.11
+  },
+  {
+   "line": 44,
+   "w": "was",
+   "t0": 462.27,
+   "t1": 462.43
+  },
+  {
+   "line": 44,
+   "w": "Andromeda.",
+   "t0": 462.51,
+   "t1": 463.87
+  },
+  {
+   "line": 44,
+   "w": "Her",
+   "t0": 463.95,
+   "t1": 464.11
+  },
+  {
+   "line": 44,
+   "w": "mother,",
+   "t0": 464.19,
+   "t1": 464.75
+  },
+  {
+   "line": 44,
+   "w": "Queen",
+   "t0": 464.83,
+   "t1": 465.07
+  },
+  {
+   "line": 44,
+   "w": "Cassiopeia,",
+   "t0": 465.15,
+   "t1": 466.35
+  },
+  {
+   "line": 44,
+   "w": "had",
+   "t0": 466.47,
+   "t1": 466.59
+  },
+  {
+   "line": 44,
+   "w": "bragged",
+   "t0": 466.67,
+   "t1": 467.07
+  },
+  {
+   "line": 44,
+   "w": "that",
+   "t0": 467.15,
+   "t1": 467.23
+  },
+  {
+   "line": 44,
+   "w": "her",
+   "t0": 467.31,
+   "t1": 467.55
+  },
+  {
+   "line": 44,
+   "w": "daughter",
+   "t0": 467.75,
+   "t1": 467.95
+  },
+  {
+   "line": 44,
+   "w": "was",
+   "t0": 468.03,
+   "t1": 468.27
+  },
+  {
+   "line": 44,
+   "w": "more",
+   "t0": 468.35,
+   "t1": 468.59
+  },
+  {
+   "line": 44,
+   "w": "beautiful",
+   "t0": 468.67,
+   "t1": 469.15
+  },
+  {
+   "line": 44,
+   "w": "than",
+   "t0": 469.23,
+   "t1": 469.31
+  },
+  {
+   "line": 44,
+   "w": "the",
+   "t0": 469.39,
+   "t1": 469.55
+  },
+  {
+   "line": 44,
+   "w": "sea",
+   "t0": 469.63,
+   "t1": 469.79
+  },
+  {
+   "line": 44,
+   "w": "nymphs.",
+   "t0": 469.87,
+   "t1": 470.883
+  },
+  {
+   "line": 44,
+   "w": "The",
+   "t0": 470.937,
+   "t1": 470.99
+  },
+  {
+   "line": 44,
+   "w": "sea",
+   "t0": 471.11,
+   "t1": 471.23
+  },
+  {
+   "line": 44,
+   "w": "god",
+   "t0": 471.35,
+   "t1": 471.47
+  },
+  {
+   "line": 44,
+   "w": "Poseidon",
+   "t0": 471.55,
+   "t1": 472.19
+  },
+  {
+   "line": 44,
+   "w": "heard",
+   "t0": 472.27,
+   "t1": 472.51
+  },
+  {
+   "line": 44,
+   "w": "this",
+   "t0": 472.59,
+   "t1": 473.07
+  },
+  {
+   "line": 44,
+   "w": "and",
+   "t0": 473.15,
+   "t1": 473.23
+  },
+  {
+   "line": 44,
+   "w": "sent",
+   "t0": 473.31,
+   "t1": 473.47
+  },
+  {
+   "line": 44,
+   "w": "a",
+   "t0": 473.63,
+   "t1": 473.67
+  },
+  {
+   "line": 44,
+   "w": "giant",
+   "t0": 473.71,
+   "t1": 474.19
+  },
+  {
+   "line": 44,
+   "w": "sea",
+   "t0": 474.27,
+   "t1": 474.43
+  },
+  {
+   "line": 44,
+   "w": "monster",
+   "t0": 474.51,
+   "t1": 474.91
+  },
+  {
+   "line": 44,
+   "w": "to",
+   "t0": 474.99,
+   "t1": 475.07
+  },
+  {
+   "line": 44,
+   "w": "destroy",
+   "t0": 475.35,
+   "t1": 475.63
+  },
+  {
+   "line": 44,
+   "w": "the",
+   "t0": 475.71,
+   "t1": 475.79
+  },
+  {
+   "line": 44,
+   "w": "kingdom.",
+   "t0": 475.91,
+   "t1": 476.75
+  },
+  {
+   "line": 45,
+   "w": "The",
+   "t0": 477.12,
+   "t1": 477.28
+  },
+  {
+   "line": 45,
+   "w": "only",
+   "t0": 477.44,
+   "t1": 477.68
+  },
+  {
+   "line": 45,
+   "w": "way",
+   "t0": 477.76,
+   "t1": 477.92
+  },
+  {
+   "line": 45,
+   "w": "to",
+   "t0": 478.0,
+   "t1": 478.08
+  },
+  {
+   "line": 45,
+   "w": "stop",
+   "t0": 478.16,
+   "t1": 478.4
+  },
+  {
+   "line": 45,
+   "w": "it:",
+   "t0": 478.48,
+   "t1": 479.2
+  },
+  {
+   "line": 45,
+   "w": "give",
+   "t0": 479.32,
+   "t1": 479.44
+  },
+  {
+   "line": 45,
+   "w": "Andromeda",
+   "t0": 479.56,
+   "t1": 480.16
+  },
+  {
+   "line": 45,
+   "w": "to",
+   "t0": 480.24,
+   "t1": 480.32
+  },
+  {
+   "line": 45,
+   "w": "the",
+   "t0": 480.36,
+   "t1": 480.4
+  },
+  {
+   "line": 45,
+   "w": "monster.",
+   "t0": 480.48,
+   "t1": 481.6
+  },
+  {
+   "line": 45,
+   "w": "As",
+   "t0": 481.68,
+   "t1": 481.76
+  },
+  {
+   "line": 45,
+   "w": "a",
+   "t0": 481.84,
+   "t1": 481.92
+  },
+  {
+   "line": 45,
+   "w": "snack.",
+   "t0": 482.04,
+   "t1": 482.8
+  },
+  {
+   "line": 45,
+   "w": "Thanks,",
+   "t0": 483.5,
+   "t1": 483.9
+  },
+  {
+   "line": 45,
+   "w": "mom.",
+   "t0": 484.1,
+   "t1": 484.94
+  },
+  {
+   "line": 46,
+   "w": "The",
+   "t0": 485.39,
+   "t1": 485.47
+  },
+  {
+   "line": 46,
+   "w": "monster",
+   "t0": 485.55,
+   "t1": 486.03
+  },
+  {
+   "line": 46,
+   "w": "came",
+   "t0": 486.19,
+   "t1": 486.43
+  },
+  {
+   "line": 46,
+   "w": "out",
+   "t0": 486.59,
+   "t1": 486.75
+  },
+  {
+   "line": 46,
+   "w": "of",
+   "t0": 486.83,
+   "t1": 486.91
+  },
+  {
+   "line": 46,
+   "w": "the",
+   "t0": 486.95,
+   "t1": 486.99
+  },
+  {
+   "line": 46,
+   "w": "water.",
+   "t0": 487.07,
+   "t1": 487.63
+  },
+  {
+   "line": 46,
+   "w": "Perseus",
+   "t0": 488.35,
+   "t1": 488.99
+  },
+  {
+   "line": 46,
+   "w": "came",
+   "t0": 489.07,
+   "t1": 489.31
+  },
+  {
+   "line": 46,
+   "w": "out",
+   "t0": 489.47,
+   "t1": 489.63
+  },
+  {
+   "line": 46,
+   "w": "of",
+   "t0": 489.67,
+   "t1": 489.71
+  },
+  {
+   "line": 46,
+   "w": "the",
+   "t0": 489.79,
+   "t1": 489.87
+  },
+  {
+   "line": 46,
+   "w": "sky.",
+   "t0": 489.95,
+   "t1": 490.83
+  },
+  {
+   "line": 46,
+   "w": "Perseus",
+   "t0": 491.15,
+   "t1": 491.79
+  },
+  {
+   "line": 46,
+   "w": "showed",
+   "t0": 491.87,
+   "t1": 492.11
+  },
+  {
+   "line": 46,
+   "w": "the",
+   "t0": 492.19,
+   "t1": 492.27
+  },
+  {
+   "line": 46,
+   "w": "monster",
+   "t0": 492.35,
+   "t1": 492.75
+  },
+  {
+   "line": 46,
+   "w": "the",
+   "t0": 492.83,
+   "t1": 492.91
+  },
+  {
+   "line": 46,
+   "w": "head.",
+   "t0": 492.99,
+   "t1": 493.63
+  },
+  {
+   "line": 46,
+   "w": "Problem",
+   "t0": 494.33,
+   "t1": 494.73
+  },
+  {
+   "line": 46,
+   "w": "solved.",
+   "t0": 494.89,
+   "t1": 495.61
+  },
+  {
+   "line": 47,
+   "w": "Andromeda's",
+   "t0": 496.36,
+   "t1": 497.08
+  },
+  {
+   "line": 47,
+   "w": "father,",
+   "t0": 497.32,
+   "t1": 497.8
+  },
+  {
+   "line": 47,
+   "w": "the",
+   "t0": 497.88,
+   "t1": 497.96
+  },
+  {
+   "line": 47,
+   "w": "king,",
+   "t0": 498.04,
+   "t1": 498.68
+  },
+  {
+   "line": 47,
+   "w": "was",
+   "t0": 498.84,
+   "t1": 499.0
+  },
+  {
+   "line": 47,
+   "w": "so",
+   "t0": 499.08,
+   "t1": 499.32
+  },
+  {
+   "line": 47,
+   "w": "happy,",
+   "t0": 499.4,
+   "t1": 500.093
+  },
+  {
+   "line": 47,
+   "w": "he",
+   "t0": 500.147,
+   "t1": 500.2
+  },
+  {
+   "line": 47,
+   "w": "let",
+   "t0": 500.32,
+   "t1": 500.44
+  },
+  {
+   "line": 47,
+   "w": "Perseus",
+   "t0": 500.56,
+   "t1": 501.0
+  },
+  {
+   "line": 47,
+   "w": "marry",
+   "t0": 501.08,
+   "t1": 501.32
+  },
+  {
+   "line": 47,
+   "w": "her",
+   "t0": 501.4,
+   "t1": 501.72
+  },
+  {
+   "line": 47,
+   "w": "right",
+   "t0": 501.8,
+   "t1": 501.96
+  },
+  {
+   "line": 47,
+   "w": "away.",
+   "t0": 502.04,
+   "t1": 503.08
+  },
+  {
+   "line": 48,
+   "w": "Small",
+   "t0": 503.45,
+   "t1": 503.69
+  },
+  {
+   "line": 48,
+   "w": "problem:",
+   "t0": 503.85,
+   "t1": 504.81
+  },
+  {
+   "line": 48,
+   "w": "Andromeda",
+   "t0": 504.93,
+   "t1": 505.61
+  },
+  {
+   "line": 48,
+   "w": "already",
+   "t0": 505.69,
+   "t1": 506.17
+  },
+  {
+   "line": 48,
+   "w": "had",
+   "t0": 506.25,
+   "t1": 506.41
+  },
+  {
+   "line": 48,
+   "w": "a",
+   "t0": 506.49,
+   "t1": 506.57
+  },
+  {
+   "line": 48,
+   "w": "fiancé.",
+   "t0": 506.61,
+   "t1": 507.69
+  },
+  {
+   "line": 48,
+   "w": "Her",
+   "t0": 507.81,
+   "t1": 507.93
+  },
+  {
+   "line": 48,
+   "w": "uncle,",
+   "t0": 508.01,
+   "t1": 508.57
+  },
+  {
+   "line": 48,
+   "w": "Phineus.",
+   "t0": 508.65,
+   "t1": 509.85
+  },
+  {
+   "line": 48,
+   "w": "Yes.",
+   "t0": 509.93,
+   "t1": 510.65
+  },
+  {
+   "line": 48,
+   "w": "Her",
+   "t0": 510.77,
+   "t1": 510.89
+  },
+  {
+   "line": 48,
+   "w": "uncle.",
+   "t0": 510.97,
+   "t1": 511.93
+  },
+  {
+   "line": 48,
+   "w": "Greek",
+   "t0": 512.63,
+   "t1": 512.87
+  },
+  {
+   "line": 48,
+   "w": "mythology,",
+   "t0": 512.95,
+   "t1": 513.63
+  },
+  {
+   "line": 48,
+   "w": "everybody.",
+   "t0": 513.67,
+   "t1": 514.71
+  },
+  {
+   "line": 49,
+   "w": "Phineus",
+   "t0": 515.16,
+   "t1": 515.72
+  },
+  {
+   "line": 49,
+   "w": "burst",
+   "t0": 515.8,
+   "t1": 516.12
+  },
+  {
+   "line": 49,
+   "w": "into",
+   "t0": 516.2,
+   "t1": 516.44
+  },
+  {
+   "line": 49,
+   "w": "the",
+   "t0": 516.52,
+   "t1": 516.6
+  },
+  {
+   "line": 49,
+   "w": "wedding",
+   "t0": 516.68,
+   "t1": 516.92
+  },
+  {
+   "line": 49,
+   "w": "with",
+   "t0": 517.0,
+   "t1": 517.08
+  },
+  {
+   "line": 49,
+   "w": "an",
+   "t0": 517.2,
+   "t1": 517.32
+  },
+  {
+   "line": 49,
+   "w": "army.",
+   "t0": 517.4,
+   "t1": 518.36
+  },
+  {
+   "line": 49,
+   "w": "\"She",
+   "t0": 518.44,
+   "t1": 518.52
+  },
+  {
+   "line": 49,
+   "w": "is",
+   "t0": 518.64,
+   "t1": 518.76
+  },
+  {
+   "line": 49,
+   "w": "mine!\"",
+   "t0": 518.84,
+   "t1": 519.84
+  },
+  {
+   "line": 49,
+   "w": "Perseus",
+   "t0": 519.88,
+   "t1": 520.36
+  },
+  {
+   "line": 49,
+   "w": "said:",
+   "t0": 520.44,
+   "t1": 521.24
+  },
+  {
+   "line": 49,
+   "w": "\"Everybody",
+   "t0": 521.28,
+   "t1": 521.8
+  },
+  {
+   "line": 49,
+   "w": "on",
+   "t0": 521.88,
+   "t1": 522.04
+  },
+  {
+   "line": 49,
+   "w": "my",
+   "t0": 522.16,
+   "t1": 522.28
+  },
+  {
+   "line": 49,
+   "w": "side...",
+   "t0": 522.36,
+   "t1": 523.28
+  },
+  {
+   "line": 49,
+   "w": "close",
+   "t0": 523.32,
+   "t1": 523.56
+  },
+  {
+   "line": 49,
+   "w": "your",
+   "t0": 523.64,
+   "t1": 523.8
+  },
+  {
+   "line": 49,
+   "w": "eyes.\"",
+   "t0": 523.88,
+   "t1": 524.84
+  },
+  {
+   "line": 50,
+   "w": "It",
+   "t0": 525.21,
+   "t1": 525.37
+  },
+  {
+   "line": 50,
+   "w": "was",
+   "t0": 525.45,
+   "t1": 525.53
+  },
+  {
+   "line": 50,
+   "w": "a",
+   "t0": 525.61,
+   "t1": 525.77
+  },
+  {
+   "line": 50,
+   "w": "very",
+   "t0": 525.85,
+   "t1": 526.17
+  },
+  {
+   "line": 50,
+   "w": "quiet",
+   "t0": 526.25,
+   "t1": 526.65
+  },
+  {
+   "line": 50,
+   "w": "wedding",
+   "t0": 526.73,
+   "t1": 527.05
+  },
+  {
+   "line": 50,
+   "w": "after",
+   "t0": 527.13,
+   "t1": 527.37
+  },
+  {
+   "line": 50,
+   "w": "that.",
+   "t0": 527.45,
+   "t1": 528.357
+  },
+  {
+   "line": 50,
+   "w": "But",
+   "t0": 528.383,
+   "t1": 528.41
+  },
+  {
+   "line": 50,
+   "w": "the",
+   "t0": 528.49,
+   "t1": 528.65
+  },
+  {
+   "line": 50,
+   "w": "decorations",
+   "t0": 528.85,
+   "t1": 529.45
+  },
+  {
+   "line": 50,
+   "w": "were",
+   "t0": 529.53,
+   "t1": 529.69
+  },
+  {
+   "line": 50,
+   "w": "amazing.",
+   "t0": 529.77,
+   "t1": 531.05
+  },
+  {
+   "line": 51,
+   "w": "Perseus",
+   "t0": 534.62,
+   "t1": 535.18
+  },
+  {
+   "line": 51,
+   "w": "came",
+   "t0": 535.26,
+   "t1": 535.42
+  },
+  {
+   "line": 51,
+   "w": "back",
+   "t0": 535.5,
+   "t1": 535.66
+  },
+  {
+   "line": 51,
+   "w": "to",
+   "t0": 535.74,
+   "t1": 535.82
+  },
+  {
+   "line": 51,
+   "w": "Seriphos",
+   "t0": 535.9,
+   "t1": 536.54
+  },
+  {
+   "line": 51,
+   "w": "with",
+   "t0": 536.62,
+   "t1": 536.7
+  },
+  {
+   "line": 51,
+   "w": "a",
+   "t0": 536.78,
+   "t1": 536.86
+  },
+  {
+   "line": 51,
+   "w": "wife",
+   "t0": 536.94,
+   "t1": 537.42
+  },
+  {
+   "line": 51,
+   "w": "and",
+   "t0": 537.5,
+   "t1": 537.58
+  },
+  {
+   "line": 51,
+   "w": "a",
+   "t0": 537.66,
+   "t1": 537.74
+  },
+  {
+   "line": 51,
+   "w": "head",
+   "t0": 537.86,
+   "t1": 537.98
+  },
+  {
+   "line": 51,
+   "w": "in",
+   "t0": 538.02,
+   "t1": 538.06
+  },
+  {
+   "line": 51,
+   "w": "a",
+   "t0": 538.14,
+   "t1": 538.22
+  },
+  {
+   "line": 51,
+   "w": "bag.",
+   "t0": 538.3,
+   "t1": 539.287
+  },
+  {
+   "line": 51,
+   "w": "And",
+   "t0": 539.313,
+   "t1": 539.34
+  },
+  {
+   "line": 51,
+   "w": "he",
+   "t0": 539.42,
+   "t1": 539.58
+  },
+  {
+   "line": 51,
+   "w": "found",
+   "t0": 539.7,
+   "t1": 539.82
+  },
+  {
+   "line": 51,
+   "w": "his",
+   "t0": 539.94,
+   "t1": 540.06
+  },
+  {
+   "line": 51,
+   "w": "mother",
+   "t0": 540.14,
+   "t1": 540.54
+  },
+  {
+   "line": 51,
+   "w": "hiding",
+   "t0": 540.62,
+   "t1": 540.94
+  },
+  {
+   "line": 51,
+   "w": "in",
+   "t0": 540.98,
+   "t1": 541.02
+  },
+  {
+   "line": 51,
+   "w": "a",
+   "t0": 541.1,
+   "t1": 541.18
+  },
+  {
+   "line": 51,
+   "w": "temple,",
+   "t0": 541.26,
+   "t1": 542.02
+  },
+  {
+   "line": 51,
+   "w": "because",
+   "t0": 542.06,
+   "t1": 542.3
+  },
+  {
+   "line": 51,
+   "w": "Polydectes",
+   "t0": 542.46,
+   "t1": 543.1
+  },
+  {
+   "line": 51,
+   "w": "was",
+   "t0": 543.18,
+   "t1": 543.34
+  },
+  {
+   "line": 51,
+   "w": "still",
+   "t0": 543.5,
+   "t1": 543.74
+  },
+  {
+   "line": 51,
+   "w": "trying",
+   "t0": 543.82,
+   "t1": 544.06
+  },
+  {
+   "line": 51,
+   "w": "to",
+   "t0": 544.14,
+   "t1": 544.22
+  },
+  {
+   "line": 51,
+   "w": "marry",
+   "t0": 544.3,
+   "t1": 544.54
+  },
+  {
+   "line": 51,
+   "w": "her.",
+   "t0": 544.98,
+   "t1": 545.5
+  },
+  {
+   "line": 52,
+   "w": "Perseus",
+   "t0": 545.87,
+   "t1": 546.43
+  },
+  {
+   "line": 52,
+   "w": "went",
+   "t0": 546.51,
+   "t1": 546.75
+  },
+  {
+   "line": 52,
+   "w": "straight",
+   "t0": 546.91,
+   "t1": 547.23
+  },
+  {
+   "line": 52,
+   "w": "to",
+   "t0": 547.27,
+   "t1": 547.31
+  },
+  {
+   "line": 52,
+   "w": "the",
+   "t0": 547.39,
+   "t1": 547.47
+  },
+  {
+   "line": 52,
+   "w": "palace.",
+   "t0": 547.55,
+   "t1": 548.63
+  },
+  {
+   "line": 52,
+   "w": "The",
+   "t0": 548.67,
+   "t1": 548.75
+  },
+  {
+   "line": 52,
+   "w": "king",
+   "t0": 548.83,
+   "t1": 549.07
+  },
+  {
+   "line": 52,
+   "w": "was",
+   "t0": 549.15,
+   "t1": 549.23
+  },
+  {
+   "line": 52,
+   "w": "having",
+   "t0": 549.31,
+   "t1": 549.47
+  },
+  {
+   "line": 52,
+   "w": "another",
+   "t0": 549.55,
+   "t1": 549.95
+  },
+  {
+   "line": 52,
+   "w": "party,",
+   "t0": 550.15,
+   "t1": 550.39
+  },
+  {
+   "line": 52,
+   "w": "of",
+   "t0": 550.43,
+   "t1": 550.59
+  },
+  {
+   "line": 52,
+   "w": "course.",
+   "t0": 551.03,
+   "t1": 551.523
+  },
+  {
+   "line": 52,
+   "w": "He",
+   "t0": 551.577,
+   "t1": 551.63
+  },
+  {
+   "line": 52,
+   "w": "laughed:",
+   "t0": 551.71,
+   "t1": 552.563
+  },
+  {
+   "line": 52,
+   "w": "\"Look",
+   "t0": 552.617,
+   "t1": 552.91
+  },
+  {
+   "line": 52,
+   "w": "who's",
+   "t0": 552.99,
+   "t1": 553.23
+  },
+  {
+   "line": 52,
+   "w": "back!",
+   "t0": 553.31,
+   "t1": 554.083
+  },
+  {
+   "line": 52,
+   "w": "Where's",
+   "t0": 554.137,
+   "t1": 554.27
+  },
+  {
+   "line": 52,
+   "w": "my",
+   "t0": 554.35,
+   "t1": 554.43
+  },
+  {
+   "line": 52,
+   "w": "gift?\"",
+   "t0": 554.51,
+   "t1": 555.55
+  },
+  {
+   "line": 53,
+   "w": "\"You",
+   "t0": 555.92,
+   "t1": 556.08
+  },
+  {
+   "line": 53,
+   "w": "wanted",
+   "t0": 556.24,
+   "t1": 556.4
+  },
+  {
+   "line": 53,
+   "w": "the",
+   "t0": 556.48,
+   "t1": 556.56
+  },
+  {
+   "line": 53,
+   "w": "head?",
+   "t0": 556.72,
+   "t1": 557.36
+  },
+  {
+   "line": 53,
+   "w": "Here's",
+   "t0": 558.06,
+   "t1": 558.38
+  },
+  {
+   "line": 53,
+   "w": "the",
+   "t0": 558.46,
+   "t1": 558.54
+  },
+  {
+   "line": 53,
+   "w": "head.\"",
+   "t0": 558.62,
+   "t1": 559.26
+  },
+  {
+   "line": 54,
+   "w": "Polydectes",
+   "t0": 560.31,
+   "t1": 561.19
+  },
+  {
+   "line": 54,
+   "w": "and",
+   "t0": 561.31,
+   "t1": 561.43
+  },
+  {
+   "line": 54,
+   "w": "all",
+   "t0": 561.59,
+   "t1": 561.75
+  },
+  {
+   "line": 54,
+   "w": "his",
+   "t0": 561.87,
+   "t1": 561.99
+  },
+  {
+   "line": 54,
+   "w": "friends",
+   "t0": 562.07,
+   "t1": 562.47
+  },
+  {
+   "line": 54,
+   "w": "became",
+   "t0": 562.59,
+   "t1": 562.95
+  },
+  {
+   "line": 54,
+   "w": "statues.",
+   "t0": 563.03,
+   "t1": 564.55
+  },
+  {
+   "line": 54,
+   "w": "Very",
+   "t0": 565.25,
+   "t1": 565.49
+  },
+  {
+   "line": 54,
+   "w": "quiet",
+   "t0": 565.73,
+   "t1": 566.05
+  },
+  {
+   "line": 54,
+   "w": "party",
+   "t0": 566.21,
+   "t1": 566.61
+  },
+  {
+   "line": 54,
+   "w": "after",
+   "t0": 566.77,
+   "t1": 566.93
+  },
+  {
+   "line": 54,
+   "w": "that.",
+   "t0": 567.13,
+   "t1": 567.49
+  },
+  {
+   "line": 55,
+   "w": "Perseus",
+   "t0": 567.94,
+   "t1": 568.5
+  },
+  {
+   "line": 55,
+   "w": "made",
+   "t0": 568.58,
+   "t1": 568.82
+  },
+  {
+   "line": 55,
+   "w": "Dictys,",
+   "t0": 568.9,
+   "t1": 569.62
+  },
+  {
+   "line": 55,
+   "w": "the",
+   "t0": 569.7,
+   "t1": 569.78
+  },
+  {
+   "line": 55,
+   "w": "nice",
+   "t0": 569.86,
+   "t1": 570.18
+  },
+  {
+   "line": 55,
+   "w": "fisherman,",
+   "t0": 570.26,
+   "t1": 570.98
+  },
+  {
+   "line": 55,
+   "w": "the",
+   "t0": 571.02,
+   "t1": 571.06
+  },
+  {
+   "line": 55,
+   "w": "new",
+   "t0": 571.14,
+   "t1": 571.38
+  },
+  {
+   "line": 55,
+   "w": "king.",
+   "t0": 571.46,
+   "t1": 572.5
+  },
+  {
+   "line": 55,
+   "w": "The",
+   "t0": 572.62,
+   "t1": 572.74
+  },
+  {
+   "line": 55,
+   "w": "only",
+   "t0": 572.82,
+   "t1": 573.06
+  },
+  {
+   "line": 55,
+   "w": "normal",
+   "t0": 573.22,
+   "t1": 573.62
+  },
+  {
+   "line": 55,
+   "w": "person",
+   "t0": 573.82,
+   "t1": 574.02
+  },
+  {
+   "line": 55,
+   "w": "in",
+   "t0": 574.1,
+   "t1": 574.18
+  },
+  {
+   "line": 55,
+   "w": "the",
+   "t0": 574.22,
+   "t1": 574.26
+  },
+  {
+   "line": 55,
+   "w": "story",
+   "t0": 574.34,
+   "t1": 574.82
+  },
+  {
+   "line": 55,
+   "w": "got",
+   "t0": 574.9,
+   "t1": 574.98
+  },
+  {
+   "line": 55,
+   "w": "a",
+   "t0": 575.02,
+   "t1": 575.06
+  },
+  {
+   "line": 55,
+   "w": "crown.",
+   "t0": 575.14,
+   "t1": 576.02
+  },
+  {
+   "line": 55,
+   "w": "Good",
+   "t0": 576.1,
+   "t1": 576.26
+  },
+  {
+   "line": 55,
+   "w": "for",
+   "t0": 576.34,
+   "t1": 576.42
+  },
+  {
+   "line": 55,
+   "w": "him.",
+   "t0": 576.86,
+   "t1": 577.38
+  },
+  {
+   "line": 56,
+   "w": "Then",
+   "t0": 577.75,
+   "t1": 577.91
+  },
+  {
+   "line": 56,
+   "w": "Perseus",
+   "t0": 578.07,
+   "t1": 578.63
+  },
+  {
+   "line": 56,
+   "w": "gave",
+   "t0": 578.71,
+   "t1": 578.95
+  },
+  {
+   "line": 56,
+   "w": "the",
+   "t0": 579.03,
+   "t1": 579.11
+  },
+  {
+   "line": 56,
+   "w": "magic",
+   "t0": 579.31,
+   "t1": 579.51
+  },
+  {
+   "line": 56,
+   "w": "gifts",
+   "t0": 579.59,
+   "t1": 579.91
+  },
+  {
+   "line": 56,
+   "w": "back,",
+   "t0": 579.99,
+   "t1": 580.603
+  },
+  {
+   "line": 56,
+   "w": "and",
+   "t0": 580.657,
+   "t1": 580.71
+  },
+  {
+   "line": 56,
+   "w": "gave",
+   "t0": 580.79,
+   "t1": 581.03
+  },
+  {
+   "line": 56,
+   "w": "Medusa's",
+   "t0": 581.15,
+   "t1": 581.67
+  },
+  {
+   "line": 56,
+   "w": "head",
+   "t0": 581.83,
+   "t1": 581.99
+  },
+  {
+   "line": 56,
+   "w": "to",
+   "t0": 582.07,
+   "t1": 582.15
+  },
+  {
+   "line": 56,
+   "w": "Athena.",
+   "t0": 582.23,
+   "t1": 583.27
+  },
+  {
+   "line": 56,
+   "w": "She",
+   "t0": 583.35,
+   "t1": 583.43
+  },
+  {
+   "line": 56,
+   "w": "put",
+   "t0": 583.51,
+   "t1": 583.59
+  },
+  {
+   "line": 56,
+   "w": "it",
+   "t0": 583.67,
+   "t1": 583.75
+  },
+  {
+   "line": 56,
+   "w": "on",
+   "t0": 583.83,
+   "t1": 583.91
+  },
+  {
+   "line": 56,
+   "w": "her",
+   "t0": 583.99,
+   "t1": 584.15
+  },
+  {
+   "line": 56,
+   "w": "shield.",
+   "t0": 584.23,
+   "t1": 584.99
+  },
+  {
+   "line": 56,
+   "w": "Forever.",
+   "t0": 585.03,
+   "t1": 586.31
+  },
+  {
+   "line": 56,
+   "w": "Because",
+   "t0": 586.47,
+   "t1": 586.63
+  },
+  {
+   "line": 56,
+   "w": "Athena",
+   "t0": 586.71,
+   "t1": 587.19
+  },
+  {
+   "line": 56,
+   "w": "is",
+   "t0": 587.27,
+   "t1": 587.35
+  },
+  {
+   "line": 56,
+   "w": "a",
+   "t0": 587.43,
+   "t1": 587.51
+  },
+  {
+   "line": 56,
+   "w": "little",
+   "t0": 587.59,
+   "t1": 587.83
+  },
+  {
+   "line": 56,
+   "w": "scary",
+   "t0": 587.91,
+   "t1": 588.31
+  },
+  {
+   "line": 56,
+   "w": "too.",
+   "t0": 588.39,
+   "t1": 589.43
+  },
+  {
+   "line": 57,
+   "w": "Finally,",
+   "t0": 592.6,
+   "t1": 593.4
+  },
+  {
+   "line": 57,
+   "w": "Perseus",
+   "t0": 593.48,
+   "t1": 594.04
+  },
+  {
+   "line": 57,
+   "w": "went",
+   "t0": 594.16,
+   "t1": 594.28
+  },
+  {
+   "line": 57,
+   "w": "home",
+   "t0": 594.36,
+   "t1": 594.6
+  },
+  {
+   "line": 57,
+   "w": "to",
+   "t0": 594.68,
+   "t1": 594.76
+  },
+  {
+   "line": 57,
+   "w": "Argos",
+   "t0": 594.84,
+   "t1": 595.32
+  },
+  {
+   "line": 57,
+   "w": "to",
+   "t0": 595.4,
+   "t1": 595.48
+  },
+  {
+   "line": 57,
+   "w": "meet",
+   "t0": 595.56,
+   "t1": 595.64
+  },
+  {
+   "line": 57,
+   "w": "his",
+   "t0": 595.72,
+   "t1": 595.88
+  },
+  {
+   "line": 57,
+   "w": "grandpa.",
+   "t0": 596.04,
+   "t1": 597.08
+  },
+  {
+   "line": 57,
+   "w": "He",
+   "t0": 597.16,
+   "t1": 597.24
+  },
+  {
+   "line": 57,
+   "w": "wasn't",
+   "t0": 597.32,
+   "t1": 597.56
+  },
+  {
+   "line": 57,
+   "w": "angry.",
+   "t0": 597.64,
+   "t1": 598.493
+  },
+  {
+   "line": 57,
+   "w": "He",
+   "t0": 598.547,
+   "t1": 598.6
+  },
+  {
+   "line": 57,
+   "w": "just",
+   "t0": 598.68,
+   "t1": 598.76
+  },
+  {
+   "line": 57,
+   "w": "wanted",
+   "t0": 598.84,
+   "t1": 599.08
+  },
+  {
+   "line": 57,
+   "w": "to",
+   "t0": 599.16,
+   "t1": 599.24
+  },
+  {
+   "line": 57,
+   "w": "say",
+   "t0": 599.32,
+   "t1": 599.4
+  },
+  {
+   "line": 57,
+   "w": "hi.",
+   "t0": 599.48,
+   "t1": 600.44
+  },
+  {
+   "line": 58,
+   "w": "But",
+   "t0": 600.81,
+   "t1": 600.97
+  },
+  {
+   "line": 58,
+   "w": "Acrisius",
+   "t0": 601.05,
+   "t1": 601.77
+  },
+  {
+   "line": 58,
+   "w": "heard",
+   "t0": 601.85,
+   "t1": 602.09
+  },
+  {
+   "line": 58,
+   "w": "that",
+   "t0": 602.17,
+   "t1": 602.25
+  },
+  {
+   "line": 58,
+   "w": "his",
+   "t0": 602.37,
+   "t1": 602.49
+  },
+  {
+   "line": 58,
+   "w": "grandson",
+   "t0": 602.65,
+   "t1": 603.05
+  },
+  {
+   "line": 58,
+   "w": "was",
+   "t0": 603.17,
+   "t1": 603.29
+  },
+  {
+   "line": 58,
+   "w": "coming,",
+   "t0": 603.49,
+   "t1": 604.17
+  },
+  {
+   "line": 58,
+   "w": "remembered",
+   "t0": 604.41,
+   "t1": 604.73
+  },
+  {
+   "line": 58,
+   "w": "the",
+   "t0": 604.81,
+   "t1": 604.89
+  },
+  {
+   "line": 58,
+   "w": "prophecy,",
+   "t0": 605.01,
+   "t1": 605.85
+  },
+  {
+   "line": 58,
+   "w": "and",
+   "t0": 605.97,
+   "t1": 606.09
+  },
+  {
+   "line": 58,
+   "w": "ran",
+   "t0": 606.17,
+   "t1": 606.33
+  },
+  {
+   "line": 58,
+   "w": "away",
+   "t0": 606.41,
+   "t1": 606.73
+  },
+  {
+   "line": 58,
+   "w": "to",
+   "t0": 606.81,
+   "t1": 606.89
+  },
+  {
+   "line": 58,
+   "w": "another",
+   "t0": 607.09,
+   "t1": 607.29
+  },
+  {
+   "line": 58,
+   "w": "city.",
+   "t0": 607.37,
+   "t1": 608.17
+  },
+  {
+   "line": 59,
+   "w": "Far",
+   "t0": 608.62,
+   "t1": 608.86
+  },
+  {
+   "line": 59,
+   "w": "away",
+   "t0": 608.94,
+   "t1": 609.26
+  },
+  {
+   "line": 59,
+   "w": "from",
+   "t0": 609.34,
+   "t1": 609.5
+  },
+  {
+   "line": 59,
+   "w": "Perseus.",
+   "t0": 609.58,
+   "t1": 610.78
+  },
+  {
+   "line": 59,
+   "w": "Safe.",
+   "t0": 611.06,
+   "t1": 611.5
+  },
+  {
+   "line": 59,
+   "w": "Probably.",
+   "t0": 612.2,
+   "t1": 613.4
+  },
+  {
+   "line": 60,
+   "w": "Years",
+   "t0": 613.85,
+   "t1": 614.17
+  },
+  {
+   "line": 60,
+   "w": "later,",
+   "t0": 614.25,
+   "t1": 614.97
+  },
+  {
+   "line": 60,
+   "w": "that",
+   "t0": 615.09,
+   "t1": 615.21
+  },
+  {
+   "line": 60,
+   "w": "city",
+   "t0": 615.29,
+   "t1": 615.61
+  },
+  {
+   "line": 60,
+   "w": "held",
+   "t0": 615.69,
+   "t1": 615.93
+  },
+  {
+   "line": 60,
+   "w": "big",
+   "t0": 616.09,
+   "t1": 616.33
+  },
+  {
+   "line": 60,
+   "w": "sports",
+   "t0": 616.41,
+   "t1": 616.81
+  },
+  {
+   "line": 60,
+   "w": "games.",
+   "t0": 616.89,
+   "t1": 617.93
+  },
+  {
+   "line": 60,
+   "w": "Perseus",
+   "t0": 618.05,
+   "t1": 618.57
+  },
+  {
+   "line": 60,
+   "w": "came",
+   "t0": 618.65,
+   "t1": 618.81
+  },
+  {
+   "line": 60,
+   "w": "to",
+   "t0": 618.89,
+   "t1": 618.97
+  },
+  {
+   "line": 60,
+   "w": "compete.",
+   "t0": 619.05,
+   "t1": 620.25
+  },
+  {
+   "line": 60,
+   "w": "Acrisius",
+   "t0": 620.33,
+   "t1": 621.05
+  },
+  {
+   "line": 60,
+   "w": "came",
+   "t0": 621.13,
+   "t1": 621.37
+  },
+  {
+   "line": 60,
+   "w": "to",
+   "t0": 621.45,
+   "t1": 621.53
+  },
+  {
+   "line": 60,
+   "w": "watch.",
+   "t0": 621.61,
+   "t1": 622.65
+  },
+  {
+   "line": 61,
+   "w": "Perseus",
+   "t0": 623.1,
+   "t1": 623.74
+  },
+  {
+   "line": 61,
+   "w": "threw",
+   "t0": 623.82,
+   "t1": 624.06
+  },
+  {
+   "line": 61,
+   "w": "a",
+   "t0": 624.14,
+   "t1": 624.22
+  },
+  {
+   "line": 61,
+   "w": "discus.",
+   "t0": 624.38,
+   "t1": 625.42
+  },
+  {
+   "line": 61,
+   "w": "The",
+   "t0": 625.5,
+   "t1": 625.58
+  },
+  {
+   "line": 61,
+   "w": "wind",
+   "t0": 625.66,
+   "t1": 625.98
+  },
+  {
+   "line": 61,
+   "w": "caught",
+   "t0": 626.06,
+   "t1": 626.38
+  },
+  {
+   "line": 61,
+   "w": "it...",
+   "t0": 626.46,
+   "t1": 627.5
+  },
+  {
+   "line": 61,
+   "w": "and",
+   "t0": 627.54,
+   "t1": 627.58
+  },
+  {
+   "line": 61,
+   "w": "it",
+   "t0": 627.66,
+   "t1": 627.82
+  },
+  {
+   "line": 61,
+   "w": "hit",
+   "t0": 627.9,
+   "t1": 628.06
+  },
+  {
+   "line": 61,
+   "w": "an",
+   "t0": 628.14,
+   "t1": 628.22
+  },
+  {
+   "line": 61,
+   "w": "old",
+   "t0": 628.3,
+   "t1": 628.54
+  },
+  {
+   "line": 61,
+   "w": "man",
+   "t0": 628.66,
+   "t1": 628.78
+  },
+  {
+   "line": 61,
+   "w": "in",
+   "t0": 628.86,
+   "t1": 628.94
+  },
+  {
+   "line": 61,
+   "w": "the",
+   "t0": 628.98,
+   "t1": 629.02
+  },
+  {
+   "line": 61,
+   "w": "crowd.",
+   "t0": 629.1,
+   "t1": 630.06
+  },
+  {
+   "line": 61,
+   "w": "Grandpa.",
+   "t0": 630.76,
+   "t1": 631.72
+  },
+  {
+   "line": 62,
+   "w": "The",
+   "t0": 632.57,
+   "t1": 632.65
+  },
+  {
+   "line": 62,
+   "w": "oracle",
+   "t0": 632.81,
+   "t1": 633.21
+  },
+  {
+   "line": 62,
+   "w": "was",
+   "t0": 633.29,
+   "t1": 633.45
+  },
+  {
+   "line": 62,
+   "w": "right.",
+   "t0": 633.61,
+   "t1": 634.25
+  },
+  {
+   "line": 62,
+   "w": "You",
+   "t0": 634.49,
+   "t1": 634.65
+  },
+  {
+   "line": 62,
+   "w": "can't",
+   "t0": 634.73,
+   "t1": 635.05
+  },
+  {
+   "line": 62,
+   "w": "run",
+   "t0": 635.13,
+   "t1": 635.29
+  },
+  {
+   "line": 62,
+   "w": "from",
+   "t0": 635.37,
+   "t1": 635.53
+  },
+  {
+   "line": 62,
+   "w": "fate.",
+   "t0": 635.69,
+   "t1": 636.57
+  },
+  {
+   "line": 62,
+   "w": "Fate",
+   "t0": 637.27,
+   "t1": 637.67
+  },
+  {
+   "line": 62,
+   "w": "has",
+   "t0": 637.83,
+   "t1": 637.99
+  },
+  {
+   "line": 62,
+   "w": "very",
+   "t0": 638.07,
+   "t1": 638.39
+  },
+  {
+   "line": 62,
+   "w": "good",
+   "t0": 638.51,
+   "t1": 638.63
+  },
+  {
+   "line": 62,
+   "w": "aim.",
+   "t0": 638.71,
+   "t1": 639.59
+  },
+  {
+   "line": 63,
+   "w": "Perseus",
+   "t0": 640.04,
+   "t1": 640.6
+  },
+  {
+   "line": 63,
+   "w": "felt",
+   "t0": 640.68,
+   "t1": 641.0
+  },
+  {
+   "line": 63,
+   "w": "so",
+   "t0": 641.08,
+   "t1": 641.32
+  },
+  {
+   "line": 63,
+   "w": "bad,",
+   "t0": 641.4,
+   "t1": 642.093
+  },
+  {
+   "line": 63,
+   "w": "he",
+   "t0": 642.147,
+   "t1": 642.2
+  },
+  {
+   "line": 63,
+   "w": "didn't",
+   "t0": 642.28,
+   "t1": 642.44
+  },
+  {
+   "line": 63,
+   "w": "even",
+   "t0": 642.52,
+   "t1": 642.76
+  },
+  {
+   "line": 63,
+   "w": "want",
+   "t0": 642.84,
+   "t1": 643.08
+  },
+  {
+   "line": 63,
+   "w": "to",
+   "t0": 643.16,
+   "t1": 643.24
+  },
+  {
+   "line": 63,
+   "w": "be",
+   "t0": 643.32,
+   "t1": 643.4
+  },
+  {
+   "line": 63,
+   "w": "king",
+   "t0": 643.48,
+   "t1": 643.56
+  },
+  {
+   "line": 63,
+   "w": "of",
+   "t0": 643.64,
+   "t1": 643.8
+  },
+  {
+   "line": 63,
+   "w": "Argos.",
+   "t0": 643.88,
+   "t1": 645.053
+  },
+  {
+   "line": 63,
+   "w": "He",
+   "t0": 645.107,
+   "t1": 645.16
+  },
+  {
+   "line": 63,
+   "w": "traded",
+   "t0": 645.24,
+   "t1": 645.56
+  },
+  {
+   "line": 63,
+   "w": "it",
+   "t0": 645.64,
+   "t1": 645.8
+  },
+  {
+   "line": 63,
+   "w": "for",
+   "t0": 645.84,
+   "t1": 645.88
+  },
+  {
+   "line": 63,
+   "w": "another",
+   "t0": 645.96,
+   "t1": 646.36
+  },
+  {
+   "line": 63,
+   "w": "kingdom",
+   "t0": 646.48,
+   "t1": 646.92
+  },
+  {
+   "line": 63,
+   "w": "and",
+   "t0": 647.0,
+   "t1": 647.08
+  },
+  {
+   "line": 63,
+   "w": "built",
+   "t0": 647.2,
+   "t1": 647.32
+  },
+  {
+   "line": 63,
+   "w": "a",
+   "t0": 647.4,
+   "t1": 647.48
+  },
+  {
+   "line": 63,
+   "w": "new",
+   "t0": 647.6,
+   "t1": 647.72
+  },
+  {
+   "line": 63,
+   "w": "city",
+   "t0": 647.88,
+   "t1": 648.04
+  },
+  {
+   "line": 63,
+   "w": "there:",
+   "t0": 648.12,
+   "t1": 648.8
+  },
+  {
+   "line": 63,
+   "w": "Mycenae,",
+   "t0": 648.84,
+   "t1": 649.92
+  },
+  {
+   "line": 63,
+   "w": "one",
+   "t0": 649.96,
+   "t1": 650.04
+  },
+  {
+   "line": 63,
+   "w": "of",
+   "t0": 650.08,
+   "t1": 650.12
+  },
+  {
+   "line": 63,
+   "w": "the",
+   "t0": 650.2,
+   "t1": 650.36
+  },
+  {
+   "line": 63,
+   "w": "greatest",
+   "t0": 650.44,
+   "t1": 651.0
+  },
+  {
+   "line": 63,
+   "w": "cities",
+   "t0": 651.2,
+   "t1": 651.4
+  },
+  {
+   "line": 63,
+   "w": "of",
+   "t0": 651.48,
+   "t1": 651.56
+  },
+  {
+   "line": 63,
+   "w": "ancient",
+   "t0": 651.64,
+   "t1": 651.96
+  },
+  {
+   "line": 63,
+   "w": "Greece.",
+   "t0": 652.04,
+   "t1": 653.24
+  },
+  {
+   "line": 64,
+   "w": "And",
+   "t0": 653.61,
+   "t1": 653.77
+  },
+  {
+   "line": 64,
+   "w": "when",
+   "t0": 653.85,
+   "t1": 653.93
+  },
+  {
+   "line": 64,
+   "w": "they",
+   "t0": 654.05,
+   "t1": 654.17
+  },
+  {
+   "line": 64,
+   "w": "all",
+   "t0": 654.25,
+   "t1": 654.49
+  },
+  {
+   "line": 64,
+   "w": "died,",
+   "t0": 654.57,
+   "t1": 655.343
+  },
+  {
+   "line": 64,
+   "w": "the",
+   "t0": 655.397,
+   "t1": 655.45
+  },
+  {
+   "line": 64,
+   "w": "gods",
+   "t0": 655.49,
+   "t1": 655.85
+  },
+  {
+   "line": 64,
+   "w": "put",
+   "t0": 655.93,
+   "t1": 656.01
+  },
+  {
+   "line": 64,
+   "w": "them",
+   "t0": 656.09,
+   "t1": 656.17
+  },
+  {
+   "line": 64,
+   "w": "in",
+   "t0": 656.21,
+   "t1": 656.25
+  },
+  {
+   "line": 64,
+   "w": "the",
+   "t0": 656.33,
+   "t1": 656.49
+  },
+  {
+   "line": 64,
+   "w": "sky",
+   "t0": 656.73,
+   "t1": 656.97
+  },
+  {
+   "line": 64,
+   "w": "as",
+   "t0": 657.05,
+   "t1": 657.13
+  },
+  {
+   "line": 64,
+   "w": "stars.",
+   "t0": 657.21,
+   "t1": 658.357
+  },
+  {
+   "line": 64,
+   "w": "Perseus,",
+   "t0": 658.463,
+   "t1": 659.37
+  },
+  {
+   "line": 64,
+   "w": "Andromeda,",
+   "t0": 659.45,
+   "t1": 660.277
+  },
+  {
+   "line": 64,
+   "w": "Cassiopeia,",
+   "t0": 660.303,
+   "t1": 661.49
+  },
+  {
+   "line": 64,
+   "w": "the",
+   "t0": 661.53,
+   "t1": 661.61
+  },
+  {
+   "line": 64,
+   "w": "king...",
+   "t0": 661.69,
+   "t1": 662.53
+  },
+  {
+   "line": 64,
+   "w": "even",
+   "t0": 662.57,
+   "t1": 662.81
+  },
+  {
+   "line": 64,
+   "w": "the",
+   "t0": 662.89,
+   "t1": 662.97
+  },
+  {
+   "line": 64,
+   "w": "sea",
+   "t0": 663.05,
+   "t1": 663.21
+  },
+  {
+   "line": 64,
+   "w": "monster.",
+   "t0": 663.29,
+   "t1": 664.49
+  },
+  {
+   "line": 64,
+   "w": "Participation",
+   "t0": 665.11,
+   "t1": 665.99
+  },
+  {
+   "line": 64,
+   "w": "award.",
+   "t0": 666.07,
+   "t1": 666.79
+  },
+  {
+   "line": 65,
+   "w": "Cassiopeia",
+   "t0": 667.24,
+   "t1": 668.04
+  },
+  {
+   "line": 65,
+   "w": "got",
+   "t0": 668.12,
+   "t1": 668.36
+  },
+  {
+   "line": 65,
+   "w": "stars",
+   "t0": 668.44,
+   "t1": 668.84
+  },
+  {
+   "line": 65,
+   "w": "too.",
+   "t0": 668.92,
+   "t1": 669.92
+  },
+  {
+   "line": 65,
+   "w": "But",
+   "t0": 669.96,
+   "t1": 670.04
+  },
+  {
+   "line": 65,
+   "w": "she",
+   "t0": 670.12,
+   "t1": 670.28
+  },
+  {
+   "line": 65,
+   "w": "spends",
+   "t0": 670.36,
+   "t1": 670.68
+  },
+  {
+   "line": 65,
+   "w": "half",
+   "t0": 670.76,
+   "t1": 671.0
+  },
+  {
+   "line": 65,
+   "w": "the",
+   "t0": 671.08,
+   "t1": 671.16
+  },
+  {
+   "line": 65,
+   "w": "year",
+   "t0": 671.24,
+   "t1": 671.48
+  },
+  {
+   "line": 65,
+   "w": "upside",
+   "t0": 671.56,
+   "t1": 671.96
+  },
+  {
+   "line": 65,
+   "w": "down.",
+   "t0": 672.04,
+   "t1": 673.0
+  },
+  {
+   "line": 65,
+   "w": "For",
+   "t0": 673.08,
+   "t1": 673.16
+  },
+  {
+   "line": 65,
+   "w": "the",
+   "t0": 673.24,
+   "t1": 673.32
+  },
+  {
+   "line": 65,
+   "w": "bragging.",
+   "t0": 673.4,
+   "t1": 674.6
+  },
+  {
+   "line": 66,
+   "w": "So",
+   "t0": 674.97,
+   "t1": 675.21
+  },
+  {
+   "line": 66,
+   "w": "that's",
+   "t0": 675.29,
+   "t1": 675.53
+  },
+  {
+   "line": 66,
+   "w": "the",
+   "t0": 675.61,
+   "t1": 675.69
+  },
+  {
+   "line": 66,
+   "w": "story",
+   "t0": 675.77,
+   "t1": 676.09
+  },
+  {
+   "line": 66,
+   "w": "of",
+   "t0": 676.17,
+   "t1": 676.25
+  },
+  {
+   "line": 66,
+   "w": "Perseus:",
+   "t0": 676.33,
+   "t1": 677.37
+  },
+  {
+   "line": 66,
+   "w": "a",
+   "t0": 677.45,
+   "t1": 677.53
+  },
+  {
+   "line": 66,
+   "w": "hero",
+   "t0": 677.77,
+   "t1": 678.01
+  },
+  {
+   "line": 66,
+   "w": "who",
+   "t0": 678.13,
+   "t1": 678.25
+  },
+  {
+   "line": 66,
+   "w": "won",
+   "t0": 678.37,
+   "t1": 678.49
+  },
+  {
+   "line": 66,
+   "w": "with",
+   "t0": 678.57,
+   "t1": 678.65
+  },
+  {
+   "line": 66,
+   "w": "a",
+   "t0": 678.73,
+   "t1": 678.81
+  },
+  {
+   "line": 66,
+   "w": "mirror,",
+   "t0": 679.13,
+   "t1": 679.503
+  },
+  {
+   "line": 66,
+   "w": "a",
+   "t0": 679.557,
+   "t1": 679.61
+  },
+  {
+   "line": 66,
+   "w": "bag,",
+   "t0": 679.89,
+   "t1": 680.21
+  },
+  {
+   "line": 66,
+   "w": "and",
+   "t0": 680.25,
+   "t1": 680.33
+  },
+  {
+   "line": 66,
+   "w": "a",
+   "t0": 680.57,
+   "t1": 680.65
+  },
+  {
+   "line": 66,
+   "w": "lot",
+   "t0": 680.73,
+   "t1": 680.81
+  },
+  {
+   "line": 66,
+   "w": "of",
+   "t0": 680.89,
+   "t1": 680.97
+  },
+  {
+   "line": 66,
+   "w": "luck.",
+   "t0": 681.13,
+   "t1": 681.85
+  },
+  {
+   "line": 67,
+   "w": "Subscribe",
+   "t0": 682.3,
+   "t1": 682.78
+  },
+  {
+   "line": 67,
+   "w": "for",
+   "t0": 682.86,
+   "t1": 683.02
+  },
+  {
+   "line": 67,
+   "w": "more",
+   "t0": 683.1,
+   "t1": 683.34
+  },
+  {
+   "line": 67,
+   "w": "myths.",
+   "t0": 683.42,
+   "t1": 684.1
+  },
+  {
+   "line": 67,
+   "w": "Or",
+   "t0": 684.38,
+   "t1": 684.54
+  },
+  {
+   "line": 67,
+   "w": "don't.",
+   "t0": 684.62,
+   "t1": 685.18
+  },
+  {
+   "line": 67,
+   "w": "Just...",
+   "t0": 685.88,
+   "t1": 686.84
+  },
+  {
+   "line": 67,
+   "w": "don't",
+   "t0": 687.16,
+   "t1": 687.4
+  },
+  {
+   "line": 67,
+   "w": "look.",
+   "t0": 687.48,
+   "t1": 688.12
+  }
+ ]
+}

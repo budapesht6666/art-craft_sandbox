@@ -1,0 +1,5969 @@
+{
+ "title": "The ENTIRE Story of Perseus",
+ "fps": 24,
+ "k": 70,
+ "cut_lead": 0.08,
+ "pause_after": {
+  "1": 0.2,
+  "3": 0.6,
+  "5": 0.6,
+  "21": 0.3,
+  "40": 1.6,
+  "42": 0.3,
+  "46": 0.3,
+  "50": 0.4,
+  "53": 0.6,
+  "61": 0.4,
+  "67": 14.0
+ },
+ "pause_before": {
+  "4": 2.8,
+  "11": 2.8,
+  "16": 2.8,
+  "23": 2.8,
+  "27": 2.8,
+  "34": 2.8,
+  "40": 2.8,
+  "51": 2.8,
+  "57": 2.8
+ },
+ "music": [
+  [
+   "1:start",
+   "monkeys_spinning_monkeys"
+  ],
+  [
+   "3:This",
+   "achilles"
+  ],
+  [
+   "3:end+0.4",
+   "hidden_agenda"
+  ],
+  [
+   "10:end+0.4",
+   "fluffing_a_duck"
+  ],
+  [
+   "15:end+0.4",
+   "thatched_villagers"
+  ],
+  [
+   "22:end+0.4",
+   "heroic_age"
+  ],
+  [
+   "26:end+0.4",
+   "scheming_weasel_faster"
+  ],
+  [
+   "33:end+0.4",
+   "darkest_child"
+  ],
+  [
+   "39:But",
+   "five_armies"
+  ],
+  [
+   "39:end+0.4",
+   "investigations"
+  ],
+  [
+   "43:Then",
+   "five_armies"
+  ],
+  [
+   "50:end+0.4",
+   "volatile_reaction",
+   -3
+  ],
+  [
+   "56:end+0.4",
+   "sneaky_snitch"
+  ],
+  [
+   "63:Perseus",
+   "wholesome"
+  ]
+ ],
+ "locs": {
+  "hills": {
+   "bg": "art/sheets/bg_hills.png",
+   "tint": [
+    255,
+    248,
+    236
+   ],
+   "floor": 965
+  },
+  "palace": {
+   "bg": "art/sheets/bg_palace.png",
+   "tint": [
+    242,
+    224,
+    206
+   ],
+   "floor": 960
+  },
+  "tower": {
+   "bg": "art/sheets/bg_tower.png",
+   "tint": [
+    205,
+    205,
+    228
+   ],
+   "floor": 1010
+  },
+  "tower_rain": {
+   "bg": "art/sheets/bg_tower_rain.png",
+   "tint": [
+    225,
+    200,
+    160
+   ],
+   "floor": 1010
+  },
+  "sea": {
+   "bg": "art/sheets/bg_sea.png",
+   "tint": [
+    205,
+    212,
+    218
+   ],
+   "floor": 1000
+  },
+  "map": {
+   "bg": "art/map/map_base.png"
+  },
+  "world": {
+   "bg": "art/map/world_base.png"
+  },
+  "hall": {
+   "bg": "art/sheets/bg_hall.png",
+   "tint": [
+    246,
+    222,
+    192
+   ],
+   "floor": 1000
+  },
+  "olympus": {
+   "bg": "art/sheets/bg_olympus.png",
+   "tint": [
+    255,
+    251,
+    242
+   ],
+   "floor": 905
+  },
+  "lair": {
+   "bg": "art/sheets/bg_lair.png",
+   "tint": [
+    228,
+    200,
+    182
+   ],
+   "floor": 928
+  },
+  "coast": {
+   "bg": "art/sheets/bg_coast.png",
+   "tint": [
+    218,
+    202,
+    182
+   ],
+   "floor": 1000
+  },
+  "stadium": {
+   "bg": "art/sheets/bg_stadium.png",
+   "tint": [
+    255,
+    246,
+    232
+   ],
+   "floor": 1005
+  },
+  "shore": {
+   "bg": "art/sheets/bg_shore.png",
+   "tint": [
+    255,
+    248,
+    236
+   ],
+   "floor": 990
+  },
+  "graeae": {
+   "bg": "art/sheets/bg_graeae.png",
+   "tint": [
+    228,
+    230,
+    236
+   ],
+   "floor": 990
+  },
+  "edge": {
+   "bg": "art/sheets/bg_edge.png",
+   "tint": [
+    255,
+    226,
+    200
+   ],
+   "floor": 1000
+  },
+  "cave": {
+   "bg": "art/sheets/bg_gorgon_cave.png",
+   "tint": [
+    196,
+    214,
+    200
+   ],
+   "floor": 1000
+  },
+  "ethiopia": {
+   "bg": "art/sheets/bg_ethiopia.png",
+   "tint": [
+    255,
+    246,
+    232
+   ],
+   "floor": 1000
+  },
+  "temple": {
+   "bg": "art/sheets/bg_temple.png",
+   "tint": [
+    242,
+    226,
+    210
+   ],
+   "floor": 990
+  },
+  "night": {
+   "bg": "art/sheets/bg_night.png",
+   "tint": [
+    150,
+    165,
+    210
+   ],
+   "floor": 1000
+  },
+  "mycenae": {
+   "bg": "art/sheets/bg_mycenae.png",
+   "tint": [
+    255,
+    248,
+    236
+   ],
+   "floor": 1000
+  }
+ },
+ "poses": {
+  "perseus_front": {
+   "src": "art/cut/demo/model/model_01.png",
+   "rel": 0.53
+  },
+  "perseus_point": "art/cut/demo/test/test_01.png",
+  "perseus_shrug": "art/cut/demo/test/test_02.png",
+  "perseus_facepalm": "art/cut/demo/test/test_03.png",
+  "perseus_hold": "art/cut/demo/cast/cast_01.png",
+  "perseus_sneak": "art/cut/demo/cast/cast_02.png",
+  "perseus_win": "art/cut/demo/cast/cast_03.png",
+  "soldier_idle": {
+   "src": "art/cut/demo/model/model_04.png",
+   "rel": 0.62
+  },
+  "soldier_scream": "art/cut/demo/cast/cast_04.png",
+  "soldier_stone": "art/cut/demo/cast/cast_06.png",
+  "danae_idle": "art/cut/model/model_02.png",
+  "medusa_angry": "art/cut/model/model_06.png",
+  "acrisius_proud": "art/cut/argos/argos_01.png",
+  "acrisius_shock": "art/cut/argos/argos_02.png",
+  "acrisius_key": "art/cut/argos/argos_03.png",
+  "acrisius_thumbs": "art/cut/argos/argos_04.png",
+  "oracle_point": "art/cut/argos/argos_05.png",
+  "danae_sad": "art/cut/argos/argos_06.png",
+  "danae_shock": "art/cut/argos/argos_07.png",
+  "danae_baby": "art/cut/argos/argos_08.png",
+  "polydectes_love": "art/cut/party/party_01.png",
+  "polydectes_glare": "art/cut/party/party_02.png",
+  "polydectes_scheme": "art/cut/party/party_03.png",
+  "polydectes_laugh": "art/cut/party/party_04.png",
+  "guest_horse1": "art/cut/party/party_05.png",
+  "guest_horse2": {
+   "src": "art/cut/party/party_06.png",
+   "flip": true
+  },
+  "perseus_empty": "art/cut/party/party_07.png",
+  "perseus_boast": "art/cut/party/party_08.png",
+  "athena_give": "art/cut/quest/quest_01.png",
+  "hermes_give": "art/cut/quest/quest_02.png",
+  "nymph_give": "art/cut/quest/quest_03.png",
+  "perseus_bag": "art/cut/quest/quest_04.png",
+  "perseus_baghug": "art/cut/quest/quest_05.png",
+  "medusa_sleep": "art/cut/quest/quest_06.png",
+  "perseus_back": "art/cut/quest/quest_07.png",
+  "perseus_fly": {
+   "src": "art/cut/quest/quest_08.png",
+   "shadow": false,
+   "center": false
+  },
+  "andromeda_chained": "art/cut/end/end_01.png",
+  "wedding": "art/cut/end/end_02.png",
+  "perseus_discus": "art/cut/end/end_03.png",
+  "perseus_oops": "art/cut/end/end_04.png",
+  "acrisius_cheer": "art/cut/end/end_05.png",
+  "acrisius_ko": "art/cut/end/end_06.png",
+  "guest_laugh": "art/cut/end/end_07.png",
+  "guest_dance": "art/cut/end/end_08.png",
+  "zeus_cloud": {
+   "src": "art/cut/props/props_01.png",
+   "shadow": false
+  },
+  "chest": {
+   "src": "art/cut/props/props_02.png",
+   "shadow": false
+  },
+  "chest_open": {
+   "src": "art/cut/props/props_03.png",
+   "shadow": false
+  },
+  "chest_floor": "art/cut/props/props_03.png",
+  "discus": {
+   "src": "art/cut/props/props_04.png",
+   "shadow": false
+  },
+  "bag_glow": {
+   "src": "art/cut/props/props_05.png",
+   "shadow": false
+  },
+  "cricket": "art/cut/props/props_06.png",
+  "monster": {
+   "src": "art/cut/monster/monster_01.png",
+   "shadow": false,
+   "center": false
+  },
+  "polydectes_deal": {
+   "src": "art/cut/deal/deal_01.png",
+   "shadow": false,
+   "center": false
+  },
+  "medusa_cu": {
+   "src": "art/cut/demo/closeup/cu_01.png",
+   "shadow": false
+  },
+  "acrisius_idle": "art/cut/model/model_01.png",
+  "polydectes_idle": "art/cut/model/model_03.png",
+  "athena_idle": "art/cut/model/model_04.png",
+  "hermes_idle": "art/cut/model/model_05.png",
+  "andromeda_idle": "art/cut/model/model_07.png",
+  "oracle_sit": "art/cut/model/model_08.png",
+  "dictys_idle": "art/cut/model2/model2_01.png",
+  "zeus_idle": "art/cut/model2/model2_02.png",
+  "cassiopeia_idle": "art/cut/model2/model2_03.png",
+  "cepheus_idle": "art/cut/model2/model2_04.png",
+  "poseidon_idle": "art/cut/model2/model2_05.png",
+  "phineus_idle": "art/cut/model2/model2_06.png",
+  "pegasus_idle": "art/cut/model2/model2_07.png",
+  "atlas": "art/cut/model2/model2_08.png",
+  "graeae_eye": "art/cut/graeae/graeae_01.png",
+  "graeae_blind": "art/cut/graeae/graeae_02.png",
+  "perseus_eye": "art/cut/graeae/graeae_03.png",
+  "graeae_beg": "art/cut/graeae/graeae_04.png",
+  "eyeball": {
+   "src": "art/cut/graeae/graeae_05.png",
+   "shadow": false
+  },
+  "perseus_bye": "art/cut/graeae/graeae_06.png",
+  "acrisius_listen": "art/cut/home/home_01.png",
+  "acrisius_push": "art/cut/home/home_02.png",
+  "dictys_net": "art/cut/home/home_03.png",
+  "dictys_open": "art/cut/home/home_04.png",
+  "dictys_baby": "art/cut/home/home_05.png",
+  "danae_no": "art/cut/home/home_06.png",
+  "perseus_no": "art/cut/home/home_07.png",
+  "perseus_flex": "art/cut/home/home_08.png",
+  "polydectes_kneel": "art/cut/quest2/quest2_01.png",
+  "polydectes_ear": "art/cut/quest2/quest2_02.png",
+  "hermes_sword": "art/cut/quest2/quest2_03.png",
+  "athena_aegis": "art/cut/quest2/quest2_04.png",
+  "perseus_ready": "art/cut/quest2/quest2_05.png",
+  "perseus_invisible": "art/cut/quest2/quest2_06.png",
+  "perseus_shock": "art/cut/quest2/quest2_07.png",
+  "perseus_flybag": {
+   "src": "art/cut/quest2/quest2_08.png",
+   "shadow": false,
+   "center": false
+  },
+  "perseus_flybag_icon": {
+   "src": "art/cut/quest2/quest2_08.png",
+   "shadow": false
+  },
+  "cassiopeia_brag": "art/cut/ethiopia/ethiopia_01.png",
+  "poseidon_angry": "art/cut/ethiopia/ethiopia_02.png",
+  "cepheus_joy": "art/cut/ethiopia/ethiopia_03.png",
+  "phineus_charge": "art/cut/ethiopia/ethiopia_04.png",
+  "phineus_sulk": "art/cut/ethiopia/ethiopia_05.png",
+  "cepheus_worried": "art/cut/ethiopia/ethiopia_06.png",
+  "zeus_wink": "art/cut/ethiopia/ethiopia_07.png",
+  "zeus_shrug": "art/cut/ethiopia/ethiopia_08.png",
+  "acrisius_run": "art/cut/end2/end2_01.png",
+  "acrisius_relax": "art/cut/end2/end2_02.png",
+  "danae_hide": "art/cut/end2/end2_03.png",
+  "dictys_king": "art/cut/end2/end2_04.png",
+  "gorgon_fly1": "art/cut/end2/end2_05.png",
+  "gorgon_fly2": "art/cut/end2/end2_06.png",
+  "gorgon_sleep1": "art/cut/end2/end2_07.png",
+  "gorgon_sleep2": "art/cut/end2/end2_08.png",
+  "pegasus_leap": {
+   "src": "art/cut/pegasus/pegasus_01.png",
+   "rel": 0.57
+  },
+  "perseus_confused": {
+   "src": "art/cut/pegasus/pegasus_02.png",
+   "rel": 0.57
+  },
+  "barnaby_idle": "art/cut/barnaby/barnaby_01.png",
+  "barnaby_technically": "art/cut/barnaby/barnaby_02.png",
+  "barnaby_shrug": "art/cut/barnaby/barnaby_03.png",
+  "barnaby_sing": "art/cut/barnaby/barnaby_04.png",
+  "monster_star": {
+   "src": "art/cut/monster/monster_01.png",
+   "shadow": false
+  }
+ },
+ "shots": [
+  {
+   "id": "01a",
+   "at": "1:This",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_point",
+       "start"
+      ]
+     ],
+     "k": 74
+    }
+   ],
+   "titles": [
+    {
+     "text": "PERSEUS",
+     "at": "1:Perseus"
+    }
+   ]
+  },
+  {
+   "id": "01b",
+   "at": "1:cut",
+   "loc": "lair",
+   "actors": [
+    {
+     "x": 900,
+     "poses": [
+      [
+       "perseus_win",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "cam": {
+    "from": 104,
+    "to": 108
+   },
+   "sfx": [
+    [
+     "slash",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "01c",
+   "at": "1:turn",
+   "loc": "ethiopia",
+   "actors": [
+    {
+     "x": 560,
+     "poses": [
+      [
+       "guest_laugh",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    },
+    {
+     "x": 960,
+     "poses": [
+      [
+       "phineus_charge",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    },
+    {
+     "x": 1380,
+     "poses": [
+      [
+       "guest_dance",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    }
+   ],
+   "sfx": [
+    [
+     "whoosh",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "01d",
+   "at": "1:turn#2",
+   "loc": "edge",
+   "actors": [
+    {
+     "x": 1000,
+     "poses": [
+      [
+       "atlas",
+       "start"
+      ]
+     ],
+     "k": 118,
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    }
+   ],
+   "sfx": [
+    [
+     "whoosh",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "01e",
+   "at": "1:kill",
+   "loc": "stadium",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_ko",
+       "start"
+      ]
+     ],
+     "k": 88
+    }
+   ],
+   "cam": {
+    "from": 106,
+    "to": 110
+   },
+   "sfx": [
+    [
+     "bonk",
+     "1:grandpa"
+    ]
+   ]
+  },
+  {
+   "id": "01f",
+   "at": "1:With",
+   "loc": "stadium",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_oops",
+       "start"
+      ]
+     ],
+     "k": 76
+    }
+   ],
+   "titles": [
+    {
+     "text": "WITH SPORTS.",
+     "at": "1:With"
+    }
+   ]
+  },
+  {
+   "id": "02a",
+   "at": "2:And",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_flex",
+       "start"
+      ]
+     ],
+     "k": 74
+    }
+   ],
+   "cam": {
+    "from": 102,
+    "to": 104,
+    "punch": [
+     [
+      "2:He",
+      6
+     ]
+    ]
+   },
+   "titles": [
+    {
+     "text": "ONE OF THE GOOD GUYS.",
+     "at": "2:He"
+    }
+   ],
+   "sfx": [
+    [
+     "boing",
+     "2:good"
+    ]
+   ]
+  },
+  {
+   "id": "03a",
+   "at": "3:This",
+   "loc": "night",
+   "actors": [
+    {
+     "x": 380,
+     "poses": [
+      [
+       "barnaby_technically",
+       "start"
+      ]
+     ],
+     "y": 1010,
+     "k": 78,
+     "pop_first": true,
+     "tint": [
+      240,
+      236,
+      248
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "PRETTY MUCH HISTORY PRESENTS",
+     "at": "start+0.2",
+     "x": 1180,
+     "y": 200,
+     "size": 46,
+     "sfx": false
+    },
+    {
+     "text": "THE ENTIRE STORY OF",
+     "at": "3:entire",
+     "x": 1180,
+     "y": 330,
+     "size": 70
+    },
+    {
+     "text": "PERSEUS",
+     "at": "3:Perseus",
+     "x": 1180,
+     "y": 640,
+     "size": 190
+    }
+   ],
+   "cam": {
+    "from": 100,
+    "to": 108
+   },
+   "sfx": [
+    [
+     "braam",
+     "3:entire"
+    ]
+   ]
+  },
+  {
+   "id": "C1",
+   "at": "3:end+0.4",
+   "loc": "palace",
+   "card": {
+    "num": "CHAPTER 1",
+    "title": "THE PROPHECY"
+   }
+  },
+  {
+   "id": "04a",
+   "at": "4:Our",
+   "loc": "map",
+   "actors": [],
+   "cam": {
+    "from": 100,
+    "to": 135,
+    "center": [
+     640,
+     470
+    ]
+   },
+   "sfx": [
+    [
+     "whoosh",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "04b",
+   "at": "4:with",
+   "loc": "palace",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_proud",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "KING ACRISIUS",
+     "at": "4:Acrisius",
+     "until": "4:Acrisius$+1.2"
+    }
+   ]
+  },
+  {
+   "id": "04c",
+   "at": "4:Acrisius#2",
+   "loc": "palace",
+   "actors": [
+    {
+     "x": 700,
+     "poses": [
+      [
+       "acrisius_proud",
+       "start"
+      ],
+      [
+       "acrisius_listen",
+       "4:But"
+      ]
+     ]
+    },
+    {
+     "x": 1280,
+     "poses": [
+      [
+       "danae_idle",
+       "4:daughter"
+      ]
+     ],
+     "until": "4:But"
+    }
+   ],
+   "titles": [
+    {
+     "text": "DANAË",
+     "at": "4:Danae",
+     "until": "4:Danae$+1.0"
+    }
+   ]
+  },
+  {
+   "id": "04d",
+   "at": "4:So",
+   "loc": "temple",
+   "actors": [
+    {
+     "x": 1300,
+     "poses": [
+      [
+       "oracle_sit",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "THE ORACLE OF DELPHI",
+     "at": "4:Oracle",
+     "until": "4:Basically"
+    },
+    {
+     "text": "ANCIENT GOOGLE.",
+     "at": "4:Google"
+    }
+   ],
+   "sfx": [
+    [
+     "magic",
+     "4:Oracle"
+    ],
+    [
+     "pop",
+     "4:Google"
+    ]
+   ]
+  },
+  {
+   "id": "05a",
+   "at": "5:He",
+   "loc": "temple",
+   "actors": [
+    {
+     "x": 560,
+     "poses": [
+      [
+       "acrisius_proud",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1320,
+     "poses": [
+      [
+       "oracle_sit",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "\"WILL I HAVE A SON?\"",
+     "at": "5:Will",
+     "size": 84
+    }
+   ]
+  },
+  {
+   "id": "05b",
+   "at": "5:No",
+   "loc": "temple",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "oracle_point",
+       "start"
+      ]
+     ],
+     "y": 1060,
+     "k": 105
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "\"NO.\"",
+     "at": "5:No",
+     "until": "5:But"
+    },
+    {
+     "text": "\"...BUT YOUR DAUGHTER WILL.\"",
+     "at": "5:But",
+     "until": "5:And",
+     "size": 80
+    },
+    {
+     "text": "\"AND YOUR GRANDSON WILL KILL YOU.\"",
+     "at": "5:And",
+     "size": 78
+    }
+   ],
+   "sfx": [
+    [
+     "creepy",
+     "5:But"
+    ]
+   ]
+  },
+  {
+   "id": "05c",
+   "at": "5:you$+0.15",
+   "loc": "temple",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_shock",
+       "start"
+      ]
+     ],
+     "shake": [
+      [
+       "start",
+       "end"
+      ]
+     ]
+    }
+   ],
+   "cam": {
+    "from": 108,
+    "to": 110
+   },
+   "sfx": [
+    [
+     "yell",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "06a",
+   "at": "6:Now",
+   "loc": "palace",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_thumbs",
+       "6:Okay"
+      ]
+     ],
+     "y": 1060,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "\"I WILL BE REALLY, REALLY NICE TO MY GRANDSON.\"",
+     "at": "6:Okay",
+     "size": 62
+    }
+   ],
+   "sfx": [
+    [
+     "bells_magic",
+     "6:Okay"
+    ]
+   ]
+  },
+  {
+   "id": "06b",
+   "at": "6:Acrisius",
+   "loc": "palace",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_key",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "cam": {
+    "from": 104,
+    "to": 108
+   },
+   "sfx": [
+    [
+     "drop",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "07a",
+   "at": "7:He",
+   "loc": "tower",
+   "actors": [
+    {
+     "x": 520,
+     "poses": [
+      [
+       "acrisius_key",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "lock",
+     "7:locked"
+    ]
+   ]
+  },
+  {
+   "id": "07b",
+   "at": "7:No",
+   "loc": "tower",
+   "actors": [
+    {
+     "x": 1420,
+     "poses": [
+      [
+       "acrisius_key",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "NO DOORS.",
+     "at": "7:No",
+     "x": 560,
+     "y": 260
+    },
+    {
+     "text": "NO BOYS.",
+     "at": "7:No#2",
+     "x": 560,
+     "y": 380
+    },
+    {
+     "text": "NO VISITORS.",
+     "at": "7:No#3",
+     "x": 560,
+     "y": 500
+    },
+    {
+     "text": "NO GRANDSON.",
+     "at": "7:No#4",
+     "x": 560,
+     "y": 620
+    }
+   ],
+   "sfx": [
+    [
+     "stamp",
+     "7:No"
+    ],
+    [
+     "stamp",
+     "7:No#2"
+    ],
+    [
+     "stamp",
+     "7:No#3"
+    ],
+    [
+     "stamp",
+     "7:No#4"
+    ]
+   ]
+  },
+  {
+   "id": "07c",
+   "at": "7:Problem",
+   "loc": "tower",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_thumbs",
+       "start"
+      ]
+     ],
+     "k": 76
+    }
+   ],
+   "titles": [
+    {
+     "text": "PROBLEM SOLVED.",
+     "at": "7:Problem"
+    }
+   ]
+  },
+  {
+   "id": "08a",
+   "at": "8:Problem",
+   "loc": "tower",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_thumbs",
+       "start"
+      ]
+     ],
+     "k": 76
+    }
+   ],
+   "titles": [
+    {
+     "text": "PROBLEM NOT SOLVED.",
+     "at": "8:Problem"
+    }
+   ],
+   "sfx": [
+    [
+     "drop",
+     "8:not"
+    ]
+   ]
+  },
+  {
+   "id": "08b",
+   "at": "8:there",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "zeus_idle",
+       "8:Zeus"
+      ]
+     ]
+    }
+   ],
+   "cam": {
+    "from": 100,
+    "to": 104,
+    "punch": [
+     [
+      "8:Zeus",
+      6
+     ]
+    ]
+   },
+   "titles": [
+    {
+     "text": "ZEUS",
+     "at": "8:Zeus"
+    }
+   ],
+   "sfx": [
+    [
+     "thunder",
+     "8:Zeus"
+    ]
+   ]
+  },
+  {
+   "id": "09a",
+   "at": "9:Zeus",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "zeus_idle",
+       "start"
+      ],
+      [
+       "zeus_wink",
+       "9:liked"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "boing",
+     "9:liked"
+    ]
+   ]
+  },
+  {
+   "id": "09b",
+   "at": "9:and",
+   "loc": "tower_rain",
+   "actors": [],
+   "props": [
+    {
+     "pose": "zeus_cloud",
+     "at": "9:tower",
+     "k": 36,
+     "path": [
+      [
+       "9:tower",
+       1210,
+       150
+      ]
+     ]
+    }
+   ],
+   "cam": {
+    "from": 100,
+    "to": 106,
+    "center": [
+     1160,
+     480
+    ]
+   },
+   "sfx": [
+    [
+     "magic_big",
+     "9:golden"
+    ]
+   ]
+  },
+  {
+   "id": "09c",
+   "at": "9:Don't",
+   "loc": "tower_rain",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "danae_shock",
+       "start"
+      ]
+     ],
+     "y": 1060,
+     "k": 100,
+     "shake": [
+      [
+       "start",
+       "start+0.4"
+      ]
+     ]
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "DON'T ASK.",
+     "at": "9:Don't"
+    }
+   ]
+  },
+  {
+   "id": "09d",
+   "at": "9:The#2",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "zeus_shrug",
+       "start"
+      ]
+     ],
+     "k": 74
+    }
+   ],
+   "sfx": [
+    [
+     "whistle",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "10a",
+   "at": "10:Nine",
+   "loc": "tower",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "danae_baby",
+       "10:baby"
+      ]
+     ],
+     "y": 1060,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "9 MONTHS LATER",
+     "at": "10:Nine",
+     "until": "10:baby",
+     "y": 540,
+     "size": 110
+    }
+   ],
+   "sfx": [
+    [
+     "baby",
+     "10:baby+0.3"
+    ]
+   ]
+  },
+  {
+   "id": "10b",
+   "at": "10:Already",
+   "loc": "tower",
+   "actors": [
+    {
+     "x": 900,
+     "poses": [
+      [
+       "danae_baby",
+       "start"
+      ]
+     ],
+     "y": 1380,
+     "k": 165
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "ALREADY WEARING A HELMET.",
+     "at": "10:Already",
+     "size": 84
+    }
+   ],
+   "sfx": [
+    [
+     "pop",
+     "10:helmet"
+    ]
+   ]
+  },
+  {
+   "id": "C2",
+   "at": "10:end+0.4",
+   "loc": "sea",
+   "card": {
+    "num": "CHAPTER 2",
+    "title": "THE BOX"
+   }
+  },
+  {
+   "id": "11a",
+   "at": "11:Acrisius",
+   "loc": "tower",
+   "actors": [
+    {
+     "x": 560,
+     "poses": [
+      [
+       "acrisius_listen",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "ZERO BABIES.",
+     "at": "11:zero"
+    }
+   ],
+   "sfx": [
+    [
+     "baby",
+     "11:crying"
+    ]
+   ]
+  },
+  {
+   "id": "11b",
+   "at": "11:He",
+   "loc": "tower",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_listen",
+       "start"
+      ]
+     ],
+     "y": 1060,
+     "k": 105,
+     "shake": [
+      [
+       "start",
+       "end"
+      ]
+     ]
+    }
+   ],
+   "closeup": true,
+   "sfx": [
+    [
+     "drop",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "12a",
+   "at": "12:He",
+   "loc": "palace",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_proud",
+       "start"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "12b",
+   "at": "12:Killing",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 520,
+     "poses": [
+      [
+       "athena_idle",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 960,
+     "poses": [
+      [
+       "zeus_idle",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1400,
+     "poses": [
+      [
+       "poseidon_angry",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "thunder",
+     "12:angry"
+    ]
+   ]
+  },
+  {
+   "id": "12c",
+   "at": "12:So",
+   "loc": "palace",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_key",
+       "start"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "12d",
+   "at": "12:He#3",
+   "loc": "palace",
+   "actors": [
+    {
+     "x": 900,
+     "poses": [
+      [
+       "acrisius_push",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "cloth",
+     "12:box"
+    ]
+   ]
+  },
+  {
+   "id": "12e",
+   "at": "12:threw",
+   "loc": "sea",
+   "actors": [],
+   "props": [
+    {
+     "pose": "chest_open",
+     "k": 40,
+     "bob": 14,
+     "path": [
+      [
+       "start",
+       1000,
+       -300
+      ],
+      [
+       "12:sea",
+       1000,
+       760
+      ],
+      [
+       "end",
+       1120,
+       780
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "splash",
+     "12:sea"
+    ],
+    [
+     "waves",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "12f",
+   "at": "12:Totally",
+   "loc": "palace",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_thumbs",
+       "start"
+      ]
+     ],
+     "k": 76
+    }
+   ],
+   "titles": [
+    {
+     "text": "TOTALLY DIFFERENT.",
+     "at": "12:Totally"
+    }
+   ],
+   "cam": {
+    "from": 106,
+    "to": 108
+   }
+  },
+  {
+   "id": "12g",
+   "at": "12:The#6",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 700,
+     "poses": [
+      [
+       "zeus_shrug",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1250,
+     "poses": [
+      [
+       "poseidon_idle",
+       "start"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "13a",
+   "at": "13:The",
+   "loc": "map",
+   "actors": [],
+   "overlays": [
+    {
+     "src": "art/map/map_route.png",
+     "wipe": [
+      "13:floated",
+      "13:Seriphos$",
+      270
+     ]
+    }
+   ],
+   "props": [
+    {
+     "pose": "chest",
+     "k": 15,
+     "route": "art/map/route_points.json",
+     "route_from": "13:floated",
+     "route_to": "13:Seriphos$"
+    }
+   ],
+   "cam": {
+    "from": 100,
+    "to": 112,
+    "center": [
+     1050,
+     560
+    ]
+   },
+   "sfx": [
+    [
+     "waves_soft",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "14a",
+   "at": "14:There",
+   "loc": "shore",
+   "actors": [
+    {
+     "x": 900,
+     "poses": [
+      [
+       "dictys_net",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "DICTYS",
+     "at": "14:Dictys",
+     "until": "14:Dictys$+1.0"
+    }
+   ],
+   "sfx": [
+    [
+     "splash",
+     "14:pulled"
+    ]
+   ]
+  },
+  {
+   "id": "14b",
+   "at": "14:opened",
+   "loc": "shore",
+   "actors": [
+    {
+     "x": 900,
+     "poses": [
+      [
+       "dictys_open",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "lock",
+     "14:opened"
+    ],
+    [
+     "baby",
+     "14:baby"
+    ]
+   ]
+  },
+  {
+   "id": "14c",
+   "at": "14:Best",
+   "loc": "shore",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "dictys_baby",
+       "start"
+      ]
+     ],
+     "y": 1060,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "BEST CATCH OF HIS LIFE.",
+     "at": "14:Best"
+    }
+   ],
+   "sfx": [
+    [
+     "fanfare_bell",
+     "14:Best"
+    ]
+   ]
+  },
+  {
+   "id": "15a",
+   "at": "15:Dictys",
+   "loc": "shore",
+   "actors": [
+    {
+     "x": 680,
+     "poses": [
+      [
+       "dictys_idle",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1220,
+     "poses": [
+      [
+       "danae_baby",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "music_box",
+     "15:raised"
+    ]
+   ]
+  },
+  {
+   "id": "15b",
+   "at": "15:Remember",
+   "loc": "shore",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "dictys_idle",
+       "start"
+      ]
+     ],
+     "y": 1060,
+     "k": 105
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "REMEMBER DICTYS.",
+     "at": "15:Remember",
+     "until": "15:He#2"
+    },
+    {
+     "text": "THE ONLY NORMAL PERSON IN THIS STORY.",
+     "at": "15:only",
+     "size": 70
+    }
+   ],
+   "sfx": [
+    [
+     "fanfare_bell",
+     "15:only"
+    ]
+   ]
+  },
+  {
+   "id": "C3",
+   "at": "15:end+0.4",
+   "loc": "hall",
+   "card": {
+    "num": "CHAPTER 3",
+    "title": "THE PARTY"
+   }
+  },
+  {
+   "id": "16a",
+   "at": "16:Years",
+   "loc": "shore",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_front",
+       "16:Perseus"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "YEARS PASSED...",
+     "at": "16:Years",
+     "until": "16:Perseus"
+    }
+   ],
+   "sfx": [
+    [
+     "clock",
+     "16:Years"
+    ]
+   ]
+  },
+  {
+   "id": "16b",
+   "at": "16:let's",
+   "loc": "shore",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_flex",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 105
+    }
+   ],
+   "closeup": true,
+   "sfx": [
+    [
+     "boing",
+     "16:confident"
+    ]
+   ]
+  },
+  {
+   "id": "17a",
+   "at": "17:Unfortunately",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 600,
+     "poses": [
+      [
+       "dictys_idle",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1320,
+     "poses": [
+      [
+       "polydectes_idle",
+       "17:Polydectes"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "KING POLYDECTES",
+     "at": "17:Polydectes",
+     "until": "17:And"
+    }
+   ]
+  },
+  {
+   "id": "17b",
+   "at": "17:And",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 640,
+     "poses": [
+      [
+       "danae_idle",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1260,
+     "poses": [
+      [
+       "polydectes_kneel",
+       "17:marry"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "boing",
+     "17:marry"
+    ]
+   ]
+  },
+  {
+   "id": "17c",
+   "at": "17:Danae#2",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 640,
+     "poses": [
+      [
+       "danae_no",
+       "start"
+      ],
+      [
+       "perseus_no",
+       "17:Perseus"
+      ]
+     ]
+    },
+    {
+     "x": 1260,
+     "poses": [
+      [
+       "polydectes_kneel",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "stamp",
+     "17:no"
+    ],
+    [
+     "stamp",
+     "17:no#2"
+    ]
+   ]
+  },
+  {
+   "id": "17d",
+   "at": "17:Polydectes#3",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "polydectes_ear",
+       "start"
+      ]
+     ],
+     "y": 1060,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "\"MAYBE?\"",
+     "at": "17:maybe"
+    }
+   ],
+   "sfx": [
+    [
+     "pop",
+     "17:maybe"
+    ]
+   ]
+  },
+  {
+   "id": "18a",
+   "at": "18:So",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "polydectes_scheme",
+       "start"
+      ]
+     ],
+     "y": 1060,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "sfx": [
+    [
+     "evil_laugh",
+     "18:plan"
+    ]
+   ]
+  },
+  {
+   "id": "18b",
+   "at": "18:He#2",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 560,
+     "poses": [
+      [
+       "guest_laugh",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 960,
+     "poses": [
+      [
+       "polydectes_laugh",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1360,
+     "poses": [
+      [
+       "guest_dance",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "\"BRING ME A GIFT.\"",
+     "at": "18:Bring",
+     "until": "18:horse"
+    },
+    {
+     "text": "\"A HORSE WOULD BE NICE.\"",
+     "at": "18:horse"
+    }
+   ],
+   "sfx": [
+    [
+     "party",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "19a",
+   "at": "19:Every",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 650,
+     "poses": [
+      [
+       "guest_horse1",
+       "start"
+      ]
+     ],
+     "enter": {
+      "from_x": -500,
+      "dur": 1.4
+     }
+    },
+    {
+     "x": 1320,
+     "poses": [
+      [
+       "guest_horse2",
+       "19:brought"
+      ]
+     ],
+     "enter": {
+      "at": "19:brought",
+      "from_x": 2400,
+      "dur": 1.4
+     }
+    }
+   ],
+   "sfx": [
+    [
+     "horse",
+     "19:horse"
+    ],
+    [
+     "party",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "19b",
+   "at": "19:Perseus",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_empty",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "NO HORSE.",
+     "at": "19:horse#2",
+     "x": 500,
+     "y": 320
+    },
+    {
+     "text": "NO MONEY.",
+     "at": "19:money",
+     "x": 500,
+     "y": 440
+    }
+   ],
+   "sfx": [
+    [
+     "stamp",
+     "19:horse#2"
+    ],
+    [
+     "stamp",
+     "19:money"
+    ]
+   ],
+   "cam": {
+    "from": 102,
+    "to": 106
+   }
+  },
+  {
+   "id": "19c",
+   "at": "19:Perseus#3",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_flex",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 105
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "CONFIDENCE.",
+     "at": "19:confidence"
+    }
+   ],
+   "sfx": [
+    [
+     "shimmer",
+     "19:confidence"
+    ]
+   ]
+  },
+  {
+   "id": "20a",
+   "at": "20:Horses",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_boast",
+       "start"
+      ]
+     ],
+     "k": 74
+    }
+   ],
+   "cam": {
+    "from": 102,
+    "to": 104,
+    "punch": [
+     [
+      "20:Medusa",
+      6
+     ]
+    ]
+   },
+   "titles": [
+    {
+     "text": "\"EVEN THE HEAD OF MEDUSA!\"",
+     "at": "20:Even",
+     "size": 84
+    }
+   ],
+   "sfx": [
+    [
+     "drop",
+     "20:Medusa$+0.3"
+    ]
+   ]
+  },
+  {
+   "id": "21a",
+   "at": "21:The",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 500,
+     "poses": [
+      [
+       "guest_laugh",
+       "start"
+      ]
+     ],
+     "breathe": false
+    },
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_boast",
+       "start"
+      ]
+     ],
+     "breathe": false
+    },
+    {
+     "x": 1420,
+     "poses": [
+      [
+       "guest_dance",
+       "start"
+      ]
+     ],
+     "breathe": false
+    }
+   ],
+   "sfx": [
+    [
+     "gasp",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "21b",
+   "at": "21:The#2",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "polydectes_deal",
+       "start"
+      ]
+     ],
+     "y": 1100,
+     "k": 62,
+     "breathe": false
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "\"DEAL.\"",
+     "at": "21:Deal"
+    }
+   ],
+   "cam": {
+    "from": 100,
+    "to": 108,
+    "center": [
+     960,
+     520
+    ]
+   },
+   "sfx": [
+    [
+     "creepy",
+     "21:Deal"
+    ]
+   ]
+  },
+  {
+   "id": "22a",
+   "at": "22:And",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_oops",
+       "start"
+      ]
+     ],
+     "y": 1060,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "AT A PARTY.",
+     "at": "22:At",
+     "x": 520,
+     "y": 300
+    },
+    {
+     "text": "WITH NO PLAN.",
+     "at": "22:With",
+     "x": 520,
+     "y": 420
+    },
+    {
+     "text": "IN FRONT OF EVERYONE.",
+     "at": "22:In",
+     "x": 520,
+     "y": 540,
+     "size": 80
+    }
+   ],
+   "sfx": [
+    [
+     "stamp",
+     "22:At"
+    ],
+    [
+     "stamp",
+     "22:With"
+    ],
+    [
+     "stamp",
+     "22:In"
+    ]
+   ]
+  },
+  {
+   "id": "C4",
+   "at": "22:end+0.4",
+   "loc": "olympus",
+   "card": {
+    "num": "CHAPTER 4",
+    "title": "HELP FROM ABOVE"
+   }
+  },
+  {
+   "id": "23a",
+   "at": "23:Medusa",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "medusa_angry",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "MEDUSA",
+     "at": "23:Medusa",
+     "until": "23:One"
+    }
+   ],
+   "sfx": [
+    [
+     "hiss",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "23b",
+   "at": "23:One",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "medusa_cu",
+       "start"
+      ]
+     ],
+     "y": 560,
+     "k": 58,
+     "shadow": false
+    }
+   ],
+   "closeup": true,
+   "flash": [
+    "23:stone"
+   ],
+   "sfx": [
+    [
+     "growl",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "23c",
+   "at": "23:Heroes",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 480,
+     "poses": [
+      [
+       "soldier_scream",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    },
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_shock",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    },
+    {
+     "x": 1440,
+     "poses": [
+      [
+       "guest_dance",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    }
+   ],
+   "titles": [
+    {
+     "text": "VERY SURPRISED STATUES.",
+     "at": "23:surprised"
+    }
+   ],
+   "sfx": [
+    [
+     "creepy",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "24a",
+   "at": "24:But",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 620,
+     "poses": [
+      [
+       "athena_idle",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1300,
+     "poses": [
+      [
+       "hermes_idle",
+       "24:Hermes"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "ATHENA",
+     "at": "24:Athena",
+     "x": 620,
+     "y": 200,
+     "until": "24:Hermes"
+    },
+    {
+     "text": "HERMES",
+     "at": "24:Hermes",
+     "x": 1300,
+     "y": 200,
+     "until": "24:decided"
+    }
+   ],
+   "sfx": [
+    [
+     "shimmer",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "24b",
+   "at": "24:Mostly",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "zeus_wink",
+       "start"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "24c",
+   "at": "24:Nepotism",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "zeus_shrug",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "NEPOTISM: ALSO A GREEK INVENTION.",
+     "at": "24:Nepotism",
+     "size": 72
+    }
+   ],
+   "sfx": [
+    [
+     "whistle",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "25a",
+   "at": "25:Athena",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 600,
+     "poses": [
+      [
+       "athena_give",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1400,
+     "poses": [
+      [
+       "perseus_front",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "\"LOOK AT HER REFLECTION.\"",
+     "at": "25:Look#2"
+    }
+   ],
+   "sfx": [
+    [
+     "shimmer",
+     "25:shield"
+    ]
+   ]
+  },
+  {
+   "id": "25b",
+   "at": "25:Hermes",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 600,
+     "poses": [
+      [
+       "hermes_sword",
+       "start"
+      ],
+      [
+       "hermes_give",
+       "25:flying"
+      ]
+     ]
+    },
+    {
+     "x": 1400,
+     "poses": [
+      [
+       "perseus_front",
+       "start"
+      ],
+      [
+       "perseus_ready",
+       "25:sandals$"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "sword",
+     "25:sword"
+    ],
+    [
+     "magic",
+     "25:flying"
+    ]
+   ]
+  },
+  {
+   "id": "26a",
+   "at": "26:There",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_shrug",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "cam": {
+    "from": 102,
+    "to": 106
+   }
+  },
+  {
+   "id": "26b",
+   "at": "26:except",
+   "loc": "graeae",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "graeae_eye",
+       "start"
+      ]
+     ],
+     "k": 80
+    }
+   ],
+   "titles": [
+    {
+     "text": "THE GRAEAE",
+     "at": "26:Graeae"
+    }
+   ],
+   "sfx": [
+    [
+     "creepy",
+     "26:Graeae"
+    ],
+    [
+     "fire",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "C5",
+   "at": "26:end+0.4",
+   "loc": "graeae",
+   "card": {
+    "num": "CHAPTER 5",
+    "title": "THE GREY SISTERS"
+   }
+  },
+  {
+   "id": "27a",
+   "at": "27:The",
+   "loc": "graeae",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "graeae_eye",
+       "start"
+      ]
+     ],
+     "k": 80
+    }
+   ],
+   "titles": [
+    {
+     "text": "BORN OLD.",
+     "at": "27:born",
+     "until": "27:Grey"
+    },
+    {
+     "text": "GREY HAIR FROM DAY ONE.",
+     "at": "27:Grey"
+    }
+   ],
+   "sfx": [
+    [
+     "fire",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "28a",
+   "at": "28:And",
+   "loc": "graeae",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "graeae_eye",
+       "start"
+      ]
+     ],
+     "y": 1100,
+     "k": 120
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "ONE EYE.",
+     "at": "28:eye",
+     "until": "28:And#2"
+    },
+    {
+     "text": "...AND ONE TOOTH.",
+     "at": "28:tooth"
+    }
+   ],
+   "sfx": [
+    [
+     "pop",
+     "28:eye"
+    ],
+    [
+     "pop",
+     "28:tooth"
+    ]
+   ]
+  },
+  {
+   "id": "29a",
+   "at": "29:They",
+   "loc": "graeae",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "graeae_eye",
+       "start"
+      ]
+     ],
+     "k": 80,
+     "shake": [
+      [
+       "29:My",
+       "end"
+      ]
+     ]
+    }
+   ],
+   "props": [
+    {
+     "pose": "eyeball",
+     "k": 12,
+     "at": "29:My",
+     "until": "end",
+     "spin": 400,
+     "path": [
+      [
+       "29:My",
+       800,
+       560
+      ],
+      [
+       "29:No",
+       1150,
+       560
+      ],
+      [
+       "29:You",
+       820,
+       560
+      ],
+      [
+       "end",
+       1120,
+       560
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "\"MY TURN!\"",
+     "at": "29:My",
+     "y": 180,
+     "size": 70,
+     "until": "29:No"
+    },
+    {
+     "text": "\"NO, MY TURN!\"",
+     "at": "29:No",
+     "y": 180,
+     "size": 70,
+     "until": "29:You"
+    },
+    {
+     "text": "\"YOU HAD IT YESTERDAY!\"",
+     "at": "29:You",
+     "y": 180,
+     "size": 70
+    }
+   ],
+   "sfx": [
+    [
+     "swoosh",
+     "29:My"
+    ],
+    [
+     "swoosh",
+     "29:No"
+    ],
+    [
+     "swoosh",
+     "29:You"
+    ],
+    [
+     "fire",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "30a",
+   "at": "30:Perseus",
+   "loc": "graeae",
+   "actors": [
+    {
+     "x": 1250,
+     "poses": [
+      [
+       "graeae_eye",
+       "start"
+      ]
+     ],
+     "k": 80
+    },
+    {
+     "x": 520,
+     "poses": [
+      [
+       "perseus_sneak",
+       "start"
+      ],
+      [
+       "perseus_eye",
+       "30:grabbed"
+      ]
+     ],
+     "enter": {
+      "from_x": -200,
+      "dur": 2.0
+     }
+    }
+   ],
+   "props": [
+    {
+     "pose": "eyeball",
+     "k": 12,
+     "at": "30:air",
+     "until": "30:grabbed",
+     "spin": 500,
+     "path": [
+      [
+       "30:air",
+       1150,
+       520
+      ],
+      [
+       "30:grabbed",
+       620,
+       380
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "swoosh",
+     "30:air"
+    ],
+    [
+     "pop",
+     "30:grabbed"
+    ]
+   ]
+  },
+  {
+   "id": "31a",
+   "at": "31:Who",
+   "loc": "graeae",
+   "actors": [
+    {
+     "x": 1200,
+     "poses": [
+      [
+       "graeae_blind",
+       "start"
+      ]
+     ],
+     "k": 80,
+     "shake": [
+      [
+       "start",
+       "end"
+      ]
+     ]
+    },
+    {
+     "x": 460,
+     "poses": [
+      [
+       "perseus_eye",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "\"WHO TOOK THE EYE?\"",
+     "at": "31:Who",
+     "y": 180,
+     "size": 70,
+     "until": "31:I"
+    },
+    {
+     "text": "\"I CAN'T SEE!\"",
+     "at": "31:can't",
+     "y": 180,
+     "size": 70,
+     "until": "31:Nobody"
+    },
+    {
+     "text": "\"NOBODY CAN SEE!\"",
+     "at": "31:Nobody",
+     "y": 180,
+     "size": 70
+    }
+   ],
+   "sfx": [
+    [
+     "gasp",
+     "31:Who"
+    ],
+    [
+     "fire",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "32a",
+   "at": "32:Perseus",
+   "loc": "graeae",
+   "actors": [
+    {
+     "x": 480,
+     "poses": [
+      [
+       "perseus_eye",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1200,
+     "poses": [
+      [
+       "graeae_blind",
+       "start"
+      ]
+     ],
+     "k": 80
+    }
+   ],
+   "sfx": [
+    [
+     "fire",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "32b",
+   "at": "32:They",
+   "loc": "graeae",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "graeae_beg",
+       "start"
+      ]
+     ],
+     "k": 80
+    }
+   ],
+   "titles": [
+    {
+     "text": "VERY FAST.",
+     "at": "32:Very"
+    }
+   ],
+   "sfx": [
+    [
+     "pops",
+     "32:everything"
+    ]
+   ]
+  },
+  {
+   "id": "33a",
+   "at": "33:The",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 560,
+     "poses": [
+      [
+       "nymph_give",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1380,
+     "poses": [
+      [
+       "perseus_front",
+       "start"
+      ],
+      [
+       "perseus_invisible",
+       "33:invisibility"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "AMAZING.",
+     "at": "33:amazing",
+     "until": "33:And"
+    }
+   ],
+   "sfx": [
+    [
+     "magic_big",
+     "33:invisibility"
+    ]
+   ]
+  },
+  {
+   "id": "33b",
+   "at": "33:And",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 560,
+     "poses": [
+      [
+       "nymph_give",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1380,
+     "poses": [
+      [
+       "perseus_bag",
+       "33:bag"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "drop",
+     "33:bag$"
+    ]
+   ]
+  },
+  {
+   "id": "33c",
+   "at": "33:Just",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_bag",
+       "start"
+      ],
+      [
+       "perseus_baghug",
+       "33:really"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "A REALLY GOOD BAG.",
+     "at": "33:really",
+     "until": "33:You"
+    }
+   ],
+   "sfx": [
+    [
+     "shimmer",
+     "33:really"
+    ]
+   ]
+  },
+  {
+   "id": "33d",
+   "at": "33:You",
+   "loc": "hills",
+   "actors": [],
+   "closeup": true,
+   "props": [
+    {
+     "pose": "bag_glow",
+     "k": 85,
+     "path": [
+      [
+       "start",
+       960,
+       540
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "TRUST ME.",
+     "at": "33:Trust"
+    }
+   ],
+   "sfx": [
+    [
+     "bells_magic",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "C6",
+   "at": "33:end+0.4",
+   "loc": "cave",
+   "card": {
+    "num": "CHAPTER 6",
+    "title": "MEDUSA"
+   }
+  },
+  {
+   "id": "34a",
+   "at": "34:With",
+   "loc": "world",
+   "actors": [],
+   "overlays": [
+    {
+     "src": "art/map/world_leg1.png",
+     "wipe": [
+      "34:flew",
+      "34:world$",
+      90
+     ]
+    }
+   ],
+   "props": [
+    {
+     "pose": "perseus_flybag_icon",
+     "k": 14,
+     "route": "art/map/world_leg1.json",
+     "route_from": "34:flew",
+     "route_to": "34:world$"
+    }
+   ],
+   "sfx": [
+    [
+     "wind",
+     "34:flew"
+    ]
+   ]
+  },
+  {
+   "id": "34b",
+   "at": "34:cave",
+   "loc": "cave",
+   "actors": [],
+   "cam": {
+    "from": 100,
+    "to": 110
+   },
+   "sfx": [
+    [
+     "creepy",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "35a",
+   "at": "35:There",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 420,
+     "poses": [
+      [
+       "gorgon_fly1",
+       "start"
+      ]
+     ],
+     "y": 820
+    },
+    {
+     "x": 960,
+     "poses": [
+      [
+       "medusa_angry",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1500,
+     "poses": [
+      [
+       "gorgon_fly2",
+       "start"
+      ]
+     ],
+     "y": 820
+    }
+   ],
+   "titles": [
+    {
+     "text": "IMMORTAL",
+     "at": "35:immortal",
+     "x": 420,
+     "y": 180,
+     "until": "35:So"
+    },
+    {
+     "text": "IMMORTAL",
+     "at": "35:immortal",
+     "x": 1500,
+     "y": 180,
+     "until": "35:So"
+    },
+    {
+     "text": "NOT IMMORTAL",
+     "at": "35:not",
+     "y": 180,
+     "until": "35:So",
+     "sfx": false
+    }
+   ],
+   "sfx": [
+    [
+     "hiss",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "35b",
+   "at": "35:So",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "medusa_angry",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "GOOD NEWS.",
+     "at": "35:good"
+    }
+   ]
+  },
+  {
+   "id": "36a",
+   "at": "36:The",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 380,
+     "poses": [
+      [
+       "gorgon_sleep1",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 980,
+     "poses": [
+      [
+       "medusa_sleep",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1560,
+     "poses": [
+      [
+       "gorgon_sleep2",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "snore",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "36b",
+   "at": "36:Perseus",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 1500,
+     "poses": [
+      [
+       "soldier_scream",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    },
+    {
+     "x": 900,
+     "poses": [
+      [
+       "perseus_back",
+       "start"
+      ]
+     ],
+     "enter": {
+      "from_x": -300,
+      "dur": 3.5
+     }
+    }
+   ],
+   "sfx": [
+    [
+     "hiss",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "37a",
+   "at": "37:One",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_ready",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "sfx": [
+    [
+     "sword",
+     "37:swing"
+    ]
+   ]
+  },
+  {
+   "id": "37b",
+   "at": "37:and",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 900,
+     "poses": [
+      [
+       "perseus_win",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "flash": [
+    "start"
+   ],
+   "titles": [
+    {
+     "text": "(WHILE SHE WAS ASLEEP.)",
+     "at": "37:While",
+     "until": "37:Truly"
+    },
+    {
+     "text": "TRULY, A HERO.",
+     "at": "37:Truly"
+    }
+   ],
+   "sfx": [
+    [
+     "slash",
+     "start"
+    ],
+    [
+     "fanfare_bell",
+     "37:Truly"
+    ]
+   ]
+  },
+  {
+   "id": "38a",
+   "at": "38:And",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 560,
+     "poses": [
+      [
+       "perseus_shock",
+       "38:jumped"
+      ]
+     ]
+    },
+    {
+     "x": 1300,
+     "poses": [
+      [
+       "pegasus_leap",
+       "38:jumped"
+      ]
+     ],
+     "y": 950,
+     "enter": {
+      "at": "38:jumped",
+      "from_x": 1300,
+      "from_y": 1400,
+      "dur": 0.6,
+      "walk": false
+     }
+    }
+   ],
+   "titles": [
+    {
+     "text": "PEGASUS",
+     "at": "38:Pegasus"
+    }
+   ],
+   "sfx": [
+    [
+     "horse",
+     "38:jumped"
+    ],
+    [
+     "magic_big",
+     "38:jumped"
+    ]
+   ]
+  },
+  {
+   "id": "38b",
+   "at": "38:Greek",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_confused",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "NEITHER WILL I.",
+     "at": "38:Neither"
+    }
+   ]
+  },
+  {
+   "id": "39a",
+   "at": "39:The",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 560,
+     "poses": [
+      [
+       "gorgon_fly1",
+       "39:woke"
+      ]
+     ],
+     "y": 820,
+     "shake": [
+      [
+       "39:woke",
+       "end"
+      ]
+     ]
+    },
+    {
+     "x": 1360,
+     "poses": [
+      [
+       "gorgon_fly2",
+       "39:woke"
+      ]
+     ],
+     "y": 820,
+     "shake": [
+      [
+       "39:woke",
+       "end"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "growl",
+     "39:woke"
+    ],
+    [
+     "scream",
+     "39:happy"
+    ]
+   ]
+  },
+  {
+   "id": "39b",
+   "at": "39:But",
+   "loc": "cave",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_ready",
+       "start"
+      ],
+      [
+       "perseus_invisible",
+       "39:helmet"
+      ]
+     ],
+     "opacity": [
+      [
+       "39:invisible",
+       100
+      ],
+      [
+       "39:invisible+0.8",
+       0
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "magic",
+     "39:invisible"
+    ]
+   ]
+  },
+  {
+   "id": "39c",
+   "at": "39:and#2",
+   "loc": "edge",
+   "actors": [
+    {
+     "x": 900,
+     "poses": [
+      [
+       "perseus_flybag",
+       "start"
+      ]
+     ],
+     "y": 640,
+     "enter": {
+      "from_x": -300,
+      "from_y": 640,
+      "dur": 1.2,
+      "walk": false
+     },
+     "move": [
+      [
+       "39:head",
+       "end",
+       2400,
+       560
+      ]
+     ]
+    },
+    {
+     "x": 300,
+     "poses": [
+      [
+       "gorgon_fly1",
+       "39:head"
+      ]
+     ],
+     "y": 760,
+     "enter": {
+      "at": "39:head",
+      "from_x": -400,
+      "dur": 1.0,
+      "walk": false
+     }
+    }
+   ],
+   "titles": [
+    {
+     "text": "IN THE REALLY GOOD BAG.",
+     "at": "39:really"
+    }
+   ],
+   "sfx": [
+    [
+     "wind",
+     "start"
+    ],
+    [
+     "growl",
+     "39:head"
+    ]
+   ]
+  },
+  {
+   "id": "C7",
+   "at": "39:end+0.4",
+   "loc": "edge",
+   "card": {
+    "num": "CHAPTER 7",
+    "title": "THE WAY HOME"
+   }
+  },
+  {
+   "id": "40a",
+   "at": "40:Now",
+   "loc": "lair",
+   "actors": [
+    {
+     "x": 620,
+     "poses": [
+      [
+       "perseus_sneak",
+       "start"
+      ],
+      [
+       "perseus_hold",
+       "40:Don't"
+      ]
+     ],
+     "enter": {
+      "from_x": 400,
+      "dur": 2.5
+     }
+    },
+    {
+     "x": 1330,
+     "poses": [
+      [
+       "soldier_idle",
+       "start"
+      ],
+      [
+       "soldier_scream",
+       "40:look$+0.1"
+      ]
+     ],
+     "y": 907,
+     "shake": [
+      [
+       "40:look$+0.1",
+       "40:look$+0.75"
+      ]
+     ],
+     "stone": {
+      "pose": "soldier_stone",
+      "at": "40:look$+0.75",
+      "dur": 0.9
+     }
+    }
+   ],
+   "flash": [
+    "40:look$+0.7"
+   ],
+   "titles": [
+    {
+     "text": "DON'T LOOK.",
+     "at": "40:Don't"
+    }
+   ],
+   "cam": {
+    "from": 100,
+    "to": 106,
+    "punch": [
+     [
+      "40:Don't",
+      4
+     ]
+    ]
+   },
+   "sfx": [
+    [
+     "scream",
+     "40:look$+0.1"
+    ]
+   ]
+  },
+  {
+   "id": "41a",
+   "at": "41:On",
+   "loc": "world",
+   "actors": [],
+   "overlays": [
+    {
+     "src": "art/map/world_leg2.png",
+     "wipe": [
+      "41:stopped",
+      "41:Atlas",
+      315
+     ]
+    }
+   ],
+   "props": [
+    {
+     "pose": "perseus_flybag_icon",
+     "k": 14,
+     "route": "art/map/world_leg2.json",
+     "route_from": "41:stopped",
+     "route_to": "41:Atlas"
+    }
+   ]
+  },
+  {
+   "id": "41b",
+   "at": "41:the#2",
+   "loc": "edge",
+   "actors": [
+    {
+     "x": 440,
+     "poses": [
+      [
+       "perseus_front",
+       "start"
+      ]
+     ],
+     "k": 62
+    },
+    {
+     "x": 1250,
+     "poses": [
+      [
+       "atlas",
+       "start"
+      ]
+     ],
+     "k": 125
+    }
+   ],
+   "titles": [
+    {
+     "text": "ATLAS",
+     "at": "41:Atlas",
+     "x": 1250,
+     "y": 150,
+     "until": "41:Perseus"
+    },
+    {
+     "text": "\"NO.\"",
+     "at": "41:no",
+     "until": "41:Rudely"
+    },
+    {
+     "text": "RUDELY.",
+     "at": "41:Rudely"
+    }
+   ],
+   "sfx": [
+    [
+     "trex",
+     "41:Rudely"
+    ]
+   ]
+  },
+  {
+   "id": "42a",
+   "at": "42:So",
+   "loc": "edge",
+   "actors": [
+    {
+     "x": 440,
+     "poses": [
+      [
+       "perseus_hold",
+       "start"
+      ]
+     ],
+     "k": 62
+    },
+    {
+     "x": 1250,
+     "poses": [
+      [
+       "atlas",
+       "start"
+      ]
+     ],
+     "k": 125,
+     "stone": {
+      "at": "42:head+0.1",
+      "dur": 1.2
+     }
+    }
+   ],
+   "flash": [
+    "42:head"
+   ]
+  },
+  {
+   "id": "42b",
+   "at": "42:Today",
+   "loc": "world",
+   "actors": [],
+   "cam": {
+    "from": 100,
+    "to": 160,
+    "center": [
+     430,
+     390
+    ]
+   },
+   "titles": [
+    {
+     "text": "BE NICE TO TIRED TRAVELLERS.",
+     "at": "42:Be",
+     "size": 80
+    }
+   ]
+  },
+  {
+   "id": "43a",
+   "at": "43:Then",
+   "loc": "world",
+   "actors": [],
+   "overlays": [
+    {
+     "src": "art/map/world_leg3.png",
+     "wipe": [
+      "43:flying",
+      "43:Ethiopia$",
+      270
+     ]
+    }
+   ],
+   "props": [
+    {
+     "pose": "perseus_flybag_icon",
+     "k": 14,
+     "route": "art/map/world_leg3.json",
+     "route_from": "43:flying",
+     "route_to": "43:Ethiopia$"
+    }
+   ]
+  },
+  {
+   "id": "43b",
+   "at": "43:Perseus",
+   "loc": "coast",
+   "actors": [
+    {
+     "x": 1140,
+     "poses": [
+      [
+       "andromeda_chained",
+       "start"
+      ]
+     ],
+     "y": 880,
+     "k": 56
+    },
+    {
+     "x": 520,
+     "poses": [
+      [
+       "perseus_fly",
+       "start"
+      ]
+     ],
+     "y": 620,
+     "enter": {
+      "from_x": -400,
+      "from_y": 450,
+      "dur": 1.6,
+      "walk": false
+     }
+    }
+   ],
+   "sfx": [
+    [
+     "waves",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "44a",
+   "at": "44:Her",
+   "loc": "coast",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "andromeda_chained",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "ANDROMEDA",
+     "at": "44:Andromeda"
+    }
+   ],
+   "sfx": [
+    [
+     "waves_soft",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "44b",
+   "at": "44:Her#2",
+   "loc": "ethiopia",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "cassiopeia_idle",
+       "start"
+      ],
+      [
+       "cassiopeia_brag",
+       "44:bragged"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "QUEEN CASSIOPEIA",
+     "at": "44:Cassiopeia",
+     "until": "44:bragged"
+    }
+   ]
+  },
+  {
+   "id": "44c",
+   "at": "44:The#2",
+   "loc": "sea",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "poseidon_angry",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "POSEIDON",
+     "at": "44:Poseidon",
+     "until": "44:sent"
+    }
+   ],
+   "sfx": [
+    [
+     "storm",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "44d",
+   "at": "44:sent",
+   "loc": "sea",
+   "actors": [
+    {
+     "x": 1300,
+     "poses": [
+      [
+       "monster",
+       "start"
+      ]
+     ],
+     "y": 1150,
+     "k": 60,
+     "enter": {
+      "from_x": 1300,
+      "from_y": 1900,
+      "dur": 1.0,
+      "walk": false
+     }
+    }
+   ],
+   "sfx": [
+    [
+     "roar",
+     "start"
+    ],
+    [
+     "splash",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "45a",
+   "at": "45:The",
+   "loc": "ethiopia",
+   "actors": [
+    {
+     "x": 700,
+     "poses": [
+      [
+       "cepheus_worried",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1260,
+     "poses": [
+      [
+       "cassiopeia_idle",
+       "start"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "45b",
+   "at": "45:give",
+   "loc": "coast",
+   "actors": [
+    {
+     "x": 1140,
+     "poses": [
+      [
+       "andromeda_chained",
+       "start"
+      ]
+     ],
+     "y": 880,
+     "k": 56
+    }
+   ],
+   "titles": [
+    {
+     "text": "AS A SNACK.",
+     "at": "45:snack"
+    }
+   ],
+   "sfx": [
+    [
+     "waves",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "45c",
+   "at": "45:Thanks",
+   "loc": "ethiopia",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "cassiopeia_idle",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "THANKS, MOM.",
+     "at": "45:Thanks"
+    }
+   ],
+   "sfx": [
+    [
+     "pop",
+     "45:mom"
+    ]
+   ]
+  },
+  {
+   "id": "46a",
+   "at": "46:The",
+   "loc": "coast",
+   "actors": [
+    {
+     "x": 1140,
+     "poses": [
+      [
+       "andromeda_chained",
+       "start"
+      ]
+     ],
+     "y": 880,
+     "k": 56,
+     "shake": [
+      [
+       "start",
+       "end"
+      ]
+     ]
+    },
+    {
+     "x": 1600,
+     "poses": [
+      [
+       "monster",
+       "start"
+      ]
+     ],
+     "y": 1120,
+     "k": 60,
+     "enter": {
+      "from_x": 1600,
+      "from_y": 1900,
+      "dur": 0.9,
+      "walk": false
+     }
+    }
+   ],
+   "sfx": [
+    [
+     "roar",
+     "start"
+    ],
+    [
+     "splash",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "46b",
+   "at": "46:Perseus",
+   "loc": "coast",
+   "actors": [
+    {
+     "x": 1140,
+     "poses": [
+      [
+       "andromeda_chained",
+       "start"
+      ]
+     ],
+     "y": 880,
+     "k": 56
+    },
+    {
+     "x": 1600,
+     "poses": [
+      [
+       "monster",
+       "start"
+      ]
+     ],
+     "y": 1120,
+     "k": 60
+    },
+    {
+     "x": 480,
+     "poses": [
+      [
+       "perseus_fly",
+       "start"
+      ]
+     ],
+     "y": 560,
+     "enter": {
+      "from_x": -300,
+      "from_y": 300,
+      "dur": 0.9,
+      "walk": false
+     }
+    }
+   ],
+   "sfx": [
+    [
+     "whoosh_big",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "46c",
+   "at": "46:Perseus#2",
+   "loc": "coast",
+   "actors": [
+    {
+     "x": 1140,
+     "poses": [
+      [
+       "andromeda_chained",
+       "start"
+      ]
+     ],
+     "y": 880,
+     "k": 56
+    },
+    {
+     "x": 480,
+     "poses": [
+      [
+       "perseus_hold",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1600,
+     "poses": [
+      [
+       "monster",
+       "start"
+      ]
+     ],
+     "y": 1120,
+     "k": 60,
+     "stone": {
+      "at": "46:head+0.1",
+      "dur": 0.9
+     }
+    }
+   ],
+   "flash": [
+    "46:head"
+   ],
+   "titles": [
+    {
+     "text": "PROBLEM SOLVED.",
+     "at": "46:Problem"
+    }
+   ]
+  },
+  {
+   "id": "47a",
+   "at": "47:Andromeda's",
+   "loc": "ethiopia",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "cepheus_joy",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "crowd_cheer",
+     "47:happy"
+    ]
+   ]
+  },
+  {
+   "id": "47b",
+   "at": "47:let",
+   "loc": "ethiopia",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "wedding",
+       "start"
+      ]
+     ],
+     "k": 74
+    }
+   ],
+   "sfx": [
+    [
+     "church_bells",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "48a",
+   "at": "48:Small",
+   "loc": "ethiopia",
+   "actors": [
+    {
+     "x": 700,
+     "poses": [
+      [
+       "wedding",
+       "start"
+      ]
+     ],
+     "k": 74
+    },
+    {
+     "x": 1420,
+     "poses": [
+      [
+       "phineus_sulk",
+       "48:fiance"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "HER UNCLE, PHINEUS.",
+     "at": "48:Phineus",
+     "until": "48:Yes"
+    },
+    {
+     "text": "YES. HER UNCLE.",
+     "at": "48:Yes",
+     "until": "48:Greek"
+    }
+   ]
+  },
+  {
+   "id": "48b",
+   "at": "48:Greek",
+   "loc": "ethiopia",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "phineus_sulk",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "GREEK MYTHOLOGY, EVERYBODY.",
+     "at": "48:Greek",
+     "size": 80
+    }
+   ]
+  },
+  {
+   "id": "49a",
+   "at": "49:Phineus",
+   "loc": "ethiopia",
+   "actors": [
+    {
+     "x": 420,
+     "poses": [
+      [
+       "wedding",
+       "start"
+      ]
+     ],
+     "k": 74
+    },
+    {
+     "x": 1250,
+     "poses": [
+      [
+       "phineus_charge",
+       "start"
+      ]
+     ],
+     "enter": {
+      "from_x": 2300,
+      "dur": 1.2
+     }
+    },
+    {
+     "x": 1620,
+     "poses": [
+      [
+       "soldier_idle",
+       "start"
+      ]
+     ],
+     "y": 1000,
+     "enter": {
+      "from_x": 2500,
+      "dur": 1.4
+     }
+    },
+    {
+     "x": 1800,
+     "poses": [
+      [
+       "soldier_scream",
+       "start"
+      ]
+     ],
+     "y": 1000,
+     "enter": {
+      "from_x": 2700,
+      "dur": 1.6
+     }
+    }
+   ],
+   "titles": [
+    {
+     "text": "\"SHE IS MINE!\"",
+     "at": "49:She",
+     "until": "49:Perseus"
+    }
+   ],
+   "sfx": [
+    [
+     "yell",
+     "49:She"
+    ]
+   ]
+  },
+  {
+   "id": "49b",
+   "at": "49:Perseus",
+   "loc": "ethiopia",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_hold",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "\"EVERYBODY ON MY SIDE...\"",
+     "at": "49:Everybody",
+     "y": 880,
+     "size": 72,
+     "until": "49:close"
+    },
+    {
+     "text": "\"...CLOSE YOUR EYES.\"",
+     "at": "49:close",
+     "size": 84
+    }
+   ]
+  },
+  {
+   "id": "50a",
+   "at": "50:It",
+   "loc": "ethiopia",
+   "actors": [
+    {
+     "x": 420,
+     "poses": [
+      [
+       "wedding",
+       "start"
+      ]
+     ],
+     "k": 74
+    },
+    {
+     "x": 1250,
+     "poses": [
+      [
+       "phineus_charge",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    },
+    {
+     "x": 1620,
+     "poses": [
+      [
+       "soldier_idle",
+       "start"
+      ]
+     ],
+     "y": 1000,
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    },
+    {
+     "x": 1800,
+     "poses": [
+      [
+       "soldier_scream",
+       "start"
+      ]
+     ],
+     "y": 1000,
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    }
+   ],
+   "props": [
+    {
+     "pose": "cricket",
+     "k": 22,
+     "at": "50:quiet",
+     "path": [
+      [
+       "50:quiet",
+       980,
+       1020
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "THE DECORATIONS WERE AMAZING.",
+     "at": "50:But",
+     "size": 80
+    }
+   ],
+   "cam": {
+    "from": 104,
+    "to": 100
+   },
+   "sfx": [
+    [
+     "crickets",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "C8",
+   "at": "50:end+0.4",
+   "loc": "hall",
+   "card": {
+    "num": "CHAPTER 8",
+    "title": "PAYBACK"
+   }
+  },
+  {
+   "id": "51a",
+   "at": "51:Perseus",
+   "loc": "shore",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "wedding",
+       "start"
+      ]
+     ],
+     "k": 74
+    }
+   ],
+   "sfx": [
+    [
+     "waves_soft",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "51b",
+   "at": "51:And",
+   "loc": "temple",
+   "actors": [
+    {
+     "x": 1200,
+     "poses": [
+      [
+       "danae_hide",
+       "start"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "51c",
+   "at": "51:because",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "polydectes_love",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "sfx": [
+    [
+     "boing",
+     "51:marry"
+    ]
+   ]
+  },
+  {
+   "id": "52a",
+   "at": "52:Perseus",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 780,
+     "poses": [
+      [
+       "guest_laugh",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1150,
+     "poses": [
+      [
+       "polydectes_laugh",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1520,
+     "poses": [
+      [
+       "guest_dance",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 330,
+     "poses": [
+      [
+       "perseus_front",
+       "52:The"
+      ]
+     ],
+     "enter": {
+      "at": "52:The",
+      "from_x": -300,
+      "dur": 1.2
+     }
+    }
+   ],
+   "sfx": [
+    [
+     "party",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "52b",
+   "at": "52:He",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "polydectes_laugh",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "\"WHERE'S MY GIFT?\"",
+     "at": "52:Where's"
+    }
+   ],
+   "sfx": [
+    [
+     "laugh",
+     "52:laughed"
+    ]
+   ]
+  },
+  {
+   "id": "53a",
+   "at": "53:You",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 780,
+     "poses": [
+      [
+       "guest_laugh",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "53:head#2+0.1",
+      "dur": 0.9
+     }
+    },
+    {
+     "x": 1150,
+     "poses": [
+      [
+       "polydectes_laugh",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "53:head#2+0.15",
+      "dur": 0.9
+     }
+    },
+    {
+     "x": 1520,
+     "poses": [
+      [
+       "guest_dance",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "53:head#2+0.2",
+      "dur": 0.9
+     }
+    },
+    {
+     "x": 330,
+     "poses": [
+      [
+       "perseus_hold",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "flash": [
+    "53:head#2"
+   ],
+   "titles": [
+    {
+     "text": "\"HERE'S THE HEAD.\"",
+     "at": "53:Here's"
+    }
+   ],
+   "cam": {
+    "from": 102,
+    "to": 104,
+    "punch": [
+     [
+      "53:Here's",
+      4
+     ]
+    ]
+   }
+  },
+  {
+   "id": "54a",
+   "at": "54:Polydectes",
+   "loc": "hall",
+   "actors": [
+    {
+     "x": 780,
+     "poses": [
+      [
+       "guest_laugh",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    },
+    {
+     "x": 1150,
+     "poses": [
+      [
+       "polydectes_laugh",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    },
+    {
+     "x": 1520,
+     "poses": [
+      [
+       "guest_dance",
+       "start"
+      ]
+     ],
+     "stone": {
+      "at": "start-0.2",
+      "dur": 0.01
+     },
+     "breathe": false
+    },
+    {
+     "x": 330,
+     "poses": [
+      [
+       "perseus_win",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "props": [
+    {
+     "pose": "cricket",
+     "k": 22,
+     "at": "54:Very",
+     "path": [
+      [
+       "54:Very",
+       1760,
+       1010
+      ]
+     ]
+    }
+   ],
+   "cam": {
+    "from": 102,
+    "to": 100
+   },
+   "sfx": [
+    [
+     "crickets",
+     "54:Very"
+    ]
+   ]
+  },
+  {
+   "id": "55a",
+   "at": "55:Perseus",
+   "loc": "shore",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "dictys_idle",
+       "start"
+      ],
+      [
+       "dictys_king",
+       "55:king"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "GOOD FOR HIM.",
+     "at": "55:Good"
+    }
+   ],
+   "sfx": [
+    [
+     "fanfare_bell",
+     "55:king"
+    ],
+    [
+     "crowd_cheer",
+     "55:crown"
+    ]
+   ]
+  },
+  {
+   "id": "56a",
+   "at": "56:Then",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 520,
+     "poses": [
+      [
+       "hermes_idle",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1400,
+     "poses": [
+      [
+       "perseus_front",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "magic",
+     "56:back"
+    ]
+   ]
+  },
+  {
+   "id": "56b",
+   "at": "56:gave#2",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 600,
+     "poses": [
+      [
+       "athena_idle",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1300,
+     "poses": [
+      [
+       "perseus_hold",
+       "start"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "56c",
+   "at": "56:She",
+   "loc": "olympus",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "athena_aegis",
+       "start"
+      ]
+     ],
+     "y": 1080,
+     "k": 100
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "A LITTLE SCARY.",
+     "at": "56:scary"
+    }
+   ],
+   "sfx": [
+    [
+     "creepy",
+     "56:Forever"
+    ]
+   ]
+  },
+  {
+   "id": "C9",
+   "at": "56:end+0.4",
+   "loc": "stadium",
+   "card": {
+    "num": "CHAPTER 9",
+    "title": "THE DISCUS"
+   }
+  },
+  {
+   "id": "57a",
+   "at": "57:Finally",
+   "loc": "map",
+   "actors": [],
+   "props": [
+    {
+     "pose": "perseus_flybag_icon",
+     "k": 14,
+     "path": [
+      [
+       "57:Finally",
+       1420,
+       700
+      ],
+      [
+       "57:grandpa",
+       660,
+       450
+      ]
+     ]
+    }
+   ],
+   "cam": {
+    "from": 100,
+    "to": 112,
+    "center": [
+     900,
+     560
+    ]
+   },
+   "sfx": [
+    [
+     "wind",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "57b",
+   "at": "57:He",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_bye",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "\"HI, GRANDPA!\"",
+     "at": "57:hi"
+    }
+   ]
+  },
+  {
+   "id": "58a",
+   "at": "58:But",
+   "loc": "palace",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_listen",
+       "start"
+      ],
+      [
+       "acrisius_shock",
+       "58:remembered"
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "gasp",
+     "58:remembered"
+    ]
+   ]
+  },
+  {
+   "id": "58b",
+   "at": "58:ran",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 700,
+     "poses": [
+      [
+       "acrisius_run",
+       "start"
+      ]
+     ],
+     "move": [
+      [
+       "start",
+       "end",
+       2500
+      ]
+     ],
+     "walk_moves": false
+    }
+   ],
+   "sfx": [
+    [
+     "whoosh_big",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "59a",
+   "at": "59:Far",
+   "loc": "shore",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_relax",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "SAFE.",
+     "at": "59:Safe",
+     "until": "59:Probably"
+    },
+    {
+     "text": "PROBABLY.",
+     "at": "59:Probably"
+    }
+   ],
+   "sfx": [
+    [
+     "waves_soft",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "60a",
+   "at": "60:Years",
+   "loc": "stadium",
+   "actors": [],
+   "titles": [
+    {
+     "text": "THE GAMES",
+     "at": "60:games"
+    }
+   ],
+   "sfx": [
+    [
+     "crowd_stadium",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "60b",
+   "at": "60:Perseus",
+   "loc": "stadium",
+   "actors": [
+    {
+     "x": 600,
+     "poses": [
+      [
+       "perseus_flex",
+       "start"
+      ]
+     ]
+    },
+    {
+     "x": 1660,
+     "poses": [
+      [
+       "acrisius_cheer",
+       "60:Acrisius"
+      ]
+     ],
+     "y": 790,
+     "k": 52
+    }
+   ],
+   "sfx": [
+    [
+     "crowd_stadium",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "61a",
+   "at": "61:Perseus",
+   "loc": "stadium",
+   "actors": [
+    {
+     "x": 620,
+     "poses": [
+      [
+       "perseus_front",
+       "start"
+      ],
+      [
+       "perseus_discus",
+       "61:threw"
+      ]
+     ]
+    }
+   ],
+   "props": [
+    {
+     "pose": "discus",
+     "k": 18,
+     "at": "61:discus",
+     "until": "end",
+     "spin": 900,
+     "linear": true,
+     "path": [
+      [
+       "61:discus",
+       800,
+       560
+      ],
+      [
+       "61:wind",
+       1250,
+       300
+      ],
+      [
+       "61:caught$",
+       1550,
+       380
+      ],
+      [
+       "end",
+       2150,
+       260
+      ]
+     ]
+    }
+   ],
+   "sfx": [
+    [
+     "whoosh",
+     "61:discus"
+    ],
+    [
+     "wind",
+     "61:wind"
+    ],
+    [
+     "crowd_stadium",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "61b",
+   "at": "61:and",
+   "loc": "stadium",
+   "actors": [
+    {
+     "x": 1660,
+     "poses": [
+      [
+       "acrisius_cheer",
+       "start"
+      ],
+      [
+       "acrisius_ko",
+       "61:crowd$"
+      ]
+     ],
+     "y": 790,
+     "k": 52
+    }
+   ],
+   "props": [
+    {
+     "pose": "discus",
+     "k": 18,
+     "at": "start",
+     "until": "61:crowd$",
+     "spin": 900,
+     "linear": true,
+     "path": [
+      [
+       "start",
+       -200,
+       300
+      ],
+      [
+       "61:crowd$",
+       1650,
+       520
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "GRANDPA.",
+     "at": "61:Grandpa"
+    }
+   ],
+   "cam": {
+    "from": 100,
+    "to": 104,
+    "center": [
+     1300,
+     600
+    ],
+    "shake": [
+     [
+      "61:crowd$",
+      0.4
+     ]
+    ]
+   },
+   "sfx": [
+    [
+     "bonk",
+     "61:crowd$"
+    ],
+    [
+     "dizzy",
+     "61:crowd$+0.3"
+    ],
+    [
+     "gasp",
+     "61:crowd$+0.2"
+    ]
+   ]
+  },
+  {
+   "id": "62a",
+   "at": "62:The",
+   "loc": "temple",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "oracle_point",
+       "start"
+      ]
+     ],
+     "y": 1060,
+     "k": 105
+    }
+   ],
+   "closeup": true,
+   "sfx": [
+    [
+     "magic",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "62b",
+   "at": "62:You",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_shrug",
+       "start"
+      ]
+     ],
+     "k": 74
+    }
+   ]
+  },
+  {
+   "id": "62c",
+   "at": "62:Fate#2",
+   "loc": "stadium",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "acrisius_ko",
+       "start"
+      ]
+     ],
+     "y": 860,
+     "k": 110
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "FATE HAS VERY GOOD AIM.",
+     "at": "62:Fate#2",
+     "size": 84
+    }
+   ],
+   "sfx": [
+    [
+     "dizzy",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "63a",
+   "at": "63:Perseus",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_oops",
+       "start"
+      ]
+     ],
+     "k": 74
+    }
+   ]
+  },
+  {
+   "id": "63b",
+   "at": "63:He#2",
+   "loc": "mycenae",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_front",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "MYCENAE",
+     "at": "63:Mycenae"
+    }
+   ],
+   "sfx": [
+    [
+     "fanfare_bell",
+     "63:Mycenae"
+    ]
+   ]
+  },
+  {
+   "id": "64a",
+   "at": "64:And",
+   "loc": "night",
+   "actors": [
+    {
+     "x": 300,
+     "poses": [
+      [
+       "perseus_win",
+       "64:Perseus"
+      ]
+     ],
+     "y": 640,
+     "k": 48,
+     "tint": [
+      140,
+      185,
+      255
+     ],
+     "shadow": false,
+     "breathe": false
+    },
+    {
+     "x": 700,
+     "poses": [
+      [
+       "andromeda_idle",
+       "64:Andromeda"
+      ]
+     ],
+     "y": 520,
+     "k": 48,
+     "tint": [
+      140,
+      185,
+      255
+     ],
+     "shadow": false,
+     "breathe": false
+    },
+    {
+     "x": 1080,
+     "poses": [
+      [
+       "cassiopeia_idle",
+       "64:Cassiopeia"
+      ]
+     ],
+     "y": 640,
+     "k": 48,
+     "tint": [
+      140,
+      185,
+      255
+     ],
+     "shadow": false,
+     "breathe": false
+    },
+    {
+     "x": 1420,
+     "poses": [
+      [
+       "cepheus_idle",
+       "64:king"
+      ]
+     ],
+     "y": 500,
+     "k": 48,
+     "tint": [
+      140,
+      185,
+      255
+     ],
+     "shadow": false,
+     "breathe": false
+    },
+    {
+     "x": 1700,
+     "poses": [
+      [
+       "monster_star",
+       "64:monster"
+      ]
+     ],
+     "y": 560,
+     "k": 34,
+     "tint": [
+      140,
+      185,
+      255
+     ],
+     "shadow": false,
+     "breathe": false
+    }
+   ],
+   "sfx": [
+    [
+     "bells_magic",
+     "64:Perseus"
+    ],
+    [
+     "pop",
+     "64:Andromeda"
+    ],
+    [
+     "pop",
+     "64:Cassiopeia"
+    ],
+    [
+     "pop",
+     "64:king"
+    ],
+    [
+     "pop",
+     "64:monster"
+    ]
+   ]
+  },
+  {
+   "id": "64b",
+   "at": "64:Participation",
+   "loc": "night",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "monster_star",
+       "start"
+      ]
+     ],
+     "y": 540,
+     "k": 60,
+     "tint": [
+      140,
+      185,
+      255
+     ],
+     "shadow": false,
+     "breathe": false
+    }
+   ],
+   "titles": [
+    {
+     "text": "PARTICIPATION AWARD.",
+     "at": "64:Participation"
+    }
+   ],
+   "sfx": [
+    [
+     "fanfare_bell",
+     "64:Participation"
+    ]
+   ]
+  },
+  {
+   "id": "65a",
+   "at": "65:Cassiopeia",
+   "loc": "night",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "cassiopeia_brag",
+       "start"
+      ]
+     ],
+     "y": 700,
+     "k": 60,
+     "rot": [
+      [
+       "65:upside",
+       0
+      ],
+      [
+       "65:upside+0.6",
+       180
+      ]
+     ],
+     "tint": [
+      140,
+      185,
+      255
+     ],
+     "shadow": false,
+     "breathe": false
+    }
+   ],
+   "titles": [
+    {
+     "text": "FOR THE BRAGGING.",
+     "at": "65:For"
+    }
+   ],
+   "sfx": [
+    [
+     "swoosh",
+     "65:upside"
+    ]
+   ]
+  },
+  {
+   "id": "66a",
+   "at": "66:So",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 960,
+     "poses": [
+      [
+       "perseus_front",
+       "start"
+      ]
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "A MIRROR.",
+     "at": "66:mirror",
+     "x": 520,
+     "y": 320
+    },
+    {
+     "text": "A BAG.",
+     "at": "66:bag",
+     "x": 520,
+     "y": 440
+    },
+    {
+     "text": "A LOT OF LUCK.",
+     "at": "66:luck",
+     "x": 520,
+     "y": 560
+    }
+   ],
+   "sfx": [
+    [
+     "pop",
+     "66:mirror"
+    ],
+    [
+     "pop",
+     "66:bag"
+    ],
+    [
+     "pop",
+     "66:luck"
+    ]
+   ]
+  },
+  {
+   "id": "67a",
+   "at": "67:Subscribe",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 760,
+     "poses": [
+      [
+       "barnaby_technically",
+       "start"
+      ],
+      [
+       "barnaby_shrug",
+       "67:Or"
+      ]
+     ],
+     "k": 76,
+     "pop_first": true,
+     "tint": [
+      240,
+      236,
+      248
+     ]
+    }
+   ],
+   "titles": [
+    {
+     "text": "SUBSCRIBE",
+     "at": "67:Subscribe",
+     "until": "67:Just"
+    }
+   ],
+   "sfx": [
+    [
+     "fanfare_bell",
+     "67:Subscribe"
+    ]
+   ]
+  },
+  {
+   "id": "67b",
+   "at": "67:Just",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 820,
+     "poses": [
+      [
+       "perseus_hold",
+       "start"
+      ]
+     ],
+     "k": 74,
+     "pop_first": true
+    }
+   ],
+   "titles": [
+    {
+     "text": "DON'T LOOK.",
+     "at": "67:don't#2"
+    }
+   ],
+   "flash": [
+    "67:look$+0.3"
+   ],
+   "cam": {
+    "from": 104,
+    "to": 110
+   }
+  },
+  {
+   "id": "END",
+   "at": "67:end+1.2",
+   "loc": "hills",
+   "actors": [
+    {
+     "x": 430,
+     "poses": [
+      [
+       "barnaby_sing",
+       "start"
+      ]
+     ],
+     "y": 1040,
+     "k": 88,
+     "pop_first": true,
+     "tint": [
+      240,
+      236,
+      248
+     ]
+    }
+   ],
+   "closeup": true,
+   "titles": [
+    {
+     "text": "PRETTY MUCH HISTORY",
+     "at": "start+0.3",
+     "x": 520,
+     "y": 190,
+     "size": 88,
+     "sfx": false
+    },
+    {
+     "text": "THANKS FOR WATCHING!",
+     "at": "start+0.8",
+     "x": 520,
+     "y": 300,
+     "size": 52,
+     "sfx": false
+    }
+   ]
+  }
+ ]
+}

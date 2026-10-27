@@ -1,0 +1,65 @@
+# Звуки и музыка серии
+
+Собирает `sfx.py` из библиотеки канала (`channel/local/sfx/`, только локально) и `mix.py`.
+Все звуки выровнены по громкости (максимум моментальной −16 LUFS), пропорции — категории в `mix.py`.
+
+| Звук | Источник | Лицензия |
+|---|---|---|
+| `baby` | Wikimedia Commons: Baby_5_months_old_gabbling_laughing_practising_voice.ogg (111.5+2.5 с) | Public domain |
+| `bells_magic` | Sonniss GDC 2026: 344 Audio - Christmas Vol. 1 / MAGMisc_Magic Christmas Bells 2_344 Audio_Christmas.wav (11.7+2.5 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `boing` | Sonniss GDC 2026: Cinematic Sound Design - UI Interaction Elements / Accept Boing Crunch.wav (0.0+1.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `bonk` | Sonniss GDC 2026: Epic Stock Media - Anime Game / FGHTImpt_Combat Punch Impact Light Hit Delay Crunchy Vintage Quick Smack 05_ESM_AG.wav (0.0+0.6 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `braam` | Sonniss GDC 2026: Jake Fielding - Cinematic Horn Braams / DSGNBram____Cinematic Horn Braam, Epic, Cinematic, Dark, Instrument, Huge-32.wav (0.0+3.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `bubbles` | Sonniss GDC 2026: Cinematic Sound Design - Cartoon & Animation Vol 2 / Cartoon Bubbles Short.wav (0.0+1.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `church_bells` | Sonniss GDC 2026: Ivo Vicic - Church Bells / 04 Church Bells, Near Distance, In Church Tower-3 Different Bell 02.wav (1.0+5.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `clock` | Sonniss GDC 2026: 344 Audio - Antique Clocks / CLOCKTick_Crooked Antique Clock_344 Audio_Antique Clocks.wav (4.0+3.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `cloth` | Sonniss GDC 2026: Epic Stock Media - Fantasy Game 2 - Sound Kit for Enchanted Realms / CLOTHFlp_Action Inventory Open Flip Cloth Canvas Bag Slide Light 02_ESM_FG2.wav (0.0+0.8 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `creepy` | Sonniss GDC 2026: Cinematic Sound Design - Ultra Transitions & Impacts / Transition Braam Slow Dark Creepy.wav (0.0+3.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `crickets` | Sonniss GDC 2026: 344 Audio - East Coast America Vol. 1 / AMBSubn_Ambience, Forest Crickets, Birds, Connecticut 02_344 Audio_East Coast America.wav (26.1+6.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `crowd_cheer` | Sonniss GDC 2026: Sonik Sound Library - Spanish Crowds / CRWDCheer_Small Club, 50 People, Crowd, Spanish, Cheering and Applause-Surround_KSL_KS015.wav (0.2+4.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `crowd_stadium` | Sonniss GDC 2026: Sonic Bat - Volleyball Match Ambience / SBvma_Masculine Regional Match 005.wav (5.0+10.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `cry` | Sonniss GDC 2026: SoundBits - Vox Hominis - Human Effort Voices / VOXCry_Crying Female 04 05_SNDBTS_VH.wav (1.3+2.5 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `dizzy` | Sonniss GDC 2026: Cinematic Sound Design - Cartoon Bloopers / Cartoon Confused Dizzy.wav (0.0+2.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `drop` | Sonniss GDC 2026: 344 Audio - Bass Drops & Downers Vol. 1 / DSGNBass_Bass Drop & Downer Medium 04_344 Audio_Bass Drops & Downers.wav (0.0+2.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `evil_laugh` | Sonniss GDC 2026: Epic Stock Media - Shooter Game Announcer Voice / VOXFutz_Announcer Vocal Male Wet Special Kill Laugh Monster Kill Hahaha 02_ESM_SGAV.wav (0.0+2.5 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `fanfare_bell` | Sonniss GDC 2026: Cinematic Sound Design - Ultra Transitions & Impacts / Impact Hit Rapid Chord Reverb.wav (0.0+2.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `fire` | Sonniss GDC 2026: Ivo Vicic - Campfire - Bonfire FX / 24 Campfire, Dropping Fresh Pine Branches in Fire, Crackling, Sizzling Strong, Close 02.wav (3.0+10.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `fireworks` | Sonniss GDC 2026: Ivo Vicic - Fireworks FX / 13 Fireworks_powerful explosions_multiples in a row_near.wav (16.0+3.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `gasp` | Sonniss GDC 2026: Epic Stock Media - AAA Game Character Police Officer / HMNBrth_Police Officer Gasp Vocal Male Shocked Alert 1.wav (0.0+1.2 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `growl` | Sonniss GDC 2026: Epic Stock Media - Halloween Game - Haunted House and Horror Audio Scare Kit / CREABeast_Creature Werewolf Growl Menacing Monstrous 06_ESM_HALG.wav (0.2+2.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `gurgle` | Sonniss GDC 2026: SoundBits - Vox Bestiae - Source Elements / CREAAqua_Aquatic Creature Gurgling 2_SNDBTS_VB-SE.wav (0.8+2.5 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `hiss` | синтез ffmpeg (отфильтрованный шум) | прав третьих лиц нет |
+| `horse` | Wikimedia Commons: LL-Q1860__eng_-Jjamesryan-neigh.wav (0.0+2.5 с) | CC0 |
+| `ice_crack` | Sonniss GDC 2026: Alexander Kopeikin - 100 kHz Designed Ice / ice, surface cracking, fissure, fast, hard-003.wav (0.2+1.4 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `impact` | Sonniss GDC 2026: Cinematic Sound Design - Cartoon Impacts / Cartoon Airy Impact Creaks.wav (0.5+1.2 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `laugh` | Sonniss GDC 2026: Epic Stock Media - AAA Game Character Police Officer / VOXLaff_Police Officer Laugh Vocal Male 1.wav (0.0+2.5 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `laugh_f` | Sonniss GDC 2026: SoundBits - Vox Hominis - Human Effort Voices / VOXLaff_Laughing Female 02 06_SNDBTS_VH.wav (0.0+2.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `lock` | Sonniss GDC 2026: 344 Audio - Antique Luggage / OBJLug_Suitcase Being Locked, Antique Suitcase 1_344 Audio_Antiques - Luggage.wav (1.1+1.2 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `magic` | Sonniss GDC 2026: Epic Stock Media - Fantasy Game 2 - Sound Kit for Enchanted Realms / MAGAngl_Magic Light Spell Enchantment Potion Effect Tonal Bright 03_ESM_FG2.wav (0.0+2.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `magic_big` | Sonniss GDC 2026: Alexander Kopeikin - Emotion and Magic / magic, energy flow, astonishment-001.wav (0.0+3.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `music_box` | Sonniss GDC 2026: Sonic Bat - Music Boxes / SBmb_Music Box A 013.wav (0.0+4.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `paper` | Sonniss GDC 2026: Cinematic Sound Design - Ultra Transitions & Impacts / Woosh Sweep Slide Infographics Basic.wav (0.0+0.6 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `party` | Sonniss GDC 2026: Sonik Sound Library - Spanish Wallas / CRWDWalla_Dinner Party Crowd in Terrace, Walla, Toast with Pomada, Mixed Group of Adults, Men and Women, Spanish, Catalan Language, Menorcan Language-Atmos_KSL_KS014.wav (5.0+10.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `pop` | Sonniss GDC 2026: Cinematic Sound Design - Interface & Infographics / Interface Pop High Short.wav (0.0+0.4 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `pops` | Sonniss GDC 2026: Cinematic Sound Design - Cartoon Impacts / Cartoon Pops Random Sequence Reverb.wav (0.0+1.2 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `roar` | Sonniss GDC 2026: 344 Audio - Dinosaurs Vol. 2 / ANMLRept_Large Herbivore Roar 01_344 Audio_Dinosaurs Vol 2.wav (7.5+3.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `scream` | Sonniss GDC 2026: Epic Stock Media - Humanoid Creatures Vol 4 - Monstrous and Undead Creature Vocalization Sound Sets / HMNBrth_Construction Kit Male Screeching Breath Inhale Weak Squeal 05_ESM_HC4.wav (0.0+1.5 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `shimmer` | Sonniss GDC 2026: Epic Stock Media - Anime Game / DSGNStngr_Power Up Bright Positive Successful Light Saturation Crash Shimmer 05_ESM_AG.wav (0.0+2.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `slash` | Sonniss GDC 2026: Epic Stock Media - Tower Defense Game / DSGNStngr_Action Deploy Units Sword Slice Special Move Layered Swish 04_ESM_TDG.wav (0.0+1.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `snore` | Wikimedia Commons: Snoring_of_old_man.ogg (56.1+3.0 с) | CC0 |
+| `splash` | Sonniss GDC 2026: Epic Stock Media - Elemental Mutation Whooshes and Impacts / WATRImpt_Impact Water Deep Submerge Bubble Drown Ship Hit 05_ESM_EMWI.wav (0.0+2.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `stamp` | Sonniss GDC 2026: Epic Stock Media - Tower Defense Game / WOODImpt_Hit Blood Spill Splat Wood Impact Light Hit Squelch Small Thump 03_ESM_TDG.wav (0.0+0.35 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `stone_hit` | Sonniss GDC 2026: 344 Audio - Haunting Ambiences Vol. 3 / WOODImpt_Wooden Hit, Dark, Heavy Hit, Vampire's Prison_344 Audio_Haunting Ambiences Vol 3.wav (78.7+1.5 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `storm` | Sonniss GDC 2026: Epic Stock Media - Public Spaces - Storms Lakes Parks and Rural Nature Exteriors / STORM_Texas Rain Thunder Initial Crash Boom Storm 01 Clap Lightning_ESM_CPS.wav (0.0+6.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `swoosh` | Sonniss GDC 2026: Cinematic Sound Design - Cartoon & Animation Vol 2 / Cartoon Pull Swoosh Readout.wav (0.6+0.9 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `sword` | Sonniss GDC 2026: 344 Audio - Historical Weapons Vol. 2 / WEAPSwrd_Sword Slide Cuts, Metallic, Impact CM4 2_344 Audio_Medieval Weapons Vol 2.wav (10.7+1.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `thunder` | Sonniss GDC 2026: Jake Fielding - Interior Wind Rain and Storms / THUN_Interior Thunder Rumble_JF_INT Storm_01.wav (4.2+4.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `transition` | Sonniss GDC 2026: Cinematic Sound Design - Cartoon & Animation Vol 2 / Cartoon Transition Bass Down.wav (0.0+1.5 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `trex` | Sonniss GDC 2026: 344 Audio - Dinosaurs Vol. 1 / ANMLRept_T Rex_344 Audio_Dinosaurs.wav (2.2+3.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `waves` | Sonniss GDC 2026: Just Sound Effects - Rocky Coast of Norway / WATRWave_Medium Waves at Pebble Beach_JSE_RCoN_Stereo.wav (2.0+10.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `waves_soft` | Sonniss GDC 2026: Just Sound Effects - Rocky Coast of Norway / WATRWave_Soft Waves Cliffs_JSE_RCoN_Stereo.wav (2.0+10.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `whistle` | Sonniss GDC 2026: SoundBits - Vox Hominis - Human Effort Voices / WHSTHmn_Whistle Male 06 09_SNDBTS_VH.wav (0.0+2.5 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `whoosh` | Sonniss GDC 2026: Cinematic Sound Design - Ultra Transitions & Impacts / Woosh Sweep Slide Infographics Basic.wav (0.0+0.8 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `whoosh_big` | Sonniss GDC 2026: Cinematic Sound Design - Colossal Impacts / Woosh Debris.wav (0.1+1.2 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `wind` | Sonniss GDC 2026: 344 Audio - Elemental Palette Designed Vol. 1 / WINDDsgn_Wind, Rush, Whoosh, Long x5 01_344 Audio_Elemental Palette Designed Vol 1.wav (0.0+3.0 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
+| `yell` | Sonniss GDC 2026: 344 Audio - Anime Fight Voices Vol. 1 / VOXMale_Male Adventurer, Active Yell 19_344 Audio_Anime Fight Voices.wav (0.0+1.5 с) | Sonniss GDC bundle license: коммерческое использование, без атрибуции |
