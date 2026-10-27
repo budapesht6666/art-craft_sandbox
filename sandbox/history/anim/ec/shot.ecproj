@@ -1,8 +1,8 @@
 {
   "savedBy": "0.17.0",
-  "activeComp": 250,
+  "activeComp": 498,
   "openComps": [
-    250
+    498
   ],
   "schema": 2,
   "settings": {
@@ -272,8 +272,250 @@
         "pixel_aspect": 1.0
       }
     },
-    "250": {
-      "id": 250,
+    "263": {
+      "id": 263,
+      "name": "01_bg_lair.png",
+      "label": "Lavender",
+      "comment": "",
+      "parent": null,
+      "kind": {
+        "type": "Footage",
+        "path": "C:/projects/claude/ArtCraft/sandbox/history/gemini/sheets/01_bg_lair.png",
+        "kind": "Still",
+        "width": 2752,
+        "height": 1536,
+        "pixel_aspect": 1.0,
+        "frame_rate": {
+          "num": 30,
+          "den": 1
+        },
+        "native_rate": null,
+        "duration": 0,
+        "has_video": true,
+        "has_audio": false,
+        "alpha": "Ignore",
+        "premul_color": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "loop_count": 1,
+        "codec": "PNG",
+        "missing": false
+      }
+    },
+    "287": {
+      "id": 287,
+      "name": "perseus_sneak.png",
+      "label": "Lavender",
+      "comment": "",
+      "parent": null,
+      "kind": {
+        "type": "Footage",
+        "path": "C:/projects/claude/ArtCraft/sandbox/history/anim/ec/assets/perseus_sneak.png",
+        "kind": "Still",
+        "width": 708,
+        "height": 822,
+        "pixel_aspect": 1.0,
+        "frame_rate": {
+          "num": 30,
+          "den": 1
+        },
+        "native_rate": null,
+        "duration": 0,
+        "has_video": true,
+        "has_audio": false,
+        "alpha": "Straight",
+        "premul_color": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "loop_count": 1,
+        "codec": "PNG",
+        "missing": false
+      }
+    },
+    "311": {
+      "id": 311,
+      "name": "perseus_hold.png",
+      "label": "Lavender",
+      "comment": "",
+      "parent": null,
+      "kind": {
+        "type": "Footage",
+        "path": "C:/projects/claude/ArtCraft/sandbox/history/anim/ec/assets/perseus_hold.png",
+        "kind": "Still",
+        "width": 1026,
+        "height": 823,
+        "pixel_aspect": 1.0,
+        "frame_rate": {
+          "num": 30,
+          "den": 1
+        },
+        "native_rate": null,
+        "duration": 0,
+        "has_video": true,
+        "has_audio": false,
+        "alpha": "Straight",
+        "premul_color": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "loop_count": 1,
+        "codec": "PNG",
+        "missing": false
+      }
+    },
+    "335": {
+      "id": 335,
+      "name": "perseus_win.png",
+      "label": "Lavender",
+      "comment": "",
+      "parent": null,
+      "kind": {
+        "type": "Footage",
+        "path": "C:/projects/claude/ArtCraft/sandbox/history/anim/ec/assets/perseus_win.png",
+        "kind": "Still",
+        "width": 798,
+        "height": 831,
+        "pixel_aspect": 1.0,
+        "frame_rate": {
+          "num": 30,
+          "den": 1
+        },
+        "native_rate": null,
+        "duration": 0,
+        "has_video": true,
+        "has_audio": false,
+        "alpha": "Straight",
+        "premul_color": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "loop_count": 1,
+        "codec": "PNG",
+        "missing": false
+      }
+    },
+    "359": {
+      "id": 359,
+      "name": "soldier_idle.png",
+      "label": "Lavender",
+      "comment": "",
+      "parent": null,
+      "kind": {
+        "type": "Footage",
+        "path": "C:/projects/claude/ArtCraft/sandbox/history/anim/ec/assets/soldier_idle.png",
+        "kind": "Still",
+        "width": 658,
+        "height": 1192,
+        "pixel_aspect": 1.0,
+        "frame_rate": {
+          "num": 30,
+          "den": 1
+        },
+        "native_rate": null,
+        "duration": 0,
+        "has_video": true,
+        "has_audio": false,
+        "alpha": "Straight",
+        "premul_color": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "loop_count": 1,
+        "codec": "PNG",
+        "missing": false
+      }
+    },
+    "383": {
+      "id": 383,
+      "name": "soldier_scream.png",
+      "label": "Lavender",
+      "comment": "",
+      "parent": null,
+      "kind": {
+        "type": "Footage",
+        "path": "C:/projects/claude/ArtCraft/sandbox/history/anim/ec/assets/soldier_scream.png",
+        "kind": "Still",
+        "width": 636,
+        "height": 737,
+        "pixel_aspect": 1.0,
+        "frame_rate": {
+          "num": 30,
+          "den": 1
+        },
+        "native_rate": null,
+        "duration": 0,
+        "has_video": true,
+        "has_audio": false,
+        "alpha": "Straight",
+        "premul_color": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "loop_count": 1,
+        "codec": "PNG",
+        "missing": false
+      }
+    },
+    "407": {
+      "id": 407,
+      "name": "soldier_stone.png",
+      "label": "Lavender",
+      "comment": "",
+      "parent": null,
+      "kind": {
+        "type": "Footage",
+        "path": "C:/projects/claude/ArtCraft/sandbox/history/anim/ec/assets/soldier_stone.png",
+        "kind": "Still",
+        "width": 636,
+        "height": 737,
+        "pixel_aspect": 1.0,
+        "frame_rate": {
+          "num": 30,
+          "den": 1
+        },
+        "native_rate": null,
+        "duration": 0,
+        "has_video": true,
+        "has_audio": false,
+        "alpha": "Straight",
+        "premul_color": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "loop_count": 1,
+        "codec": "PNG",
+        "missing": false
+      }
+    },
+    "435": {
+      "id": 435,
+      "name": "flash",
+      "label": "Red",
+      "comment": "",
+      "parent": 186,
+      "kind": {
+        "type": "Solid",
+        "color": [
+          1.0,
+          0.92,
+          0.55
+        ],
+        "width": 1920,
+        "height": 1080,
+        "pixel_aspect": 1.0
+      }
+    },
+    "498": {
+      "id": 498,
       "name": "DONT_LOOK",
       "label": "Sandstone",
       "comment": "",
@@ -300,7 +542,7 @@
         ],
         "layers": [
           {
-            "id": 459,
+            "id": 707,
             "name": "title_0",
             "source": {
               "type": "Text"
@@ -334,7 +576,7 @@
             "markers": [],
             "auto_orient": "Off",
             "props": {
-              "uid": 460,
+              "uid": 708,
               "match": "layer",
               "name": "DON'T LOOK.",
               "kind": {
@@ -344,7 +586,7 @@
               "children": [
                 {
                   "node": "Group",
-                  "uid": 475,
+                  "uid": 723,
                   "match": "text",
                   "name": "Text",
                   "kind": {
@@ -354,7 +596,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 461,
+                      "uid": 709,
                       "match": "sourceText",
                       "name": "Source Text",
                       "value": {
@@ -424,7 +666,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 462,
+                      "uid": 710,
                       "match": "perChar3d",
                       "name": "Per-character 3D",
                       "value": {
@@ -443,7 +685,7 @@
                     },
                     {
                       "node": "Group",
-                      "uid": 464,
+                      "uid": 712,
                       "match": "pathOptions",
                       "name": "Path Options",
                       "kind": {
@@ -453,7 +695,7 @@
                       "children": [
                         {
                           "node": "Prop",
-                          "uid": 463,
+                          "uid": 711,
                           "match": "path",
                           "name": "Path",
                           "value": {
@@ -475,7 +717,7 @@
                         },
                         {
                           "node": "Prop",
-                          "uid": 465,
+                          "uid": 713,
                           "match": "reversePath",
                           "name": "Reverse Path",
                           "value": {
@@ -494,7 +736,7 @@
                         },
                         {
                           "node": "Prop",
-                          "uid": 466,
+                          "uid": 714,
                           "match": "perpendicular",
                           "name": "Perpendicular To Path",
                           "value": {
@@ -513,7 +755,7 @@
                         },
                         {
                           "node": "Prop",
-                          "uid": 467,
+                          "uid": 715,
                           "match": "forceAlignment",
                           "name": "Force Alignment",
                           "value": {
@@ -532,7 +774,7 @@
                         },
                         {
                           "node": "Prop",
-                          "uid": 468,
+                          "uid": 716,
                           "match": "firstMargin",
                           "name": "First Margin",
                           "value": {
@@ -551,7 +793,7 @@
                         },
                         {
                           "node": "Prop",
-                          "uid": 469,
+                          "uid": 717,
                           "match": "lastMargin",
                           "name": "Last Margin",
                           "value": {
@@ -572,7 +814,7 @@
                     },
                     {
                       "node": "Group",
-                      "uid": 470,
+                      "uid": 718,
                       "match": "moreOptions",
                       "name": "More Options",
                       "kind": {
@@ -582,7 +824,7 @@
                       "children": [
                         {
                           "node": "Prop",
-                          "uid": 471,
+                          "uid": 719,
                           "match": "anchorGrouping",
                           "name": "Anchor Point Grouping",
                           "value": {
@@ -607,7 +849,7 @@
                         },
                         {
                           "node": "Prop",
-                          "uid": 472,
+                          "uid": 720,
                           "match": "groupingAlignment",
                           "name": "Grouping Alignment",
                           "value": {
@@ -629,7 +871,7 @@
                         },
                         {
                           "node": "Prop",
-                          "uid": 473,
+                          "uid": 721,
                           "match": "fillStroke",
                           "name": "Fill & Stroke",
                           "value": {
@@ -653,7 +895,7 @@
                         },
                         {
                           "node": "Prop",
-                          "uid": 474,
+                          "uid": 722,
                           "match": "interCharBlend",
                           "name": "Inter-Character Blending",
                           "value": {
@@ -702,7 +944,7 @@
                     },
                     {
                       "node": "Group",
-                      "uid": 476,
+                      "uid": 724,
                       "match": "animators",
                       "name": "Animators",
                       "kind": {
@@ -715,7 +957,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 477,
+                  "uid": 725,
                   "match": "masks",
                   "name": "Masks",
                   "kind": {
@@ -726,7 +968,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 478,
+                  "uid": 726,
                   "match": "effects",
                   "name": "Effects",
                   "kind": {
@@ -737,7 +979,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 487,
+                  "uid": 735,
                   "match": "transform",
                   "name": "Transform",
                   "kind": {
@@ -747,7 +989,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 479,
+                      "uid": 727,
                       "match": "anchor",
                       "name": "Anchor Point",
                       "value": {
@@ -770,7 +1012,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 480,
+                      "uid": 728,
                       "match": "position",
                       "name": "Position",
                       "value": {
@@ -793,7 +1035,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 481,
+                      "uid": 729,
                       "match": "scale",
                       "name": "Scale",
                       "value": {
@@ -908,7 +1150,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 482,
+                      "uid": 730,
                       "match": "orientation",
                       "name": "Orientation",
                       "value": {
@@ -931,7 +1173,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 483,
+                      "uid": 731,
                       "match": "rotationX",
                       "name": "X Rotation",
                       "value": {
@@ -950,7 +1192,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 484,
+                      "uid": 732,
                       "match": "rotationY",
                       "name": "Y Rotation",
                       "value": {
@@ -969,7 +1211,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 485,
+                      "uid": 733,
                       "match": "rotation",
                       "name": "Rotation",
                       "value": {
@@ -988,7 +1230,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 486,
+                      "uid": 734,
                       "match": "opacity",
                       "name": "Opacity",
                       "value": {
@@ -1014,7 +1256,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 488,
+                  "uid": 736,
                   "match": "materialOptions",
                   "name": "Material Options",
                   "kind": {
@@ -1024,7 +1266,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 489,
+                      "uid": 737,
                       "match": "castsShadows",
                       "name": "Casts Shadows",
                       "value": {
@@ -1048,7 +1290,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 490,
+                      "uid": 738,
                       "match": "lightTransmission",
                       "name": "Light Transmission",
                       "value": {
@@ -1067,7 +1309,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 491,
+                      "uid": 739,
                       "match": "acceptsShadows",
                       "name": "Accepts Shadows",
                       "value": {
@@ -1091,7 +1333,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 492,
+                      "uid": 740,
                       "match": "acceptsLights",
                       "name": "Accepts Lights",
                       "value": {
@@ -1110,7 +1352,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 493,
+                      "uid": 741,
                       "match": "ambient",
                       "name": "Ambient",
                       "value": {
@@ -1129,7 +1371,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 494,
+                      "uid": 742,
                       "match": "diffuse",
                       "name": "Diffuse",
                       "value": {
@@ -1148,7 +1390,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 495,
+                      "uid": 743,
                       "match": "specularIntensity",
                       "name": "Specular Intensity",
                       "value": {
@@ -1167,7 +1409,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 496,
+                      "uid": 744,
                       "match": "specularShininess",
                       "name": "Specular Shininess",
                       "value": {
@@ -1186,7 +1428,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 497,
+                      "uid": 745,
                       "match": "metal",
                       "name": "Metal",
                       "value": {
@@ -1209,11 +1451,11 @@
             }
           },
           {
-            "id": 436,
+            "id": 684,
             "name": "flash",
             "source": {
               "type": "Solid",
-              "item": 435
+              "item": 683
             },
             "label": "Red",
             "comment": "",
@@ -1244,7 +1486,7 @@
             "markers": [],
             "auto_orient": "Off",
             "props": {
-              "uid": 437,
+              "uid": 685,
               "match": "layer",
               "name": "flash",
               "kind": {
@@ -1254,7 +1496,7 @@
               "children": [
                 {
                   "node": "Group",
-                  "uid": 438,
+                  "uid": 686,
                   "match": "masks",
                   "name": "Masks",
                   "kind": {
@@ -1265,7 +1507,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 439,
+                  "uid": 687,
                   "match": "effects",
                   "name": "Effects",
                   "kind": {
@@ -1276,7 +1518,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 448,
+                  "uid": 696,
                   "match": "transform",
                   "name": "Transform",
                   "kind": {
@@ -1286,7 +1528,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 440,
+                      "uid": 688,
                       "match": "anchor",
                       "name": "Anchor Point",
                       "value": {
@@ -1309,7 +1551,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 441,
+                      "uid": 689,
                       "match": "position",
                       "name": "Position",
                       "value": {
@@ -1332,7 +1574,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 442,
+                      "uid": 690,
                       "match": "scale",
                       "name": "Scale",
                       "value": {
@@ -1355,7 +1597,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 443,
+                      "uid": 691,
                       "match": "orientation",
                       "name": "Orientation",
                       "value": {
@@ -1378,7 +1620,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 444,
+                      "uid": 692,
                       "match": "rotationX",
                       "name": "X Rotation",
                       "value": {
@@ -1397,7 +1639,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 445,
+                      "uid": 693,
                       "match": "rotationY",
                       "name": "Y Rotation",
                       "value": {
@@ -1416,7 +1658,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 446,
+                      "uid": 694,
                       "match": "rotation",
                       "name": "Rotation",
                       "value": {
@@ -1435,7 +1677,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 447,
+                      "uid": 695,
                       "match": "opacity",
                       "name": "Opacity",
                       "value": {
@@ -1541,7 +1783,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 449,
+                  "uid": 697,
                   "match": "materialOptions",
                   "name": "Material Options",
                   "kind": {
@@ -1551,7 +1793,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 450,
+                      "uid": 698,
                       "match": "castsShadows",
                       "name": "Casts Shadows",
                       "value": {
@@ -1575,7 +1817,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 451,
+                      "uid": 699,
                       "match": "lightTransmission",
                       "name": "Light Transmission",
                       "value": {
@@ -1594,7 +1836,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 452,
+                      "uid": 700,
                       "match": "acceptsShadows",
                       "name": "Accepts Shadows",
                       "value": {
@@ -1618,7 +1860,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 453,
+                      "uid": 701,
                       "match": "acceptsLights",
                       "name": "Accepts Lights",
                       "value": {
@@ -1637,7 +1879,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 454,
+                      "uid": 702,
                       "match": "ambient",
                       "name": "Ambient",
                       "value": {
@@ -1656,7 +1898,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 455,
+                      "uid": 703,
                       "match": "diffuse",
                       "name": "Diffuse",
                       "value": {
@@ -1675,7 +1917,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 456,
+                      "uid": 704,
                       "match": "specularIntensity",
                       "name": "Specular Intensity",
                       "value": {
@@ -1694,7 +1936,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 457,
+                      "uid": 705,
                       "match": "specularShininess",
                       "name": "Specular Shininess",
                       "value": {
@@ -1713,7 +1955,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 458,
+                      "uid": 706,
                       "match": "metal",
                       "name": "Metal",
                       "value": {
@@ -1736,11 +1978,11 @@
             }
           },
           {
-            "id": 408,
+            "id": 656,
             "name": "soldier_stone",
             "source": {
               "type": "Footage",
-              "item": 407
+              "item": 655
             },
             "label": "Lavender",
             "comment": "",
@@ -1767,11 +2009,11 @@
             "blend_mode": "Normal",
             "preserve_transparency": false,
             "track_matte": null,
-            "parent": 251,
+            "parent": 499,
             "markers": [],
             "auto_orient": "Off",
             "props": {
-              "uid": 409,
+              "uid": 657,
               "match": "layer",
               "name": "soldier_stone.png",
               "kind": {
@@ -1781,7 +2023,7 @@
               "children": [
                 {
                   "node": "Group",
-                  "uid": 410,
+                  "uid": 658,
                   "match": "masks",
                   "name": "Masks",
                   "kind": {
@@ -1792,7 +2034,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 411,
+                  "uid": 659,
                   "match": "effects",
                   "name": "Effects",
                   "kind": {
@@ -1802,7 +2044,7 @@
                   "children": [
                     {
                       "node": "Group",
-                      "uid": 431,
+                      "uid": 679,
                       "match": "ec.transition.linearwipe",
                       "name": "Linear Wipe",
                       "kind": {
@@ -1813,7 +2055,7 @@
                       "children": [
                         {
                           "node": "Prop",
-                          "uid": 432,
+                          "uid": 680,
                           "match": "completion",
                           "name": "Transition Completion",
                           "value": {
@@ -1891,7 +2133,7 @@
                         },
                         {
                           "node": "Prop",
-                          "uid": 433,
+                          "uid": 681,
                           "match": "angle",
                           "name": "Wipe Angle",
                           "value": {
@@ -1910,7 +2152,7 @@
                         },
                         {
                           "node": "Prop",
-                          "uid": 434,
+                          "uid": 682,
                           "match": "feather",
                           "name": "Feather",
                           "value": {
@@ -1938,7 +2180,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 420,
+                  "uid": 668,
                   "match": "transform",
                   "name": "Transform",
                   "kind": {
@@ -1948,7 +2190,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 412,
+                      "uid": 660,
                       "match": "anchor",
                       "name": "Anchor Point",
                       "value": {
@@ -1971,7 +2213,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 413,
+                      "uid": 661,
                       "match": "position",
                       "name": "Position",
                       "value": {
@@ -1994,7 +2236,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 414,
+                      "uid": 662,
                       "match": "scale",
                       "name": "Scale",
                       "value": {
@@ -2017,7 +2259,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 415,
+                      "uid": 663,
                       "match": "orientation",
                       "name": "Orientation",
                       "value": {
@@ -2040,7 +2282,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 416,
+                      "uid": 664,
                       "match": "rotationX",
                       "name": "X Rotation",
                       "value": {
@@ -2059,7 +2301,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 417,
+                      "uid": 665,
                       "match": "rotationY",
                       "name": "Y Rotation",
                       "value": {
@@ -2078,7 +2320,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 418,
+                      "uid": 666,
                       "match": "rotation",
                       "name": "Rotation",
                       "value": {
@@ -2097,7 +2339,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 419,
+                      "uid": 667,
                       "match": "opacity",
                       "name": "Opacity",
                       "value": {
@@ -2123,7 +2365,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 421,
+                  "uid": 669,
                   "match": "materialOptions",
                   "name": "Material Options",
                   "kind": {
@@ -2133,7 +2375,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 422,
+                      "uid": 670,
                       "match": "castsShadows",
                       "name": "Casts Shadows",
                       "value": {
@@ -2157,7 +2399,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 423,
+                      "uid": 671,
                       "match": "lightTransmission",
                       "name": "Light Transmission",
                       "value": {
@@ -2176,7 +2418,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 424,
+                      "uid": 672,
                       "match": "acceptsShadows",
                       "name": "Accepts Shadows",
                       "value": {
@@ -2200,7 +2442,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 425,
+                      "uid": 673,
                       "match": "acceptsLights",
                       "name": "Accepts Lights",
                       "value": {
@@ -2219,7 +2461,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 426,
+                      "uid": 674,
                       "match": "ambient",
                       "name": "Ambient",
                       "value": {
@@ -2238,7 +2480,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 427,
+                      "uid": 675,
                       "match": "diffuse",
                       "name": "Diffuse",
                       "value": {
@@ -2257,7 +2499,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 428,
+                      "uid": 676,
                       "match": "specularIntensity",
                       "name": "Specular Intensity",
                       "value": {
@@ -2276,7 +2518,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 429,
+                      "uid": 677,
                       "match": "specularShininess",
                       "name": "Specular Shininess",
                       "value": {
@@ -2295,7 +2537,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 430,
+                      "uid": 678,
                       "match": "metal",
                       "name": "Metal",
                       "value": {
@@ -2318,11 +2560,11 @@
             }
           },
           {
-            "id": 384,
+            "id": 632,
             "name": "soldier_scream",
             "source": {
               "type": "Footage",
-              "item": 383
+              "item": 631
             },
             "label": "Lavender",
             "comment": "",
@@ -2349,11 +2591,11 @@
             "blend_mode": "Normal",
             "preserve_transparency": false,
             "track_matte": null,
-            "parent": 251,
+            "parent": 499,
             "markers": [],
             "auto_orient": "Off",
             "props": {
-              "uid": 385,
+              "uid": 633,
               "match": "layer",
               "name": "soldier_scream.png",
               "kind": {
@@ -2363,7 +2605,7 @@
               "children": [
                 {
                   "node": "Group",
-                  "uid": 386,
+                  "uid": 634,
                   "match": "masks",
                   "name": "Masks",
                   "kind": {
@@ -2374,7 +2616,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 387,
+                  "uid": 635,
                   "match": "effects",
                   "name": "Effects",
                   "kind": {
@@ -2385,7 +2627,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 396,
+                  "uid": 644,
                   "match": "transform",
                   "name": "Transform",
                   "kind": {
@@ -2395,7 +2637,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 388,
+                      "uid": 636,
                       "match": "anchor",
                       "name": "Anchor Point",
                       "value": {
@@ -2418,7 +2660,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 389,
+                      "uid": 637,
                       "match": "position",
                       "name": "Position",
                       "value": {
@@ -3853,7 +4095,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 390,
+                      "uid": 638,
                       "match": "scale",
                       "name": "Scale",
                       "value": {
@@ -5288,7 +5530,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 391,
+                      "uid": 639,
                       "match": "orientation",
                       "name": "Orientation",
                       "value": {
@@ -5311,7 +5553,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 392,
+                      "uid": 640,
                       "match": "rotationX",
                       "name": "X Rotation",
                       "value": {
@@ -5330,7 +5572,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 393,
+                      "uid": 641,
                       "match": "rotationY",
                       "name": "Y Rotation",
                       "value": {
@@ -5349,7 +5591,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 394,
+                      "uid": 642,
                       "match": "rotation",
                       "name": "Rotation",
                       "value": {
@@ -5368,7 +5610,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 395,
+                      "uid": 643,
                       "match": "opacity",
                       "name": "Opacity",
                       "value": {
@@ -5394,7 +5636,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 397,
+                  "uid": 645,
                   "match": "materialOptions",
                   "name": "Material Options",
                   "kind": {
@@ -5404,7 +5646,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 398,
+                      "uid": 646,
                       "match": "castsShadows",
                       "name": "Casts Shadows",
                       "value": {
@@ -5428,7 +5670,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 399,
+                      "uid": 647,
                       "match": "lightTransmission",
                       "name": "Light Transmission",
                       "value": {
@@ -5447,7 +5689,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 400,
+                      "uid": 648,
                       "match": "acceptsShadows",
                       "name": "Accepts Shadows",
                       "value": {
@@ -5471,7 +5713,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 401,
+                      "uid": 649,
                       "match": "acceptsLights",
                       "name": "Accepts Lights",
                       "value": {
@@ -5490,7 +5732,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 402,
+                      "uid": 650,
                       "match": "ambient",
                       "name": "Ambient",
                       "value": {
@@ -5509,7 +5751,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 403,
+                      "uid": 651,
                       "match": "diffuse",
                       "name": "Diffuse",
                       "value": {
@@ -5528,7 +5770,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 404,
+                      "uid": 652,
                       "match": "specularIntensity",
                       "name": "Specular Intensity",
                       "value": {
@@ -5547,7 +5789,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 405,
+                      "uid": 653,
                       "match": "specularShininess",
                       "name": "Specular Shininess",
                       "value": {
@@ -5566,7 +5808,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 406,
+                      "uid": 654,
                       "match": "metal",
                       "name": "Metal",
                       "value": {
@@ -5589,11 +5831,11 @@
             }
           },
           {
-            "id": 360,
+            "id": 608,
             "name": "soldier_idle",
             "source": {
               "type": "Footage",
-              "item": 359
+              "item": 607
             },
             "label": "Lavender",
             "comment": "",
@@ -5620,11 +5862,11 @@
             "blend_mode": "Normal",
             "preserve_transparency": false,
             "track_matte": null,
-            "parent": 251,
+            "parent": 499,
             "markers": [],
             "auto_orient": "Off",
             "props": {
-              "uid": 361,
+              "uid": 609,
               "match": "layer",
               "name": "soldier_idle.png",
               "kind": {
@@ -5634,7 +5876,7 @@
               "children": [
                 {
                   "node": "Group",
-                  "uid": 362,
+                  "uid": 610,
                   "match": "masks",
                   "name": "Masks",
                   "kind": {
@@ -5645,7 +5887,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 363,
+                  "uid": 611,
                   "match": "effects",
                   "name": "Effects",
                   "kind": {
@@ -5656,7 +5898,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 372,
+                  "uid": 620,
                   "match": "transform",
                   "name": "Transform",
                   "kind": {
@@ -5666,7 +5908,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 364,
+                      "uid": 612,
                       "match": "anchor",
                       "name": "Anchor Point",
                       "value": {
@@ -5689,7 +5931,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 365,
+                      "uid": 613,
                       "match": "position",
                       "name": "Position",
                       "value": {
@@ -5712,7 +5954,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 366,
+                      "uid": 614,
                       "match": "scale",
                       "name": "Scale",
                       "value": {
@@ -6337,7 +6579,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 367,
+                      "uid": 615,
                       "match": "orientation",
                       "name": "Orientation",
                       "value": {
@@ -6360,7 +6602,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 368,
+                      "uid": 616,
                       "match": "rotationX",
                       "name": "X Rotation",
                       "value": {
@@ -6379,7 +6621,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 369,
+                      "uid": 617,
                       "match": "rotationY",
                       "name": "Y Rotation",
                       "value": {
@@ -6398,7 +6640,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 370,
+                      "uid": 618,
                       "match": "rotation",
                       "name": "Rotation",
                       "value": {
@@ -6417,7 +6659,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 371,
+                      "uid": 619,
                       "match": "opacity",
                       "name": "Opacity",
                       "value": {
@@ -6443,7 +6685,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 373,
+                  "uid": 621,
                   "match": "materialOptions",
                   "name": "Material Options",
                   "kind": {
@@ -6453,7 +6695,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 374,
+                      "uid": 622,
                       "match": "castsShadows",
                       "name": "Casts Shadows",
                       "value": {
@@ -6477,7 +6719,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 375,
+                      "uid": 623,
                       "match": "lightTransmission",
                       "name": "Light Transmission",
                       "value": {
@@ -6496,7 +6738,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 376,
+                      "uid": 624,
                       "match": "acceptsShadows",
                       "name": "Accepts Shadows",
                       "value": {
@@ -6520,7 +6762,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 377,
+                      "uid": 625,
                       "match": "acceptsLights",
                       "name": "Accepts Lights",
                       "value": {
@@ -6539,7 +6781,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 378,
+                      "uid": 626,
                       "match": "ambient",
                       "name": "Ambient",
                       "value": {
@@ -6558,7 +6800,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 379,
+                      "uid": 627,
                       "match": "diffuse",
                       "name": "Diffuse",
                       "value": {
@@ -6577,7 +6819,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 380,
+                      "uid": 628,
                       "match": "specularIntensity",
                       "name": "Specular Intensity",
                       "value": {
@@ -6596,7 +6838,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 381,
+                      "uid": 629,
                       "match": "specularShininess",
                       "name": "Specular Shininess",
                       "value": {
@@ -6615,7 +6857,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 382,
+                      "uid": 630,
                       "match": "metal",
                       "name": "Metal",
                       "value": {
@@ -6638,11 +6880,11 @@
             }
           },
           {
-            "id": 336,
+            "id": 584,
             "name": "perseus_win",
             "source": {
               "type": "Footage",
-              "item": 335
+              "item": 583
             },
             "label": "Lavender",
             "comment": "",
@@ -6669,11 +6911,11 @@
             "blend_mode": "Normal",
             "preserve_transparency": false,
             "track_matte": null,
-            "parent": 251,
+            "parent": 499,
             "markers": [],
             "auto_orient": "Off",
             "props": {
-              "uid": 337,
+              "uid": 585,
               "match": "layer",
               "name": "perseus_win.png",
               "kind": {
@@ -6683,7 +6925,7 @@
               "children": [
                 {
                   "node": "Group",
-                  "uid": 338,
+                  "uid": 586,
                   "match": "masks",
                   "name": "Masks",
                   "kind": {
@@ -6694,7 +6936,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 339,
+                  "uid": 587,
                   "match": "effects",
                   "name": "Effects",
                   "kind": {
@@ -6705,7 +6947,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 348,
+                  "uid": 596,
                   "match": "transform",
                   "name": "Transform",
                   "kind": {
@@ -6715,7 +6957,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 340,
+                      "uid": 588,
                       "match": "anchor",
                       "name": "Anchor Point",
                       "value": {
@@ -6738,7 +6980,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 341,
+                      "uid": 589,
                       "match": "position",
                       "name": "Position",
                       "value": {
@@ -6761,7 +7003,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 342,
+                      "uid": 590,
                       "match": "scale",
                       "name": "Scale",
                       "value": {
@@ -7836,7 +8078,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 343,
+                      "uid": 591,
                       "match": "orientation",
                       "name": "Orientation",
                       "value": {
@@ -7859,7 +8101,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 344,
+                      "uid": 592,
                       "match": "rotationX",
                       "name": "X Rotation",
                       "value": {
@@ -7878,7 +8120,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 345,
+                      "uid": 593,
                       "match": "rotationY",
                       "name": "Y Rotation",
                       "value": {
@@ -7897,7 +8139,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 346,
+                      "uid": 594,
                       "match": "rotation",
                       "name": "Rotation",
                       "value": {
@@ -7916,7 +8158,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 347,
+                      "uid": 595,
                       "match": "opacity",
                       "name": "Opacity",
                       "value": {
@@ -7942,7 +8184,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 349,
+                  "uid": 597,
                   "match": "materialOptions",
                   "name": "Material Options",
                   "kind": {
@@ -7952,7 +8194,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 350,
+                      "uid": 598,
                       "match": "castsShadows",
                       "name": "Casts Shadows",
                       "value": {
@@ -7976,7 +8218,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 351,
+                      "uid": 599,
                       "match": "lightTransmission",
                       "name": "Light Transmission",
                       "value": {
@@ -7995,7 +8237,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 352,
+                      "uid": 600,
                       "match": "acceptsShadows",
                       "name": "Accepts Shadows",
                       "value": {
@@ -8019,7 +8261,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 353,
+                      "uid": 601,
                       "match": "acceptsLights",
                       "name": "Accepts Lights",
                       "value": {
@@ -8038,7 +8280,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 354,
+                      "uid": 602,
                       "match": "ambient",
                       "name": "Ambient",
                       "value": {
@@ -8057,7 +8299,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 355,
+                      "uid": 603,
                       "match": "diffuse",
                       "name": "Diffuse",
                       "value": {
@@ -8076,7 +8318,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 356,
+                      "uid": 604,
                       "match": "specularIntensity",
                       "name": "Specular Intensity",
                       "value": {
@@ -8095,7 +8337,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 357,
+                      "uid": 605,
                       "match": "specularShininess",
                       "name": "Specular Shininess",
                       "value": {
@@ -8114,7 +8356,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 358,
+                      "uid": 606,
                       "match": "metal",
                       "name": "Metal",
                       "value": {
@@ -8137,11 +8379,11 @@
             }
           },
           {
-            "id": 312,
+            "id": 560,
             "name": "perseus_hold",
             "source": {
               "type": "Footage",
-              "item": 311
+              "item": 559
             },
             "label": "Lavender",
             "comment": "",
@@ -8168,11 +8410,11 @@
             "blend_mode": "Normal",
             "preserve_transparency": false,
             "track_matte": null,
-            "parent": 251,
+            "parent": 499,
             "markers": [],
             "auto_orient": "Off",
             "props": {
-              "uid": 313,
+              "uid": 561,
               "match": "layer",
               "name": "perseus_hold.png",
               "kind": {
@@ -8182,7 +8424,7 @@
               "children": [
                 {
                   "node": "Group",
-                  "uid": 314,
+                  "uid": 562,
                   "match": "masks",
                   "name": "Masks",
                   "kind": {
@@ -8193,7 +8435,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 315,
+                  "uid": 563,
                   "match": "effects",
                   "name": "Effects",
                   "kind": {
@@ -8204,7 +8446,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 324,
+                  "uid": 572,
                   "match": "transform",
                   "name": "Transform",
                   "kind": {
@@ -8214,7 +8456,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 316,
+                      "uid": 564,
                       "match": "anchor",
                       "name": "Anchor Point",
                       "value": {
@@ -8237,7 +8479,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 317,
+                      "uid": 565,
                       "match": "position",
                       "name": "Position",
                       "value": {
@@ -8260,7 +8502,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 318,
+                      "uid": 566,
                       "match": "scale",
                       "name": "Scale",
                       "value": {
@@ -10745,7 +10987,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 319,
+                      "uid": 567,
                       "match": "orientation",
                       "name": "Orientation",
                       "value": {
@@ -10768,7 +11010,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 320,
+                      "uid": 568,
                       "match": "rotationX",
                       "name": "X Rotation",
                       "value": {
@@ -10787,7 +11029,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 321,
+                      "uid": 569,
                       "match": "rotationY",
                       "name": "Y Rotation",
                       "value": {
@@ -10806,7 +11048,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 322,
+                      "uid": 570,
                       "match": "rotation",
                       "name": "Rotation",
                       "value": {
@@ -12959,7 +13201,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 323,
+                      "uid": 571,
                       "match": "opacity",
                       "name": "Opacity",
                       "value": {
@@ -12985,7 +13227,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 325,
+                  "uid": 573,
                   "match": "materialOptions",
                   "name": "Material Options",
                   "kind": {
@@ -12995,7 +13237,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 326,
+                      "uid": 574,
                       "match": "castsShadows",
                       "name": "Casts Shadows",
                       "value": {
@@ -13019,7 +13261,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 327,
+                      "uid": 575,
                       "match": "lightTransmission",
                       "name": "Light Transmission",
                       "value": {
@@ -13038,7 +13280,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 328,
+                      "uid": 576,
                       "match": "acceptsShadows",
                       "name": "Accepts Shadows",
                       "value": {
@@ -13062,7 +13304,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 329,
+                      "uid": 577,
                       "match": "acceptsLights",
                       "name": "Accepts Lights",
                       "value": {
@@ -13081,7 +13323,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 330,
+                      "uid": 578,
                       "match": "ambient",
                       "name": "Ambient",
                       "value": {
@@ -13100,7 +13342,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 331,
+                      "uid": 579,
                       "match": "diffuse",
                       "name": "Diffuse",
                       "value": {
@@ -13119,7 +13361,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 332,
+                      "uid": 580,
                       "match": "specularIntensity",
                       "name": "Specular Intensity",
                       "value": {
@@ -13138,7 +13380,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 333,
+                      "uid": 581,
                       "match": "specularShininess",
                       "name": "Specular Shininess",
                       "value": {
@@ -13157,7 +13399,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 334,
+                      "uid": 582,
                       "match": "metal",
                       "name": "Metal",
                       "value": {
@@ -13180,11 +13422,11 @@
             }
           },
           {
-            "id": 288,
+            "id": 536,
             "name": "perseus_sneak",
             "source": {
               "type": "Footage",
-              "item": 287
+              "item": 535
             },
             "label": "Lavender",
             "comment": "",
@@ -13211,11 +13453,11 @@
             "blend_mode": "Normal",
             "preserve_transparency": false,
             "track_matte": null,
-            "parent": 251,
+            "parent": 499,
             "markers": [],
             "auto_orient": "Off",
             "props": {
-              "uid": 289,
+              "uid": 537,
               "match": "layer",
               "name": "perseus_sneak.png",
               "kind": {
@@ -13225,7 +13467,7 @@
               "children": [
                 {
                   "node": "Group",
-                  "uid": 290,
+                  "uid": 538,
                   "match": "masks",
                   "name": "Masks",
                   "kind": {
@@ -13236,7 +13478,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 291,
+                  "uid": 539,
                   "match": "effects",
                   "name": "Effects",
                   "kind": {
@@ -13247,7 +13489,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 300,
+                  "uid": 548,
                   "match": "transform",
                   "name": "Transform",
                   "kind": {
@@ -13257,7 +13499,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 292,
+                      "uid": 540,
                       "match": "anchor",
                       "name": "Anchor Point",
                       "value": {
@@ -13280,7 +13522,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 293,
+                      "uid": 541,
                       "match": "position",
                       "name": "Position",
                       "value": {
@@ -14205,7 +14447,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 294,
+                      "uid": 542,
                       "match": "scale",
                       "name": "Scale",
                       "value": {
@@ -14228,7 +14470,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 295,
+                      "uid": 543,
                       "match": "orientation",
                       "name": "Orientation",
                       "value": {
@@ -14251,7 +14493,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 296,
+                      "uid": 544,
                       "match": "rotationX",
                       "name": "X Rotation",
                       "value": {
@@ -14270,7 +14512,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 297,
+                      "uid": 545,
                       "match": "rotationY",
                       "name": "Y Rotation",
                       "value": {
@@ -14289,7 +14531,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 298,
+                      "uid": 546,
                       "match": "rotation",
                       "name": "Rotation",
                       "value": {
@@ -15090,7 +15332,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 299,
+                      "uid": 547,
                       "match": "opacity",
                       "name": "Opacity",
                       "value": {
@@ -15116,7 +15358,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 301,
+                  "uid": 549,
                   "match": "materialOptions",
                   "name": "Material Options",
                   "kind": {
@@ -15126,7 +15368,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 302,
+                      "uid": 550,
                       "match": "castsShadows",
                       "name": "Casts Shadows",
                       "value": {
@@ -15150,7 +15392,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 303,
+                      "uid": 551,
                       "match": "lightTransmission",
                       "name": "Light Transmission",
                       "value": {
@@ -15169,7 +15411,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 304,
+                      "uid": 552,
                       "match": "acceptsShadows",
                       "name": "Accepts Shadows",
                       "value": {
@@ -15193,7 +15435,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 305,
+                      "uid": 553,
                       "match": "acceptsLights",
                       "name": "Accepts Lights",
                       "value": {
@@ -15212,7 +15454,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 306,
+                      "uid": 554,
                       "match": "ambient",
                       "name": "Ambient",
                       "value": {
@@ -15231,7 +15473,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 307,
+                      "uid": 555,
                       "match": "diffuse",
                       "name": "Diffuse",
                       "value": {
@@ -15250,7 +15492,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 308,
+                      "uid": 556,
                       "match": "specularIntensity",
                       "name": "Specular Intensity",
                       "value": {
@@ -15269,7 +15511,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 309,
+                      "uid": 557,
                       "match": "specularShininess",
                       "name": "Specular Shininess",
                       "value": {
@@ -15288,7 +15530,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 310,
+                      "uid": 558,
                       "match": "metal",
                       "name": "Metal",
                       "value": {
@@ -15311,11 +15553,11 @@
             }
           },
           {
-            "id": 264,
+            "id": 512,
             "name": "bg",
             "source": {
               "type": "Footage",
-              "item": 263
+              "item": 511
             },
             "label": "Lavender",
             "comment": "",
@@ -15342,13 +15584,13 @@
             "blend_mode": "Normal",
             "preserve_transparency": false,
             "track_matte": null,
-            "parent": 251,
+            "parent": 499,
             "markers": [],
             "auto_orient": "Off",
             "props": {
-              "uid": 265,
+              "uid": 513,
               "match": "layer",
-              "name": "01_bg_lair.png",
+              "name": "01_bg_lair_v2.png",
               "kind": {
                 "kind": "Plain"
               },
@@ -15356,7 +15598,7 @@
               "children": [
                 {
                   "node": "Group",
-                  "uid": 266,
+                  "uid": 514,
                   "match": "masks",
                   "name": "Masks",
                   "kind": {
@@ -15367,7 +15609,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 267,
+                  "uid": 515,
                   "match": "effects",
                   "name": "Effects",
                   "kind": {
@@ -15378,7 +15620,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 276,
+                  "uid": 524,
                   "match": "transform",
                   "name": "Transform",
                   "kind": {
@@ -15388,7 +15630,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 268,
+                      "uid": 516,
                       "match": "anchor",
                       "name": "Anchor Point",
                       "value": {
@@ -15411,7 +15653,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 269,
+                      "uid": 517,
                       "match": "position",
                       "name": "Position",
                       "value": {
@@ -15434,7 +15676,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 270,
+                      "uid": 518,
                       "match": "scale",
                       "name": "Scale",
                       "value": {
@@ -15457,7 +15699,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 271,
+                      "uid": 519,
                       "match": "orientation",
                       "name": "Orientation",
                       "value": {
@@ -15480,7 +15722,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 272,
+                      "uid": 520,
                       "match": "rotationX",
                       "name": "X Rotation",
                       "value": {
@@ -15499,7 +15741,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 273,
+                      "uid": 521,
                       "match": "rotationY",
                       "name": "Y Rotation",
                       "value": {
@@ -15518,7 +15760,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 274,
+                      "uid": 522,
                       "match": "rotation",
                       "name": "Rotation",
                       "value": {
@@ -15537,7 +15779,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 275,
+                      "uid": 523,
                       "match": "opacity",
                       "name": "Opacity",
                       "value": {
@@ -15563,7 +15805,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 277,
+                  "uid": 525,
                   "match": "materialOptions",
                   "name": "Material Options",
                   "kind": {
@@ -15573,7 +15815,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 278,
+                      "uid": 526,
                       "match": "castsShadows",
                       "name": "Casts Shadows",
                       "value": {
@@ -15597,7 +15839,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 279,
+                      "uid": 527,
                       "match": "lightTransmission",
                       "name": "Light Transmission",
                       "value": {
@@ -15616,7 +15858,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 280,
+                      "uid": 528,
                       "match": "acceptsShadows",
                       "name": "Accepts Shadows",
                       "value": {
@@ -15640,7 +15882,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 281,
+                      "uid": 529,
                       "match": "acceptsLights",
                       "name": "Accepts Lights",
                       "value": {
@@ -15659,7 +15901,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 282,
+                      "uid": 530,
                       "match": "ambient",
                       "name": "Ambient",
                       "value": {
@@ -15678,7 +15920,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 283,
+                      "uid": 531,
                       "match": "diffuse",
                       "name": "Diffuse",
                       "value": {
@@ -15697,7 +15939,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 284,
+                      "uid": 532,
                       "match": "specularIntensity",
                       "name": "Specular Intensity",
                       "value": {
@@ -15716,7 +15958,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 285,
+                      "uid": 533,
                       "match": "specularShininess",
                       "name": "Specular Shininess",
                       "value": {
@@ -15735,7 +15977,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 286,
+                      "uid": 534,
                       "match": "metal",
                       "name": "Metal",
                       "value": {
@@ -15758,7 +16000,7 @@
             }
           },
           {
-            "id": 251,
+            "id": 499,
             "name": "cam",
             "source": {
               "type": "Null"
@@ -15792,7 +16034,7 @@
             "markers": [],
             "auto_orient": "Off",
             "props": {
-              "uid": 252,
+              "uid": 500,
               "match": "layer",
               "name": "Null 1",
               "kind": {
@@ -15802,7 +16044,7 @@
               "children": [
                 {
                   "node": "Group",
-                  "uid": 253,
+                  "uid": 501,
                   "match": "effects",
                   "name": "Effects",
                   "kind": {
@@ -15813,7 +16055,7 @@
                 },
                 {
                   "node": "Group",
-                  "uid": 262,
+                  "uid": 510,
                   "match": "transform",
                   "name": "Transform",
                   "kind": {
@@ -15823,7 +16065,7 @@
                   "children": [
                     {
                       "node": "Prop",
-                      "uid": 254,
+                      "uid": 502,
                       "match": "anchor",
                       "name": "Anchor Point",
                       "value": {
@@ -15846,7 +16088,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 255,
+                      "uid": 503,
                       "match": "position",
                       "name": "Position",
                       "value": {
@@ -20221,7 +20463,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 256,
+                      "uid": 504,
                       "match": "scale",
                       "name": "Scale",
                       "value": {
@@ -24596,7 +24838,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 257,
+                      "uid": 505,
                       "match": "orientation",
                       "name": "Orientation",
                       "value": {
@@ -24619,7 +24861,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 258,
+                      "uid": 506,
                       "match": "rotationX",
                       "name": "X Rotation",
                       "value": {
@@ -24638,7 +24880,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 259,
+                      "uid": 507,
                       "match": "rotationY",
                       "name": "Y Rotation",
                       "value": {
@@ -24657,7 +24899,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 260,
+                      "uid": 508,
                       "match": "rotation",
                       "name": "Rotation",
                       "value": {
@@ -24676,7 +24918,7 @@
                     },
                     {
                       "node": "Prop",
-                      "uid": 261,
+                      "uid": 509,
                       "match": "opacity",
                       "name": "Opacity",
                       "value": {
@@ -24757,15 +24999,15 @@
         }
       }
     },
-    "263": {
-      "id": 263,
-      "name": "01_bg_lair.png",
+    "511": {
+      "id": 511,
+      "name": "01_bg_lair_v2.png",
       "label": "Lavender",
       "comment": "",
       "parent": null,
       "kind": {
         "type": "Footage",
-        "path": "C:/projects/claude/ArtCraft/sandbox/history/gemini/sheets/01_bg_lair.png",
+        "path": "C:/projects/claude/ArtCraft/sandbox/history/gemini/sheets/01_bg_lair_v2.png",
         "kind": "Still",
         "width": 2752,
         "height": 1536,
@@ -24785,12 +25027,12 @@
           0.0
         ],
         "loop_count": 1,
-        "codec": "PNG",
+        "codec": "JPG",
         "missing": false
       }
     },
-    "287": {
-      "id": 287,
+    "535": {
+      "id": 535,
       "name": "perseus_sneak.png",
       "label": "Lavender",
       "comment": "",
@@ -24821,8 +25063,8 @@
         "missing": false
       }
     },
-    "311": {
-      "id": 311,
+    "559": {
+      "id": 559,
       "name": "perseus_hold.png",
       "label": "Lavender",
       "comment": "",
@@ -24853,8 +25095,8 @@
         "missing": false
       }
     },
-    "335": {
-      "id": 335,
+    "583": {
+      "id": 583,
       "name": "perseus_win.png",
       "label": "Lavender",
       "comment": "",
@@ -24885,8 +25127,8 @@
         "missing": false
       }
     },
-    "359": {
-      "id": 359,
+    "607": {
+      "id": 607,
       "name": "soldier_idle.png",
       "label": "Lavender",
       "comment": "",
@@ -24917,8 +25159,8 @@
         "missing": false
       }
     },
-    "383": {
-      "id": 383,
+    "631": {
+      "id": 631,
       "name": "soldier_scream.png",
       "label": "Lavender",
       "comment": "",
@@ -24949,8 +25191,8 @@
         "missing": false
       }
     },
-    "407": {
-      "id": 407,
+    "655": {
+      "id": 655,
       "name": "soldier_stone.png",
       "label": "Lavender",
       "comment": "",
@@ -24981,8 +25223,8 @@
         "missing": false
       }
     },
-    "435": {
-      "id": 435,
+    "683": {
+      "id": 683,
       "name": "flash",
       "label": "Red",
       "comment": "",
@@ -25000,5 +25242,5 @@
       }
     }
   },
-  "next_id": 498
+  "next_id": 746
 }

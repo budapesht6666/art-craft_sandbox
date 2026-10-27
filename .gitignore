@@ -34,3 +34,4 @@ sandbox/**/cut/**/_index.png
 # История: сравнение с кадром чужого ролика — только локально; .jfif — дубли PNG из Gemini
 sandbox/history/gemini/out/compare_*.png
 sandbox/history/gemini/sheets/*.jfif
+sandbox/history/gemini/sheets/_old/

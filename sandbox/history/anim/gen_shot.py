@@ -10,7 +10,7 @@ from pathlib import Path
 
 HERE = Path(__file__).parent
 ASSETS = HERE / "ec" / "assets"
-BG = HERE.parent / "gemini" / "sheets" / "01_bg_lair.png"
+BG = HERE.parent / "gemini" / "sheets" / "01_bg_lair_v2.png"
 FPS, DUR = 24, 6.0
 W, H = 1920, 1080
 A = json.loads((ASSETS / "anchors.json").read_text(encoding="utf-8"))

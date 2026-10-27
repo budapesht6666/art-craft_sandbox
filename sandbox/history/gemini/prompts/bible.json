@@ -1,0 +1,12 @@
+{
+ "cast_style": "CAST STYLE for the whole channel: simple round-headed cartoon people. Large white egg-shaped head, about one third of the body height, no hair unless stated. Two small solid black oval eyes, thick expressive black eyebrows, a small simple mouth, a tiny nose or none, no visible ears. Skin pure white with a bold black outline. Small simple bodies with slightly thick limbs and round mitten hands. Exaggerated comedic expressions. Ancient Greek clothing: tunics, sandals, bronze helmets.",
+ "eyes_rule": "In every drawing the eyes stay two small solid black ovals: no white eyeballs, no eyelids. Show emotion with the eyebrows, the mouth and the whole body.",
+ "sheet_style": "Clean professional 2D cartoon style for an adult comedy history channel. Bold confident black outlines with slight natural line-weight variation. Flat colors with only light cross-hatching in the shadows: no gradients, no soft shading, no texture, no cast shadows on the ground. Pure white (#FFFFFF) background everywhere, no paper texture, no vignette.",
+ "bg_style": "Style: bold dark brown-black ink outlines with natural line-weight variation, loose cross-hatching in the shadows, slightly muted warm painted colors, soft directional light, clear depth with foreground, middle ground and background, subtle paper grain. No living characters, no people, no statues, no figures of any kind, no animals, no text, no letters, no logo, no watermark, no frame.",
+ "characters": {
+  "perseus": "PERSEUS: a young hero in a bronze Corinthian helmet with a tall red horsehair crest, worn pushed up high on top of his head so his whole white egg-shaped face is visible, a cream tunic with a brown leather belt, a red cape, sandals, a round polished bronze shield and a short sword in a scabbard.",
+  "soldier": "THE SOLDIER: an ordinary Greek soldier in a blue tunic and a plain open-faced grey iron helmet.",
+  "medusa_head": "MEDUSA'S HEAD: green skin, angry glowing yellow eyes, a frown with small fangs, hair made of a dozen green snakes."
+ },
+ "refs": {"perseus": "sheets/00_cast_model_v3.png", "soldier": "sheets/00_cast_model_v3.png"}
+}

@@ -1,0 +1,8 @@
+[
+ {"name": "01_bg_lair_v2", "kind": "edit", "src": "sheets/01_bg_lair.png",
+  "prompt": "Same background, same style and lighting. Remove the three stone statues completely and fill their place with rocks, dry grass and ground that match the rest of the scene. No figures of any kind. Keep everything else exactly the same."},
+ {"name": "03_cast_test", "kind": "sheet", "chars": ["perseus", "soldier"], "grid": [4, 2],
+  "rows": [
+   "(1) Perseus facing the viewer, pointing to the right with one arm, explaining something with a smug half-smile; (2) Perseus shrugging, both mitten hands up, eyebrows raised, confused; (3) Perseus facepalming with one hand, exasperated; (4) Perseus running fast to the right in side view, cape flying behind, determined.",
+   "(5) the soldier saluting stiffly, chest out, overly serious; (6) the soldier asleep standing up, leaning on a spear, mouth open, a drool drop; (7) the soldier laughing hard, holding his belly, eyes squeezed shut; (8) the soldier walking to the left in side view with a spear on his shoulder, bored."]}
+]
